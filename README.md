@@ -96,3 +96,92 @@ Correção defensiva dos botões:
 - Mudar tema.
 
 Também mantém todos os ícones PWA na raiz do repositório, sem pasta `/icons`.
+
+
+## v3.5.3 · Critical Init Fix
+
+Correção crítica:
+
+- criada a função `copyPlan()`, que estava ausente;
+- protegido o `init()` com `try/catch`;
+- religados os botões principais fora do `init()`;
+- corrigida alternância de tema para `imperial/parchment`;
+- mantidos ícones na raiz do repositório.
+
+
+## v3.5.4 · Theme Definitive Fix
+
+Correção definitiva do botão de tema:
+
+- remove o duplo toggle que fazia o tema mudar e voltar imediatamente;
+- usa captura de evento com `stopImmediatePropagation`;
+- limpa `onclick` antigo dos botões `#theme` e `#themeFab`;
+- aplica `data-theme` e classes de fallback `theme-imperial/theme-parchment`;
+- atualiza o cache do service worker para evitar versão antiga presa no celular.
+
+
+## v3.5.5 · Theme and Calligraphy Fix
+
+Correções principais:
+
+- Tema claro agora muda visualmente a página inteira, não apenas a mensagem.
+- Sobrescrita real de variáveis, fundo, cards, textos, botões, inputs e quadro de escrita.
+- Seção de caligrafia reorganizada como laboratório guiado.
+- Instruções agora aparecem antes da animação.
+- Botões de repetir animação e próximo caractere dentro do laboratório.
+- Service worker atualizado para invalidar cache antigo.
+
+
+## v3.5.6 · Counters Fix
+
+Correção dos contadores da home:
+
+- contagem de ideogramas independente do `init()`;
+- contagem de combinações considerando todos os datasets adicionados;
+- contagem de gramática independente;
+- fallback para renderizar grids principais caso algum trecho do `init()` falhe;
+- service worker atualizado para invalidar cache antigo.
+
+
+## v3.5.7 · Final Theme Fix
+
+Correção final do tema:
+
+- camada CSS final com alta especificidade e `!important`;
+- troca visual real em body, cards, textos, botões, inputs, menu, stats e caligrafia;
+- controlador único final `HanVerseThemeFinal`;
+- atualização do cache do service worker para v3.5.7.
+
+
+## v3.5.8 · System Design Restore
+
+Correções:
+
+- restaura o system design anterior, removendo o override agressivo da v3.5.7;
+- corrige o botão X do modal de decomposição;
+- corrige clique fora do modal para fechar;
+- corrige ESC para fechar modal;
+- estabiliza o botão de tema sem deformar o layout;
+- atualiza cache do service worker.
+
+
+## v3.5.9 · Combos Render Fix
+
+Correção:
+
+- restaura os cards de combinações abaixo dos títulos;
+- renderiza `comboGrid`, `urbanComboGrid`, `practicalComboGrid`, `expandedV33ComboGrid`, `expandedV34ComboGrid` e `acceleratedV35ComboGrid`;
+- preserva o system design restaurado na v3.5.8;
+- atualiza o cache do service worker.
+
+
+## v3.6.0 · Light Mode and Combo Anatomy
+
+Melhorias:
+
+- modo claro refinado sem destruir o system design original;
+- contraste melhorado em cards, botões, menu, inputs e textos;
+- combinações agora mostram a anatomia da palavra:
+  - caractere + caractere = palavra nova;
+  - significado de cada parte;
+  - lógica pedagógica da formação.

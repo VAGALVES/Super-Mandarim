@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<meta name="theme-color" content="#7F1D1D" />
-<title>HanVerse VS · MVP 3.5.2 Button Fix</title>
-<!-- v3.5.2: correção defensiva dos botões Copiar Plano, Instalar Agora e Tema -->
+<meta name="theme-color" content="#7F1D1D" id="meta-theme" />
+<title>HanVerse VS · MVP 3.6.0 Light Mode and Combo Anatomy</title>
+<!-- v3.6.0: modo claro refinado + anatomia das combinações -->
 <link rel="manifest" href="./manifest.webmanifest" />
 <link rel="icon" type="image/png" sizes="32x32" href="./icon-32.png" />
 <link rel="icon" type="image/png" sizes="192x192" href="./icon-192.png" />
@@ -629,13 +629,717 @@ display:grid;place-items:center}
 .install-banner[hidden]{display:none !important}
 .install-banner.show{display:block !important}
 
+
+/* v3.5.4 · Theme definitive fallback */
+html.theme-imperial{
+  color-scheme:dark;
+}
+html.theme-parchment{
+  color-scheme:light;
+}
+html.theme-parchment body{
+  background:linear-gradient(135deg,#FFF8E7,#F6E7C8 60%,#EAD7AA) !important;
+  color:#111827 !important;
+}
+html.theme-imperial body{
+  background:radial-gradient(circle at top left,rgba(212,175,55,.18),transparent 28%),radial-gradient(circle at top right,rgba(185,28,28,.30),transparent 34%),linear-gradient(135deg,#080A0F,#230B0B 58%,#450A0A) !important;
+  color:#FFF8E7 !important;
+}
+
+
+/* v3.5.5 · Real theme engine */
+html[data-theme="imperial"],
+html.theme-imperial{
+  color-scheme:dark;
+}
+
+html[data-theme="parchment"],
+html.theme-parchment{
+  color-scheme:light;
+  --bg:#FFF8E7;
+  --bg2:#F6E7C8;
+  --surface:rgba(255,255,255,.76);
+  --surface2:rgba(255,248,231,.86);
+  --surface3:rgba(246,231,200,.92);
+  --text:#1B1308;
+  --text2:#4B3210;
+  --text3:#7A5518;
+  --muted:#7A5518;
+  --input:rgba(255,255,255,.82);
+  --border:rgba(138,79,0,.20);
+  --line:rgba(138,79,0,.22);
+  --gold:#B87700;
+  --gold-soft:#9A5A00;
+  --red:#A30F12;
+  --red-700:#B91C1C;
+  --red-950:#7F1D1D;
+}
+
+html[data-theme="imperial"] body,
+html.theme-imperial body{
+  background:
+    radial-gradient(circle at top left,rgba(212,175,55,.18),transparent 28%),
+    radial-gradient(circle at top right,rgba(185,28,28,.30),transparent 34%),
+    linear-gradient(135deg,#080A0F,#230B0B 58%,#450A0A) !important;
+  color:#FFF8E7 !important;
+}
+
+html[data-theme="parchment"] body,
+html.theme-parchment body{
+  background:
+    radial-gradient(circle at top left,rgba(184,119,0,.18),transparent 32%),
+    radial-gradient(circle at top right,rgba(185,28,28,.12),transparent 36%),
+    linear-gradient(135deg,#FFF8E7,#F6E7C8 62%,#EAD7AA) !important;
+  color:#1B1308 !important;
+}
+
+html[data-theme="parchment"] .shell,
+html.theme-parchment .shell{
+  color:#1B1308 !important;
+}
+
+html[data-theme="parchment"] .card,
+html[data-theme="parchment"] .hero,
+html[data-theme="parchment"] .section,
+html[data-theme="parchment"] .modal-card,
+html[data-theme="parchment"] .mobile-nav,
+html.theme-parchment .card,
+html.theme-parchment .hero,
+html.theme-parchment .section,
+html.theme-parchment .modal-card,
+html.theme-parchment .mobile-nav{
+  background:linear-gradient(135deg,rgba(255,255,255,.78),rgba(255,248,231,.86)) !important;
+  border-color:rgba(138,79,0,.22) !important;
+  box-shadow:0 20px 70px rgba(92,58,0,.10) !important;
+}
+
+html[data-theme="parchment"] h1,
+html[data-theme="parchment"] h2,
+html[data-theme="parchment"] h3,
+html[data-theme="parchment"] .display,
+html.theme-parchment h1,
+html.theme-parchment h2,
+html.theme-parchment h3,
+html.theme-parchment .display{
+  color:#1B1308 !important;
+}
+
+html[data-theme="parchment"] p,
+html[data-theme="parchment"] .desc,
+html[data-theme="parchment"] .muted,
+html[data-theme="parchment"] .small,
+html.theme-parchment p,
+html.theme-parchment .desc,
+html.theme-parchment .muted,
+html.theme-parchment .small{
+  color:#4B3210 !important;
+}
+
+html[data-theme="parchment"] .kicker,
+html[data-theme="parchment"] .version,
+html.theme-parchment .kicker,
+html.theme-parchment .version{
+  color:#8A4F00 !important;
+  background:rgba(184,119,0,.10) !important;
+  border-color:rgba(138,79,0,.28) !important;
+}
+
+html[data-theme="parchment"] input,
+html[data-theme="parchment"] select,
+html[data-theme="parchment"] textarea,
+html.theme-parchment input,
+html.theme-parchment select,
+html.theme-parchment textarea{
+  background:rgba(255,255,255,.88) !important;
+  color:#1B1308 !important;
+  border-color:rgba(138,79,0,.24) !important;
+}
+
+html[data-theme="parchment"] .btn,
+html[data-theme="parchment"] button,
+html.theme-parchment .btn,
+html.theme-parchment button{
+  border-color:rgba(138,79,0,.28);
+}
+
+html[data-theme="parchment"] .btn.gold,
+html[data-theme="parchment"] .mode-pill.active,
+html.theme-parchment .btn.gold,
+html.theme-parchment .mode-pill.active{
+  background:linear-gradient(135deg,#F2C94C,#B87700) !important;
+  color:#2A1200 !important;
+}
+
+html[data-theme="parchment"] .theme-fab,
+html.theme-parchment .theme-fab{
+  background:linear-gradient(135deg,#F2C94C,#B87700) !important;
+  color:#2A1200 !important;
+}
+
+html[data-theme="parchment"] .char,
+html[data-theme="parchment"] .suggest-char,
+html[data-theme="parchment"] .sentence,
+html.theme-parchment .char,
+html.theme-parchment .suggest-char,
+html.theme-parchment .sentence{
+  color:#8A4F00 !important;
+}
+
+html[data-theme="parchment"] .stroke-board,
+html.theme-parchment .stroke-board{
+  background:
+    linear-gradient(45deg,transparent 49%,rgba(185,28,28,.18) 50%,transparent 51%),
+    linear-gradient(-45deg,transparent 49%,rgba(185,28,28,.18) 50%,transparent 51%),
+    linear-gradient(90deg,transparent 49%,rgba(138,79,0,.24) 50%,transparent 51%),
+    linear-gradient(0deg,transparent 49%,rgba(138,79,0,.24) 50%,transparent 51%),
+    rgba(255,255,255,.55) !important;
+  border-color:rgba(138,79,0,.30) !important;
+}
+
+/* v3.5.5 · Guided calligraphy lab */
+.calligraphy-lab{
+  display:grid;
+  grid-template-columns:minmax(290px,.9fr) minmax(330px,1.1fr);
+  gap:18px;
+  align-items:start;
+}
+.calligraphy-info{
+  position:sticky;
+  top:18px;
+}
+.calligraphy-hero{
+  display:grid;
+  grid-template-columns:96px 1fr;
+  gap:14px;
+  align-items:center;
+  margin-bottom:16px;
+}
+.practice-char-mini{
+  width:96px;
+  height:96px;
+  display:grid;
+  place-items:center;
+  border-radius:24px;
+  border:1px solid rgba(212,175,55,.35);
+  background:
+    linear-gradient(45deg,transparent 49%,rgba(185,28,28,.22) 50%,transparent 51%),
+    linear-gradient(-45deg,transparent 49%,rgba(185,28,28,.22) 50%,transparent 51%),
+    linear-gradient(90deg,transparent 49%,rgba(212,175,55,.22) 50%,transparent 51%),
+    linear-gradient(0deg,transparent 49%,rgba(212,175,55,.22) 50%,transparent 51%),
+    rgba(255,248,231,.04);
+  color:var(--gold-soft);
+  font-family:var(--display);
+  font-size:3.8rem;
+  line-height:1;
+}
+.practice-meta{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin:10px 0 16px;
+}
+.practice-chip{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  padding:8px 10px;
+  border-radius:999px;
+  border:1px solid rgba(212,175,55,.22);
+  background:rgba(212,175,55,.08);
+  color:var(--text2);
+  font-weight:800;
+  font-size:.84rem;
+}
+.practice-guide-title{
+  margin:16px 0 10px;
+  font-family:var(--display);
+  font-size:1.35rem;
+}
+.practice-steps{
+  display:grid;
+  gap:10px;
+}
+.practice-step{
+  display:grid;
+  grid-template-columns:42px 1fr;
+  gap:10px;
+  align-items:start;
+  padding:12px;
+  border:1px solid rgba(246,231,200,.12);
+  border-radius:18px;
+  background:rgba(255,248,231,.04);
+}
+.practice-step b{
+  width:42px;
+  height:42px;
+  display:grid;
+  place-items:center;
+  border-radius:14px;
+  background:linear-gradient(135deg,var(--red-700),var(--red-950));
+  color:var(--gold-soft);
+}
+.practice-step strong{
+  display:block;
+  margin-bottom:4px;
+  color:var(--text);
+}
+.practice-step span{
+  color:var(--text2);
+  line-height:1.45;
+}
+.calligraphy-actions{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin-top:14px;
+}
+.calligraphy-animation-panel .stroke-anim-card{
+  margin-top:0;
+}
+.calligraphy-animation-panel .stroke-board{
+  min-height:420px;
+}
+.calligraphy-animation-panel .stroke-hanzi-writer{
+  width:min(420px,88vw);
+  height:min(420px,88vw);
+}
+.calligraphy-animation-panel .stroke-tip{
+  font-size:1rem;
+  line-height:1.45;
+}
+html[data-theme="parchment"] .practice-step,
+html.theme-parchment .practice-step{
+  background:rgba(255,255,255,.55);
+  border-color:rgba(138,79,0,.18);
+}
+html[data-theme="parchment"] .practice-chip,
+html[data-theme="parchment"] .practice-step span,
+html.theme-parchment .practice-chip,
+html.theme-parchment .practice-step span{
+  color:#5C3A00;
+}
+html[data-theme="parchment"] .practice-step strong,
+html.theme-parchment .practice-step strong{
+  color:#2A1200;
+}
+@media(max-width:900px){
+  .calligraphy-lab{grid-template-columns:1fr;}
+  .calligraphy-info{position:static;}
+  .calligraphy-animation-panel .stroke-board{min-height:330px;}
+}
+@media(max-width:560px){
+  .calligraphy-hero{grid-template-columns:76px 1fr;}
+  .practice-char-mini{
+    width:76px;height:76px;font-size:3rem;border-radius:20px;
+  }
+  .practice-step{grid-template-columns:36px 1fr;padding:10px;}
+  .practice-step b{width:36px;height:36px;border-radius:12px;}
+  .calligraphy-animation-panel .stroke-board{min-height:310px;}
+  .calligraphy-animation-panel .stroke-hanzi-writer{
+    width:min(310px,86vw);
+    height:min(310px,86vw);
+  }
+}
+
+
+/* v3.5.8: bloco agressivo v3.5.7 removido para restaurar o system design original */
+
+/* v3.5.8 · System Design Restore
+   Mantém o design original imperial e aplica apenas um tema claro leve, sem sobrescrever toda a identidade visual. */
+html[data-theme="imperial"]{
+  color-scheme:dark;
+}
+html[data-theme="parchment"]{
+  color-scheme:light;
+  --bg:#FFF8E7;
+  --surface:rgba(255,255,255,.74);
+  --surface2:rgba(255,248,231,.84);
+  --surface3:rgba(246,231,200,.90);
+  --text:#201304;
+  --text2:#5C3A00;
+  --text3:#8A5A16;
+  --input:rgba(255,255,255,.86);
+  --gold:#B87700;
+  --gold-soft:#8A4F00;
+  --red:#B91C1C;
+}
+
+html[data-theme="parchment"] body{
+  background:
+    radial-gradient(circle at top left,rgba(184,119,0,.16),transparent 30%),
+    radial-gradient(circle at top right,rgba(185,28,28,.10),transparent 35%),
+    linear-gradient(135deg,#FFF8E7,#F6E7C8 65%,#EAD7AA) !important;
+  color:#201304;
+}
+
+html[data-theme="parchment"] .hero,
+html[data-theme="parchment"] .section,
+html[data-theme="parchment"] .card,
+html[data-theme="parchment"] .modal-card,
+html[data-theme="parchment"] .mobile-nav,
+html[data-theme="parchment"] .lab-card,
+html[data-theme="parchment"] .install-banner-card{
+  background:linear-gradient(135deg,rgba(255,255,255,.74),rgba(255,248,231,.86)) !important;
+  border-color:rgba(138,79,0,.20) !important;
+}
+
+html[data-theme="parchment"] h1,
+html[data-theme="parchment"] h2,
+html[data-theme="parchment"] h3{
+  color:#201304 !important;
+}
+
+html[data-theme="parchment"] p,
+html[data-theme="parchment"] .desc,
+html[data-theme="parchment"] .muted{
+  color:#5C3A00 !important;
+}
+
+html[data-theme="parchment"] .char,
+html[data-theme="parchment"] .sentence,
+html[data-theme="parchment"] .suggest-char,
+html[data-theme="parchment"] .practice-char-mini{
+  color:#8A4F00 !important;
+}
+
+html[data-theme="parchment"] .kicker,
+html[data-theme="parchment"] .version,
+html[data-theme="parchment"] .tag,
+html[data-theme="parchment"] .practice-chip{
+  color:#8A4F00 !important;
+  background:rgba(184,119,0,.10) !important;
+  border-color:rgba(138,79,0,.24) !important;
+}
+
+html[data-theme="parchment"] input,
+html[data-theme="parchment"] select,
+html[data-theme="parchment"] textarea{
+  background:rgba(255,255,255,.86) !important;
+  color:#201304 !important;
+  border-color:rgba(138,79,0,.22) !important;
+}
+
+html[data-theme="parchment"] .btn.gold,
+html[data-theme="parchment"] .theme-fab{
+  background:linear-gradient(135deg,#F2C94C,#B87700) !important;
+  color:#2A1200 !important;
+}
+
+html[data-theme="parchment"] .stroke-board{
+  background:
+    linear-gradient(45deg,transparent 49%,rgba(185,28,28,.16) 50%,transparent 51%),
+    linear-gradient(-45deg,transparent 49%,rgba(185,28,28,.16) 50%,transparent 51%),
+    linear-gradient(90deg,transparent 49%,rgba(138,79,0,.22) 50%,transparent 51%),
+    linear-gradient(0deg,transparent 49%,rgba(138,79,0,.22) 50%,transparent 51%),
+    rgba(255,255,255,.48) !important;
+}
+
+/* Modal close fix */
+.modal.open{
+  display:flex !important;
+}
+.modal-card{
+  position:relative;
+}
+#close{
+  position:absolute;
+  top:14px;
+  right:14px;
+  z-index:9999;
+  pointer-events:auto !important;
+  cursor:pointer;
+}
+
+
+/* v3.5.9 · Combos render fix */
+.combo-fallback-grid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:14px;
+  margin-top:18px;
+}
+.combo-card-lite{
+  border:1px solid rgba(246,231,200,.14);
+  background:var(--surface2);
+  border-radius:24px;
+  padding:18px;
+}
+.combo-card-lite h3{
+  margin:6px 0 8px;
+  font-size:1.45rem;
+  color:var(--gold-soft);
+}
+.combo-card-lite p{
+  margin:0 0 10px;
+}
+.combo-card-lite .breakdown{
+  margin-top:10px;
+}
+.combo-card-lite .example-row{
+  align-items:center;
+}
+html[data-theme="parchment"] .combo-card-lite{
+  background:linear-gradient(135deg,rgba(255,255,255,.74),rgba(255,248,231,.86));
+  border-color:rgba(138,79,0,.20);
+}
+html[data-theme="parchment"] .combo-card-lite h3{
+  color:#8A4F00;
+}
+@media(max-width:900px){
+  .combo-fallback-grid{grid-template-columns:1fr 1fr;}
+}
+@media(max-width:620px){
+  .combo-fallback-grid{grid-template-columns:1fr;}
+}
+
+
+/* v3.6.0 · Refined light mode + combo anatomy */
+html[data-theme="parchment"]{
+  --paper-bg:#FFF8E7;
+  --paper-bg-2:#F4E1B6;
+  --paper-card:rgba(255,255,255,.82);
+  --paper-card-2:rgba(255,248,231,.92);
+  --paper-text:#1E1307;
+  --paper-soft:#50340D;
+  --paper-muted:#745015;
+  --paper-gold:#8A4F00;
+  --paper-gold-2:#B87700;
+  --paper-red:#A30F12;
+  --paper-border:rgba(138,79,0,.24);
+}
+
+html[data-theme="parchment"] body{
+  background:
+    linear-gradient(90deg,rgba(163,15,18,.10) 1px,transparent 1px),
+    linear-gradient(0deg,rgba(163,15,18,.08) 1px,transparent 1px),
+    radial-gradient(circle at 16% 10%,rgba(184,119,0,.20),transparent 28%),
+    radial-gradient(circle at 90% 4%,rgba(163,15,18,.10),transparent 34%),
+    linear-gradient(135deg,#FFF8E7 0%,#F6E7C8 58%,#EAD7AA 100%) !important;
+  background-size:52px 52px,52px 52px,auto,auto,auto !important;
+}
+
+html[data-theme="parchment"] .shell{
+  color:var(--paper-text) !important;
+}
+
+html[data-theme="parchment"] .hero,
+html[data-theme="parchment"] .section{
+  background:
+    radial-gradient(circle at top right,rgba(184,119,0,.10),transparent 34%),
+    linear-gradient(135deg,rgba(255,255,255,.80),rgba(255,248,231,.90)) !important;
+  border:1px solid var(--paper-border) !important;
+  box-shadow:0 24px 80px rgba(92,58,0,.12) !important;
+}
+
+html[data-theme="parchment"] .card,
+html[data-theme="parchment"] .combo-card-lite,
+html[data-theme="parchment"] .lab-card,
+html[data-theme="parchment"] .modal-card{
+  background:
+    linear-gradient(135deg,rgba(255,255,255,.84),rgba(255,248,231,.94)) !important;
+  border:1px solid rgba(138,79,0,.22) !important;
+  box-shadow:0 14px 44px rgba(92,58,0,.10) !important;
+}
+
+html[data-theme="parchment"] h1,
+html[data-theme="parchment"] h2,
+html[data-theme="parchment"] h3{
+  color:var(--paper-text) !important;
+  text-shadow:none !important;
+}
+
+html[data-theme="parchment"] p,
+html[data-theme="parchment"] .desc,
+html[data-theme="parchment"] .muted{
+  color:var(--paper-soft) !important;
+}
+
+html[data-theme="parchment"] .kicker,
+html[data-theme="parchment"] .version{
+  background:rgba(184,119,0,.12) !important;
+  color:var(--paper-gold) !important;
+  border-color:rgba(138,79,0,.30) !important;
+}
+
+html[data-theme="parchment"] .mobile-nav{
+  background:rgba(255,248,231,.96) !important;
+  border-color:rgba(138,79,0,.25) !important;
+  box-shadow:0 -14px 38px rgba(92,58,0,.12) !important;
+}
+
+html[data-theme="parchment"] .mobile-nav a,
+html[data-theme="parchment"] .mobile-nav button{
+  color:var(--paper-text) !important;
+}
+
+html[data-theme="parchment"] .stat{
+  background:rgba(255,255,255,.56) !important;
+  border-color:rgba(138,79,0,.22) !important;
+}
+
+html[data-theme="parchment"] .stat strong{
+  color:var(--paper-gold-2) !important;
+}
+
+html[data-theme="parchment"] .btn,
+html[data-theme="parchment"] button{
+  border-color:rgba(138,79,0,.28) !important;
+}
+
+html[data-theme="parchment"] .btn.gold,
+html[data-theme="parchment"] .theme-fab{
+  background:linear-gradient(135deg,#F2C94C,#B87700) !important;
+  color:#2A1200 !important;
+  box-shadow:0 12px 28px rgba(184,119,0,.24) !important;
+}
+
+html[data-theme="parchment"] input,
+html[data-theme="parchment"] select,
+html[data-theme="parchment"] textarea{
+  background:rgba(255,255,255,.90) !important;
+  color:var(--paper-text) !important;
+  border-color:rgba(138,79,0,.28) !important;
+}
+
+html[data-theme="parchment"] .char,
+html[data-theme="parchment"] .sentence,
+html[data-theme="parchment"] .suggest-char,
+html[data-theme="parchment"] .practice-char-mini,
+html[data-theme="parchment"] .combo-card-lite h3{
+  color:var(--paper-gold) !important;
+}
+
+.combo-anatomy{
+  margin-top:14px;
+  padding:14px;
+  border-radius:18px;
+  border:1px solid rgba(212,175,55,.18);
+  background:rgba(255,248,231,.04);
+}
+
+.combo-formula{
+  display:flex;
+  align-items:center;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-bottom:10px;
+}
+
+.combo-piece,
+.combo-result{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  min-height:42px;
+  padding:8px 12px;
+  border-radius:15px;
+  border:1px solid rgba(212,175,55,.22);
+  background:rgba(212,175,55,.08);
+  font-weight:900;
+}
+
+.combo-piece .han,
+.combo-result .han{
+  font-family:var(--display);
+  font-size:1.5rem;
+  color:var(--gold-soft);
+}
+
+.combo-op{
+  color:var(--text3);
+  font-weight:900;
+}
+
+.combo-result{
+  background:linear-gradient(135deg,rgba(212,175,55,.18),rgba(185,28,28,.10));
+  border-color:rgba(212,175,55,.34);
+}
+
+.combo-parts{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(130px,1fr));
+  gap:8px;
+  margin-top:10px;
+}
+
+.combo-part{
+  padding:10px;
+  border-radius:14px;
+  background:rgba(255,248,231,.04);
+  border:1px solid rgba(246,231,200,.10);
+}
+
+.combo-part strong{
+  display:block;
+  font-family:var(--display);
+  font-size:1.45rem;
+  color:var(--gold-soft);
+  margin-bottom:2px;
+}
+
+.combo-part small{
+  display:block;
+  color:var(--text2);
+  line-height:1.35;
+}
+
+.combo-logic{
+  margin-top:10px;
+  color:var(--text2);
+  line-height:1.45;
+  font-size:.94rem;
+}
+
+html[data-theme="parchment"] .combo-anatomy{
+  background:rgba(255,255,255,.46);
+  border-color:rgba(138,79,0,.22);
+}
+
+html[data-theme="parchment"] .combo-piece,
+html[data-theme="parchment"] .combo-result{
+  background:rgba(184,119,0,.10);
+  border-color:rgba(138,79,0,.24);
+}
+
+html[data-theme="parchment"] .combo-piece .han,
+html[data-theme="parchment"] .combo-result .han,
+html[data-theme="parchment"] .combo-part strong{
+  color:#8A4F00;
+}
+
+html[data-theme="parchment"] .combo-op,
+html[data-theme="parchment"] .combo-logic,
+html[data-theme="parchment"] .combo-part small{
+  color:#5C3A00;
+}
+
+html[data-theme="parchment"] .combo-part{
+  background:rgba(255,255,255,.48);
+  border-color:rgba(138,79,0,.18);
+}
+
+@media(max-width:620px){
+  .combo-formula{
+    gap:6px;
+  }
+  .combo-piece,
+  .combo-result{
+    min-height:38px;
+    padding:7px 10px;
+  }
+  .combo-piece .han,
+  .combo-result .han{
+    font-size:1.3rem;
+  }
+}
+
 </style>
 <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.7/dist/hanzi-writer.min.js"></script>
 </head>
 <body>
 <div class="app">
 <header class="topbar">
-  <a class="brand" href="#inicio"><div class="seal"><span>汉</span></div><div><strong>HanVerse VS</strong><small>Mandarim visual, sonoro e estrutural · v3.5.2</small></div></a>
+  <a class="brand" href="#inicio"><div class="seal"><span>汉</span></div><div><strong>HanVerse VS</strong><small>Mandarim visual, sonoro e estrutural · v3.6.0</small></div></a>
   <div class="actions">
     <button class="btn" id="theme">Tema claro/escuro</button>
     <button class="btn" id="focus">Ativar modo claro</button>
@@ -646,7 +1350,7 @@ display:grid;place-items:center}
 <main>
 <section class="hero" id="inicio">
   <div class="panel hero-main">
-    <span class="kicker">VS Mandarin Learning Stack</span><span class="version">Evolução 3.5.2</span>
+    <span class="kicker">VS Mandarin Learning Stack</span><span class="version">Evolução 3.6.0</span>
     <h1>Aprenda chinês vendo, ouvindo, escrevendo e decompondo.</h1>
     <p>Um app educacional para brasileiros aprenderem mandarim por camadas: ideograma, pinyin, tom, significado, radical, traços, evolução visual, combinações e uso real em frases.</p>
     <div class="hero-actions"><a class="btn primary" href="#ideogramas">Explorar ideogramas</a><a class="btn" href="#tons">Treinar tons</a><a class="btn" href="#gramatica">Ver gramática</a></div>
@@ -860,10 +1564,42 @@ display:grid;place-items:center}
 </div>
 </section>
 
+
 <section class="section" id="caligrafia">
-  <div class="section-head"><div><span class="kicker">Escrita guiada</span><h2>Caligrafia e ordem dos traços</h2><p class="desc">Grade visual para criar memória motora e espacial.</p></div><button class="btn" id="nextPractice">Trocar caractere</button></div>
-  <div class="stroke"><div class="write-grid"><span id="practiceChar">人</span></div><div><h3 id="practiceTitle"></h3><p id="practiceNote"></p><div id="steps"></div><div id="practiceAnimation"></div></div></div>
+  <div class="section-head">
+    <div>
+      <span class="kicker">Escrita guiada</span>
+      <h2>Caligrafia e ordem dos traços</h2>
+      <p class="desc">Primeiro leia as instruções. Depois acompanhe a animação fiel e clique em cada número para ver o traço individualmente.</p>
+    </div>
+    <button class="btn" id="nextPractice" type="button">Trocar caractere</button>
+  </div>
+
+  <div class="calligraphy-lab">
+    <article class="card calligraphy-info">
+      <div class="calligraphy-hero">
+        <span class="practice-char-mini" id="practiceCharMini">人</span>
+        <div>
+          <h3 id="practiceTitle">人 · rén · pessoa</h3>
+          <p id="practiceNote">Observe a estrutura geral e acompanhe a ordem dos traços.</p>
+        </div>
+      </div>
+
+      <div class="practice-meta" id="practiceMeta"></div>
+
+      <h3 class="practice-guide-title">Como escrever</h3>
+      <div class="practice-steps" id="steps"></div>
+
+      <div class="calligraphy-actions">
+        <button class="btn gold" id="repeatPracticeAnim" type="button">Repetir animação</button>
+        <button class="btn" id="nextPracticeInline" type="button">Próximo caractere</button>
+      </div>
+    </article>
+
+    <div class="calligraphy-animation-panel" id="practiceAnimation"></div>
+  </div>
 </section>
+
 
 <section class="section" id="quiz"><div class="section-head"><div><span class="kicker">Treino ativo</span><h2>Quiz rápido</h2><p class="desc">Reconhecimento de significado com feedback imediato.</p></div>
 <div class="quiz-mode-bar" id="quizModeBar">
@@ -1420,7 +2156,7 @@ function runSingleStroke(ch,idBase,strokeIndex){
   markStrokeDot(idBase,strokeIndex,dotTotal);
   const counterEl=$("#"+idBase+"Counter"), tipEl=$("#"+idBase+"Tip");
   if(counterEl) counterEl.textContent=`Traço ${strokeIndex+1}`;
-  if(tipEl) tipEl.textContent=`Traço ${strokeIndex+1}`;
+  if(tipEl) tipEl.textContent=(c.steps&&c.steps[strokeIndex])?`Traço ${strokeIndex+1}: ${c.steps[strokeIndex]}`:`Traço ${strokeIndex+1}: observe direção, início, fim e equilíbrio visual.`;
   if(writer && typeof writer.animateStroke==="function"){
     try{
       writer.hideCharacter({duration:0});
@@ -1646,15 +2382,36 @@ if(cg)cg.innerHTML=criticalSounds.map(i=>`<article class="card"><h3>${i.title}</
 function renderTones(){$("#toneGrid").innerHTML=tones.map(t=>`<article class="tone-card"><h3>${t.title}</h3><div class="curve"><svg width="130" height="86" viewBox="0 0 120 86"><path d="${t.path}" fill="none" stroke="currentColor" stroke-width="7" stroke-linecap="round" style="color:var(--gold-soft)"></path></svg></div><p><b>${t.syllable}</b> = ${t.meaning}. ${t.explanation}</p><p><b>Treino:</b> ${t.tip}</p><button class="mini" onclick="speak('${t.syllable}')">Ouvir</button></article>`).join("")}
 function renderCombos(){$("#comboGrid").innerHTML=combos.map(c=>`<article class="combo"><h3>${c.word} · ${c.pinyin}</h3><div class="equation">${c.parts.map((p,i)=>`<span class="piece">${p}</span>${i<c.parts.length-1?"<span>+</span>":""}`).join("")}<span>=</span><span class="piece">${c.word}</span></div><p><b>${c.translation}</b></p><p>${c.explanation}</p><button class="mini" onclick="speak('${c.word}')">Ouvir</button></article>`).join("")}
 function renderGrammar(){$("#grammarGrid").innerHTML=grammar.map(g=>`<article class="grammar"><h3>${g.title}</h3><div class="formula">${g.formula}</div><p>${g.explanation}</p>${g.examples.map(e=>`<div class="example"><div class="example-row"><div><div class="sentence">${e.zh}</div><strong>${e.py}</strong></div>${audioButton(e.zh,"Ouvir frase")}</div><p>${e.pt}</p><div class="breakdown">${e.breakdown.map(b=>`<span>${b}</span>`).join("")}</div></div>`).join("")}</article>`).join("")}
+
 function renderPractice(){
-const c=characters[practice%characters.length];
-$("#practiceChar").textContent=c.char;
-$("#practiceTitle").textContent=`${c.char} · ${c.pinyin} · ${c.translation}`;
-$("#practiceNote").textContent=c.note;
-$("#steps").innerHTML=c.steps.map((s,i)=>`<div class="step"><b>${i+1}</b><span>${s}</span></div>`).join("");
-$("#practiceAnimation").innerHTML=strokeAnimatorMarkup(c,"practiceAnim");
-setTimeout(()=>runStrokeAnimation(c.char,"practiceAnim"),60);
+  const c=characters[practice%characters.length];
+  if($("#practiceCharMini")) $("#practiceCharMini").textContent=c.char;
+  if($("#practiceTitle")) $("#practiceTitle").textContent=`${c.char} · ${c.pinyin} · ${c.translation}`;
+  if($("#practiceNote")) $("#practiceNote").textContent=c.note || "Observe a estrutura, memorize o equilíbrio visual e acompanhe a sequência dos traços.";
+  if($("#practiceMeta")){
+    $("#practiceMeta").innerHTML=[
+      `<span class="practice-chip">Tom ${c.tone==5?"neutro":c.tone}</span>`,
+      `<span class="practice-chip">Radical ${c.radical}</span>`,
+      `<span class="practice-chip">${c.strokes} traços</span>`,
+      `<span class="practice-chip">${c.level}</span>`,
+      `<span class="practice-chip">${c.category}</span>`
+    ].join("");
+  }
+  const steps=(c.steps&&c.steps.length?c.steps:["Observe a forma geral.","Acompanhe a animação fiel.","Repita mentalmente a ordem dos traços."]);
+  if($("#steps")){
+    $("#steps").innerHTML=steps.map((s,i)=>`
+      <div class="practice-step">
+        <b>${i+1}</b>
+        <span><strong>Traço ${i+1}</strong>${s}</span>
+      </div>
+    `).join("");
+  }
+  if($("#practiceAnimation")){
+    $("#practiceAnimation").innerHTML=strokeAnimatorMarkup(c,"practiceAnim");
+  }
+  setTimeout(()=>runStrokeAnimation(c.char,"practiceAnim"),120);
 }
+
 function shuffle(a){return [...a].sort(()=>Math.random()-.5)}
 
 function newQuiz(){
@@ -2029,6 +2786,58 @@ function renderAcceleratedV35Combos(){
   `).join("");
 }
 
+
+function copyPlan(){
+  const plan = [
+    "HanVerse VS · Plano de Estudo",
+    "",
+    "1. Tons",
+    "Treine 1º, 2º, 3º, 4º e tom neutro com áudio.",
+    "",
+    "2. Fonética",
+    "Revise iniciais, finais, pinyin e diferenças entre português e mandarim.",
+    "",
+    "3. Ideogramas",
+    "Estude por HSK, radical, pinyin, tradução e exemplos.",
+    "",
+    "4. Caligrafia",
+    "Veja a animação fiel, a ordem dos traços e os traços individuais.",
+    "",
+    "5. Combinações",
+    "Aprenda como caracteres se unem para formar palavras reais.",
+    "",
+    "6. Gramática",
+    "Pratique ordem SVO, partículas e frases-modelo.",
+    "",
+    "7. Quiz",
+    "Alterne tradução, áudio e escrita para fechar leitura, escuta e memória visual.",
+    "",
+    "8. Revisão",
+    "Favorite os caracteres difíceis e revise diariamente."
+  ].join("\\n");
+  if(navigator.clipboard && window.isSecureContext){
+    navigator.clipboard.writeText(plan)
+      .then(()=>toast("Plano copiado"))
+      .catch(()=>{
+        const ta=document.createElement("textarea");
+        ta.value=plan;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand("copy");
+        ta.remove();
+        toast("Plano copiado");
+      });
+  }else{
+    const ta=document.createElement("textarea");
+    ta.value=plan;
+    document.body.appendChild(ta);
+    ta.select();
+    try{document.execCommand("copy");toast("Plano copiado");}
+    catch(e){toast("Não consegui copiar automaticamente");}
+    ta.remove();
+  }
+}
+
 function init(){
 document.documentElement.dataset.theme=localStorage.getItem("hanverse-theme")||"imperial";
 populate();renderRadicalCloud();renderChars();renderPhonetics();renderTones();renderCombos();
@@ -2037,7 +2846,8 @@ renderPracticalCombos();
 renderExpandedV33Combos();
 renderExpandedV34Combos();
 renderAcceleratedV35Combos();renderGrammar();initGrammarLab();renderReview();renderPractice();initQuizModes();newQuiz();renderFav();
-$("#statChars").textContent=characters.length;$("#statCombos").textContent=combos.length;$("#statGrammar").textContent=grammar.length;
+updateHeroStatsV356();
+
 ["level","tone","category"].forEach(id=>$("#"+id).addEventListener("input",renderChars));
 $("#q").addEventListener("input",()=>{activeRadical=null;renderChars();renderRadicalCloud();renderSuggestions();});
 $("#q").addEventListener("focus",renderSuggestions);
@@ -2048,11 +2858,14 @@ const n=document.documentElement.dataset.theme=="imperial"?"parchment":"imperial
 document.documentElement.dataset.theme=n;
 localStorage.setItem("hanverse-theme",n);
 };
-$("#theme").onclick=toggleTheme;
+/* v3.5.4: theme wired by delegated handler */ if($("#theme")) $("#theme").onclick=null;
 const themeFab=$("#themeFab");
-if(themeFab) themeFab.onclick=toggleTheme;
-$("#focus").onclick=()=>{document.documentElement.dataset.theme="parchment";localStorage.setItem("hanverse-theme","parchment")};
-$("#copyPlan").onclick=copyPlan;$("#nextPractice").onclick=()=>{practice++;renderPractice()};$("#newQuiz").onclick=newQuiz;$("#clearFav").onclick=()=>{setFav([]);renderFav();renderChars();toast("Favoritos limpos")};
+/* v3.5.4: themeFab wired by delegated handler */ if(themeFab) themeFab.onclick=null;
+if($("#focus")) $("#focus").onclick=()=>{document.documentElement.dataset.theme="parchment";localStorage.setItem("hanverse-theme","parchment")};
+if($("#copyPlan")) $("#copyPlan").onclick=copyPlan;
+if($("#nextPractice")) $("#nextPractice").onclick=()=>{practice++;renderPractice();setTimeout(wireCalligraphyGuidedControlsV355,120)};
+if($("#newQuiz")) $("#newQuiz").onclick=newQuiz;
+if($("#clearFav")) $("#clearFav").onclick=()=>{setFav([]);renderFav();renderChars();toast("Favoritos limpos")};
 $("#close").onclick=()=>{$("#modal").classList.remove("open"); clearStrokeTimers("detailAnim"); if(window.detailAnimTimer) clearInterval(window.detailAnimTimer)};$("#modal").onclick=e=>{if(e.target.id=="modal"){ $("#modal").classList.remove("open"); clearStrokeTimers("detailAnim"); if(window.detailAnimTimer) clearInterval(window.detailAnimTimer); }};
 const installBtn=$("#installAppBtn"),dismissBtn=$("#dismissInstallBtn");
 if(installBtn) installBtn.onclick=handleInstallAction;
@@ -2060,10 +2873,69 @@ if(dismissBtn) dismissBtn.onclick=()=>hideInstallBanner(true);
 setTimeout(showInstallBanner,700);
 registerPWA();
 }
-init();
+
+function wireCriticalButtonsV353(){
+  const themeButtons=[document.querySelector("#themeFab"),document.querySelector("#theme")].filter(Boolean);
+  themeButtons.forEach(btn=>{
+    if(btn.dataset.v353==="1") return;
+    btn.dataset.v353="1";
+    btn.addEventListener("click",e=>{
+      e.preventDefault();
+      const current=document.documentElement.getAttribute("data-theme")||"imperial";
+      const next=current==="parchment"?"imperial":"parchment";
+      document.documentElement.setAttribute("data-theme",next);
+      localStorage.setItem("hanverse-theme",next);
+      const meta=document.querySelector("#meta-theme");
+      if(meta) meta.setAttribute("content",next==="imperial"?"#0A1220":"#F6E7C8");
+      if(typeof toast==="function") toast(next==="imperial"?"Tema escuro ativado":"Tema claro ativado");
+    },true);
+  });
+
+  const copyBtn=document.querySelector("#copyPlan");
+  if(copyBtn && copyBtn.dataset.v353!=="1"){
+    copyBtn.dataset.v353="1";
+    copyBtn.addEventListener("click",e=>{
+      e.preventDefault();
+      copyPlan();
+    },true);
+  }
+
+  const installBtn=document.querySelector("#installAppBtn");
+  if(installBtn && installBtn.dataset.v353!=="1"){
+    installBtn.dataset.v353="1";
+    installBtn.addEventListener("click",async e=>{
+      e.preventDefault();
+      if(typeof handleInstallAction==="function"){
+        try{ await handleInstallAction(); return; }catch(err){}
+      }
+      const isIOS=/iphone|ipad|ipod/i.test(navigator.userAgent);
+      if(typeof toast==="function"){
+        toast(isIOS ? "No iPhone: Compartilhar → Adicionar à Tela de Início" : "No Chrome: menu ⋮ → Adicionar à tela inicial");
+      }
+      const banner=document.querySelector("#installBanner");
+      if(banner){banner.hidden=false;banner.classList.add("show");}
+    },true);
+  }
+
+  const dismissBtn=document.querySelector("#dismissInstallBtn");
+  if(dismissBtn && dismissBtn.dataset.v353!=="1"){
+    dismissBtn.dataset.v353="1";
+    dismissBtn.addEventListener("click",e=>{
+      e.preventDefault();
+      localStorage.setItem("hanverse-install-dismissed-v1","1");
+      const banner=document.querySelector("#installBanner");
+      if(banner){banner.hidden=true;banner.classList.remove("show");}
+    },true);
+  }
+}
+document.addEventListener("DOMContentLoaded",wireCriticalButtonsV353);
+setTimeout(wireCriticalButtonsV353,300);
+setTimeout(wireCriticalButtonsV353,1500);
+
+try{init();}catch(e){console.error('HanVerse init error:', e);}
 
 
-/* v3.5.2 · Defensive button wiring */
+/* v3.5.3 · Defensive button wiring */
 (function(){
   function ready(fn){
     if(document.readyState === "loading"){
@@ -2214,13 +3086,13 @@ init();
     btn.addEventListener("click", function(e){
       e.preventDefault();
       const root = document.documentElement;
-      const current = root.getAttribute("data-theme") || "dark";
-      const next = current === "parchment" || current === "light" ? "dark" : "parchment";
+      const current = root.getAttribute("data-theme") || "imperial";
+      const next = current === "parchment" ? "imperial" : "parchment";
       root.setAttribute("data-theme", next);
       localStorage.setItem("hanverse-theme", next);
       const meta = qs("#meta-theme");
-      if(meta) meta.setAttribute("content", next === "dark" ? "#0A1220" : "#F6E7C8");
-      toastSafe(next === "dark" ? "Tema escuro ativado" : "Tema claro ativado");
+      if(meta) meta.setAttribute("content", next === "imperial" ? "#0A1220" : "#F6E7C8");
+      toastSafe(next === "imperial" ? "Tema escuro ativado" : "Tema claro ativado");
     }, true);
   }
   function restoreTheme(){
@@ -2228,7 +3100,7 @@ init();
     if(saved){
       document.documentElement.setAttribute("data-theme", saved);
       const meta = qs("#meta-theme");
-      if(meta) meta.setAttribute("content", saved === "dark" ? "#0A1220" : "#F6E7C8");
+      if(meta) meta.setAttribute("content", saved === "imperial" ? "#0A1220" : "#F6E7C8");
     }
   }
   ready(function(){
@@ -2242,6 +3114,655 @@ init();
       wireThemeButton();
     }, 1200);
   });
+})();
+
+
+
+/* v3.5.4 · Definitive theme controller */
+(function(){
+  const STORAGE_KEY = "hanverse-theme";
+
+  function normalizeTheme(value){
+    if(value === "parchment" || value === "light") return "parchment";
+    return "imperial";
+  }
+
+  function applyThemeV354(theme){
+    const next = normalizeTheme(theme);
+    const root = document.documentElement;
+
+    root.setAttribute("data-theme", next);
+    root.dataset.theme = next;
+    root.classList.toggle("theme-parchment", next === "parchment");
+    root.classList.toggle("theme-imperial", next === "imperial");
+
+    try{ localStorage.setItem(STORAGE_KEY, next); }catch(e){}
+
+    const meta = document.querySelector("#meta-theme");
+    if(meta) meta.setAttribute("content", next === "imperial" ? "#7F1D1D" : "#F6E7C8");
+
+    const topBtn = document.querySelector("#theme");
+    const fabBtn = document.querySelector("#themeFab");
+    const label = next === "imperial" ? "Tema claro" : "Tema escuro";
+    if(topBtn) topBtn.textContent = label;
+    if(fabBtn) fabBtn.textContent = next === "imperial" ? "☯ Tema" : "☯ Claro";
+
+    if(typeof toast === "function"){
+      toast(next === "imperial" ? "Tema escuro ativado" : "Tema claro ativado");
+    }
+  }
+
+  function toggleThemeV354(){
+    const current = normalizeTheme(document.documentElement.getAttribute("data-theme"));
+    applyThemeV354(current === "parchment" ? "imperial" : "parchment");
+  }
+
+  function bootThemeV354(){
+    let saved = "imperial";
+    try{ saved = normalizeTheme(localStorage.getItem(STORAGE_KEY)); }catch(e){}
+    applyThemeV354(saved);
+
+    const themeButtons = [document.querySelector("#theme"), document.querySelector("#themeFab")].filter(Boolean);
+    themeButtons.forEach(btn => {
+      btn.onclick = null;
+      btn.dataset.themeFixedV354 = "1";
+    });
+  }
+
+  document.addEventListener("click", function(e){
+    const btn = e.target.closest("#theme,#themeFab,[data-action='theme']");
+    if(!btn) return;
+    e.preventDefault();
+    e.stopPropagation();
+    e.stopImmediatePropagation();
+    btn.onclick = null;
+    toggleThemeV354();
+  }, true);
+
+  /* v3.5.8: pointerup antigo de tema neutralizado */
+
+  if(document.readyState === "loading"){
+    document.addEventListener("DOMContentLoaded", bootThemeV354, {once:true});
+  }else{
+    bootThemeV354();
+  }
+  setTimeout(bootThemeV354, 500);
+  setTimeout(bootThemeV354, 1500);
+
+  window.HanVerseTheme = {
+    apply: applyThemeV354,
+    toggle: toggleThemeV354
+  };
+})();
+
+
+
+/* v3.5.5 · Definitive real visual theme controller */
+(function(){
+  const STORAGE_KEY="hanverse-theme";
+
+  function normalizeTheme(value){
+    if(value==="parchment" || value==="light") return "parchment";
+    return "imperial";
+  }
+
+  function applyRealTheme(theme, silent){
+    const next=normalizeTheme(theme);
+    const root=document.documentElement;
+    root.setAttribute("data-theme",next);
+    root.dataset.theme=next;
+    root.classList.toggle("theme-parchment",next==="parchment");
+    root.classList.toggle("theme-imperial",next==="imperial");
+    root.style.colorScheme=next==="parchment"?"light":"dark";
+    try{localStorage.setItem(STORAGE_KEY,next);}catch(e){}
+    const meta=document.querySelector("#meta-theme");
+    if(meta) meta.setAttribute("content",next==="imperial"?"#7F1D1D":"#F6E7C8");
+    const topBtn=document.querySelector("#theme");
+    const fabBtn=document.querySelector("#themeFab");
+    if(topBtn) topBtn.textContent=next==="imperial"?"Tema claro":"Tema escuro";
+    if(fabBtn) fabBtn.textContent=next==="imperial"?"☯ Tema":"☯ Claro";
+    document.body.offsetHeight; // força repaint em mobile
+    if(!silent && typeof toast==="function"){
+      toast(next==="imperial"?"Tema escuro ativado":"Tema claro ativado");
+    }
+  }
+
+  function toggleRealTheme(){
+    const current=normalizeTheme(document.documentElement.getAttribute("data-theme"));
+    applyRealTheme(current==="parchment"?"imperial":"parchment",false);
+  }
+
+  function bootRealTheme(){
+    let saved="imperial";
+    try{saved=normalizeTheme(localStorage.getItem(STORAGE_KEY));}catch(e){}
+    applyRealTheme(saved,true);
+    [document.querySelector("#theme"),document.querySelector("#themeFab")].filter(Boolean).forEach(btn=>{
+      btn.onclick=null;
+      btn.dataset.realThemeFixed="1";
+    });
+  }
+
+  document.addEventListener("click",function(e){
+    const btn=e.target.closest("#theme,#themeFab,[data-action='theme']");
+    if(!btn) return;
+    e.preventDefault();
+    e.stopPropagation();
+    e.stopImmediatePropagation();
+    btn.onclick=null;
+    toggleRealTheme();
+  },true);
+
+  if(document.readyState==="loading"){
+    document.addEventListener("DOMContentLoaded",bootRealTheme,{once:true});
+  }else{
+    bootRealTheme();
+  }
+  setTimeout(bootRealTheme,500);
+  setTimeout(bootRealTheme,1500);
+
+  window.HanVerseTheme={apply:applyRealTheme,toggle:toggleRealTheme};
+})();
+
+
+/* v3.5.5 · Calligraphy guided controls */
+function wireCalligraphyGuidedControlsV355(){
+  const repeat=document.querySelector("#repeatPracticeAnim");
+  if(repeat && repeat.dataset.v355!=="1"){
+    repeat.dataset.v355="1";
+    repeat.addEventListener("click",e=>{
+      e.preventDefault();
+      const c=characters[practice%characters.length];
+      runStrokeAnimation(c.char,"practiceAnim");
+    },true);
+  }
+  const nextInline=document.querySelector("#nextPracticeInline");
+  if(nextInline && nextInline.dataset.v355!=="1"){
+    nextInline.dataset.v355="1";
+    nextInline.addEventListener("click",e=>{
+      e.preventDefault();
+      practice++;
+      renderPractice();
+      setTimeout(wireCalligraphyGuidedControlsV355,200);
+    },true);
+  }
+}
+document.addEventListener("DOMContentLoaded",wireCalligraphyGuidedControlsV355);
+setTimeout(wireCalligraphyGuidedControlsV355,600);
+setTimeout(wireCalligraphyGuidedControlsV355,1600);
+
+
+
+/* v3.5.6 · Independent counters and safe init fallback */
+function countAllCombosV356(){
+  const datasets = [];
+  try{ if(typeof combos !== "undefined" && Array.isArray(combos)) datasets.push(combos); }catch(e){}
+  try{ if(typeof urbanSignCombos !== "undefined" && Array.isArray(urbanSignCombos)) datasets.push(urbanSignCombos); }catch(e){}
+  try{ if(typeof practicalLifeCombos !== "undefined" && Array.isArray(practicalLifeCombos)) datasets.push(practicalLifeCombos); }catch(e){}
+  try{ if(typeof expandedV33Combos !== "undefined" && Array.isArray(expandedV33Combos)) datasets.push(expandedV33Combos); }catch(e){}
+  try{ if(typeof expandedV34Combos !== "undefined" && Array.isArray(expandedV34Combos)) datasets.push(expandedV34Combos); }catch(e){}
+  try{ if(typeof acceleratedV35Combos !== "undefined" && Array.isArray(acceleratedV35Combos)) datasets.push(acceleratedV35Combos); }catch(e){}
+
+  const seen = new Set();
+  datasets.flat().forEach(item=>{
+    const key = typeof item === "string" ? item : (item.text || item.zh || JSON.stringify(item));
+    if(key) seen.add(key);
+  });
+  return seen.size;
+}
+
+function updateHeroStatsV356(){
+  const statChars = document.querySelector("#statChars");
+  const statCombos = document.querySelector("#statCombos");
+  const statGrammar = document.querySelector("#statGrammar");
+
+  let charCount = 0;
+  let comboCount = 0;
+  let grammarCount = 0;
+
+  try{ charCount = Array.isArray(characters) ? characters.length : 0; }catch(e){}
+  try{ comboCount = countAllCombosV356(); }catch(e){}
+  try{ grammarCount = Array.isArray(grammar) ? grammar.length : 0; }catch(e){}
+
+  if(statChars) statChars.textContent = charCount.toLocaleString("pt-BR");
+  if(statCombos) statCombos.textContent = comboCount.toLocaleString("pt-BR");
+  if(statGrammar) statGrammar.textContent = grammarCount.toLocaleString("pt-BR");
+}
+
+function safeBootV356(){
+  try{ updateHeroStatsV356(); }catch(e){ console.warn("stats fix failed", e); }
+
+  // Se algum erro anterior interromper o init, ao menos renderiza a base principal.
+  try{ if(document.querySelector("#charGrid") && document.querySelector("#charGrid").children.length === 0 && typeof renderChars === "function") renderChars(); }catch(e){}
+  try{ if(document.querySelector("#toneGrid") && document.querySelector("#toneGrid").children.length === 0 && typeof renderTones === "function") renderTones(); }catch(e){}
+  try{ if(document.querySelector("#comboGrid") && document.querySelector("#comboGrid").children.length === 0 && typeof renderCombos === "function") renderCombos(); }catch(e){}
+  try{ if(document.querySelector("#grammarGrid") && document.querySelector("#grammarGrid").children.length === 0 && typeof renderGrammar === "function") renderGrammar(); }catch(e){}
+  try{ if(typeof renderRadicalCloud === "function") renderRadicalCloud(); }catch(e){}
+}
+
+if(document.readyState === "loading"){
+  document.addEventListener("DOMContentLoaded", safeBootV356, {once:true});
+}else{
+  safeBootV356();
+}
+setTimeout(safeBootV356, 300);
+setTimeout(safeBootV356, 1200);
+setTimeout(safeBootV356, 2500);
+
+
+
+/* v3.5.8: controlador agressivo v3.5.7 removido */
+
+
+/* v3.5.8 · Simple stable theme controller */
+(function(){
+  const KEY="hanverse-theme";
+
+  function normalizeTheme(value){
+    return value==="parchment" ? "parchment" : "imperial";
+  }
+
+  function applyTheme(theme, silent){
+    const next=normalizeTheme(theme);
+    const root=document.documentElement;
+    root.setAttribute("data-theme",next);
+    root.dataset.theme=next;
+    try{localStorage.setItem(KEY,next);}catch(e){}
+    const meta=document.querySelector("#meta-theme");
+    if(meta) meta.setAttribute("content",next==="parchment"?"#F6E7C8":"#7F1D1D");
+    const top=document.querySelector("#theme");
+    const fab=document.querySelector("#themeFab");
+    if(top) top.textContent=next==="parchment"?"Tema escuro":"Tema claro";
+    if(fab) fab.textContent=next==="parchment"?"☯ Claro":"☯ Tema";
+    if(!silent && typeof toast==="function"){
+      toast(next==="parchment"?"Tema claro ativado":"Tema escuro ativado");
+    }
+  }
+
+  function toggleTheme(){
+    const current=normalizeTheme(document.documentElement.getAttribute("data-theme") || localStorage.getItem(KEY));
+    applyTheme(current==="parchment"?"imperial":"parchment",false);
+  }
+
+  function boot(){
+    const saved=normalizeTheme(localStorage.getItem(KEY) || document.documentElement.getAttribute("data-theme"));
+    applyTheme(saved,true);
+    ["#theme","#themeFab"].forEach(sel=>{
+      const btn=document.querySelector(sel);
+      if(btn){
+        btn.onclick=null;
+        if(btn.dataset.themeStable!=="1"){
+          btn.dataset.themeStable="1";
+          btn.addEventListener("click",function(e){
+            e.preventDefault();
+            e.stopPropagation();
+            toggleTheme();
+          });
+        }
+      }
+    });
+  }
+
+  if(document.readyState==="loading"){
+    document.addEventListener("DOMContentLoaded",boot,{once:true});
+  }else{
+    boot();
+  }
+  setTimeout(boot,500);
+  setTimeout(boot,1500);
+
+  window.HanVerseThemeStable={apply:applyTheme,toggle:toggleTheme};
+})();
+
+
+/* v3.5.8 · Modal close definitive fix */
+(function(){
+  function closeModal(){
+    const modal=document.querySelector("#modal");
+    if(modal){
+      modal.classList.remove("open");
+      modal.setAttribute("aria-hidden","true");
+    }
+    try{ clearStrokeTimers("detailAnim"); }catch(e){}
+    try{ if(window.detailAnimTimer) clearInterval(window.detailAnimTimer); }catch(e){}
+  }
+
+  function bootClose(){
+    const closeBtn=document.querySelector("#close");
+    if(closeBtn && closeBtn.dataset.closeFixed!=="1"){
+      closeBtn.dataset.closeFixed="1";
+      closeBtn.onclick=null;
+      closeBtn.addEventListener("click",function(e){
+        e.preventDefault();
+        e.stopPropagation();
+        closeModal();
+      },true);
+    }
+
+    const modal=document.querySelector("#modal");
+    if(modal && modal.dataset.backdropFixed!=="1"){
+      modal.dataset.backdropFixed="1";
+      modal.addEventListener("click",function(e){
+        if(e.target===modal){
+          e.preventDefault();
+          closeModal();
+        }
+      },true);
+    }
+  }
+
+  document.addEventListener("keydown",function(e){
+    if(e.key==="Escape") closeModal();
+  });
+
+  if(document.readyState==="loading"){
+    document.addEventListener("DOMContentLoaded",bootClose,{once:true});
+  }else{
+    bootClose();
+  }
+  setTimeout(bootClose,500);
+  setTimeout(bootClose,1500);
+
+  window.HanVerseCloseModal=closeModal;
+})();
+
+
+
+/* v3.5.9 · Defensive combo grids renderer */
+(function(){
+  function safeAudio(text,label){
+    try{
+      if(typeof audioButton === "function") return audioButton(text,label || "Ouvir");
+    }catch(e){}
+    return `<button class="mini" type="button" onclick="speechSynthesis.speak(new SpeechSynthesisUtterance('${String(text).replace(/'/g,"\\'")}'))">🔊 ${label || "Ouvir"}</button>`;
+  }
+
+  function normalizeCombo(item){
+    if(!item) return null;
+
+    if(typeof item === "string"){
+      return {
+        text:item,
+        pinyin:"",
+        translation:"",
+        category:"Combinação",
+        note:"Combinação prática em mandarim.",
+        examples:[item]
+      };
+    }
+
+    const text = item.text || item.zh || item.word || item.term || "";
+    if(!text) return null;
+
+    return {
+      text,
+      pinyin:item.pinyin || item.py || "",
+      translation:item.translation || item.pt || item.meaning || "",
+      category:item.category || item.tag || "Combinação",
+      note:item.note || item.desc || item.description || "Vocabulário prático para leitura e uso real.",
+      examples:item.examples || item.example || []
+    };
+  }
+
+  function comboCard(item){
+    const c = normalizeCombo(item);
+    if(!c) return "";
+    const example = Array.isArray(c.examples) ? (c.examples[0] || c.text) : (c.examples || c.text);
+    return `
+      <article class="card combo-card-lite">
+        <span class="kicker">${c.category}</span>
+        <h3>${c.text}</h3>
+        <p><strong>${c.pinyin}</strong>${c.translation ? " · " + c.translation : ""}</p>
+        <p>${c.note}</p>
+        <div class="breakdown">${[...c.text].map(ch=>`<span>${ch}</span>`).join("")}</div>
+        <div class="example" style="margin-top:12px">
+          <div class="example-row">
+            <div>
+              <div class="sentence">${example}</div>
+              <strong>${c.pinyin}</strong>
+            </div>
+            ${safeAudio(c.text,"Ouvir termo")}
+          </div>
+        </div>
+      </article>
+    `;
+  }
+
+  function renderGridById(id, data){
+    const grid = document.querySelector("#"+id);
+    if(!grid || !Array.isArray(data)) return;
+    if(data.length === 0) return;
+    grid.classList.add("combo-fallback-grid");
+    grid.innerHTML = data.map(comboCard).join("");
+  }
+
+  function renderAllCombosV359(){
+    try{ if(typeof combos !== "undefined") renderGridById("comboGrid", combos); }catch(e){}
+
+    try{ if(typeof urbanSignCombos !== "undefined") renderGridById("urbanComboGrid", urbanSignCombos); }catch(e){}
+    try{ if(typeof practicalLifeCombos !== "undefined") renderGridById("practicalComboGrid", practicalLifeCombos); }catch(e){}
+
+    try{ if(typeof expandedV33Combos !== "undefined") renderGridById("expandedV33ComboGrid", expandedV33Combos); }catch(e){}
+    try{ if(typeof expandedV34Combos !== "undefined") renderGridById("expandedV34ComboGrid", expandedV34Combos); }catch(e){}
+    try{ if(typeof acceleratedV35Combos !== "undefined") renderGridById("acceleratedV35ComboGrid", acceleratedV35Combos); }catch(e){}
+
+    // Atualiza contador após renderização.
+    try{ if(typeof updateHeroStatsV356 === "function") updateHeroStatsV356(); }catch(e){}
+  }
+
+  if(document.readyState === "loading"){
+    document.addEventListener("DOMContentLoaded", renderAllCombosV359, {once:true});
+  }else{
+    renderAllCombosV359();
+  }
+
+  setTimeout(renderAllCombosV359, 300);
+  setTimeout(renderAllCombosV359, 1200);
+  setTimeout(renderAllCombosV359, 2500);
+
+  window.HanVerseRenderCombos = renderAllCombosV359;
+})();
+
+
+
+/* v3.6.0 · Combo anatomy renderer */
+(function(){
+  const commonMeanings = {
+    "中":{py:"zhōng",pt:"meio; China em composição"},
+    "国":{py:"guó",pt:"país"},
+    "人":{py:"rén",pt:"pessoa"},
+    "入":{py:"rù",pt:"entrar"},
+    "口":{py:"kǒu",pt:"boca; abertura"},
+    "出":{py:"chū",pt:"sair"},
+    "站":{py:"zhàn",pt:"estação/parada"},
+    "地":{py:"dì",pt:"terra; local"},
+    "铁":{py:"tiě",pt:"ferro"},
+    "机":{py:"jī",pt:"máquina; avião em composição"},
+    "场":{py:"chǎng",pt:"local; campo"},
+    "酒":{py:"jiǔ",pt:"bebida alcoólica; hotel em composição"},
+    "店":{py:"diàn",pt:"loja; estabelecimento"},
+    "饭":{py:"fàn",pt:"arroz/refeição"},
+    "馆":{py:"guǎn",pt:"estabelecimento"},
+    "银":{py:"yín",pt:"prata; banco em composição"},
+    "行":{py:"háng",pt:"linha; instituição"},
+    "药":{py:"yào",pt:"remédio"},
+    "房":{py:"fáng",pt:"casa; quarto"},
+    "租":{py:"zū",pt:"alugar"},
+    "水":{py:"shuǐ",pt:"água"},
+    "电":{py:"diàn",pt:"eletricidade"},
+    "话":{py:"huà",pt:"fala"},
+    "手":{py:"shǒu",pt:"mão"},
+    "车":{py:"chē",pt:"veículo"},
+    "票":{py:"piào",pt:"bilhete"},
+    "门":{py:"mén",pt:"porta"},
+    "路":{py:"lù",pt:"rua/caminho"},
+    "街":{py:"jiē",pt:"rua"},
+    "桥":{py:"qiáo",pt:"ponte"},
+    "东":{py:"dōng",pt:"leste"},
+    "西":{py:"xī",pt:"oeste"},
+    "南":{py:"nán",pt:"sul"},
+    "北":{py:"běi",pt:"norte"},
+    "上":{py:"shàng",pt:"acima; Shanghai em composição"},
+    "海":{py:"hǎi",pt:"mar"},
+    "外":{py:"wài",pt:"fora"},
+    "滩":{py:"tān",pt:"praia/margem"},
+    "人":{py:"rén",pt:"pessoa"},
+    "民":{py:"mín",pt:"povo"},
+    "广":{py:"guǎng",pt:"amplo"},
+    "场":{py:"chǎng",pt:"praça/campo"},
+    "公":{py:"gōng",pt:"público"},
+    "园":{py:"yuán",pt:"parque/jardim"},
+    "医":{py:"yī",pt:"medicina"},
+    "院":{py:"yuàn",pt:"instituição"},
+    "厕":{py:"cè",pt:"banheiro em composição"},
+    "所":{py:"suǒ",pt:"local"},
+    "卫":{py:"wèi",pt:"higiene/defesa"},
+    "生":{py:"shēng",pt:"vida; nascer"},
+    "间":{py:"jiān",pt:"espaço/quarto"},
+    "支":{py:"zhī",pt:"ramo; pagar em composição"},
+    "付":{py:"fù",pt:"pagar"},
+    "成":{py:"chéng",pt:"sucesso; tornar-se"},
+    "功":{py:"gōng",pt:"mérito; função"},
+    "失":{py:"shī",pt:"perder; falhar"},
+    "败":{py:"bài",pt:"fracasso"},
+    "登":{py:"dēng",pt:"entrar/login"},
+    "录":{py:"lù",pt:"registrar"},
+    "验":{py:"yàn",pt:"verificar"},
+    "证":{py:"zhèng",pt:"provar; certificado"},
+    "码":{py:"mǎ",pt:"código"},
+    "数":{py:"shù",pt:"número; dados"},
+    "据":{py:"jù",pt:"base; dados"},
+    "库":{py:"kù",pt:"depósito/banco"},
+    "表":{py:"biǎo",pt:"tabela"},
+    "格":{py:"gé",pt:"grade/formato"},
+    "课":{py:"kè",pt:"aula"},
+    "程":{py:"chéng",pt:"processo/curso"},
+    "学":{py:"xué",pt:"estudar"},
+    "校":{py:"xiào",pt:"escola"},
+    "大":{py:"dà",pt:"grande"},
+    "小":{py:"xiǎo",pt:"pequeno"},
+    "新":{py:"xīn",pt:"novo"},
+    "旧":{py:"jiù",pt:"antigo"},
+    "老":{py:"lǎo",pt:"velho; professor em composição"},
+    "师":{py:"shī",pt:"mestre/professor"},
+    "朋":{py:"péng",pt:"amigo em composição"},
+    "友":{py:"yǒu",pt:"amigo"},
+    "谢":{py:"xiè",pt:"agradecer"},
+    "欢":{py:"huān",pt:"alegre"},
+    "迎":{py:"yíng",pt:"receber"},
+    "春":{py:"chūn",pt:"primavera"},
+    "节":{py:"jié",pt:"festival"},
+    "灯":{py:"dēng",pt:"luz/lanterna"},
+    "笼":{py:"long",pt:"lanterna/cesto em composição"}
+  };
+
+  function findCharInfo(ch){
+    try{
+      if(Array.isArray(characters)){
+        const found = characters.find(c=>c.char===ch);
+        if(found) return {py:found.pinyin||"",pt:found.translation||""};
+      }
+    }catch(e){}
+    return commonMeanings[ch] || {py:"",pt:"parte do termo"};
+  }
+
+  function normalizeComboV360(item){
+    if(!item) return null;
+    if(typeof item === "string"){
+      return {text:item,pinyin:"",translation:"",category:"Combinação",note:"Combinação prática em mandarim.",examples:[item]};
+    }
+    const text = item.text || item.zh || item.word || item.term || "";
+    if(!text) return null;
+    return {
+      text,
+      pinyin:item.pinyin || item.py || "",
+      translation:item.translation || item.pt || item.meaning || "",
+      category:item.category || item.tag || "Combinação",
+      note:item.note || item.desc || item.description || "Vocabulário prático para leitura e uso real.",
+      examples:item.examples || item.example || []
+    };
+  }
+
+  function anatomyHTML(text){
+    const chars = [...text].filter(ch=>/[\u3400-\u9FFF]/.test(ch));
+    if(chars.length < 2) return "";
+
+    const pieces = chars.map(ch=>`<span class="combo-piece"><span class="han">${ch}</span></span>`).join(`<span class="combo-op">+</span>`);
+    const parts = chars.map(ch=>{
+      const info = findCharInfo(ch);
+      return `<div class="combo-part"><strong>${ch}</strong><small>${info.py}${info.py && info.pt ? " · " : ""}${info.pt}</small></div>`;
+    }).join("");
+
+    return `
+      <div class="combo-anatomy">
+        <div class="combo-formula">
+          ${pieces}
+          <span class="combo-op">=</span>
+          <span class="combo-result"><span class="han">${text}</span></span>
+        </div>
+        <div class="combo-parts">${parts}</div>
+        <div class="combo-logic">Leitura estrutural: os caracteres individuais se combinam e criam uma unidade lexical nova. Primeiro reconheça cada parte; depois memorize o bloco completo.</div>
+      </div>
+    `;
+  }
+
+  function safeAudioV360(text,label){
+    try{
+      if(typeof audioButton === "function") return audioButton(text,label || "Ouvir");
+    }catch(e){}
+    return `<button class="mini" type="button" onclick="speechSynthesis.speak(new SpeechSynthesisUtterance('${String(text).replace(/'/g,"\\'")}'))">🔊 ${label || "Ouvir"}</button>`;
+  }
+
+  function comboCardV360(item){
+    const c = normalizeComboV360(item);
+    if(!c) return "";
+    const example = Array.isArray(c.examples) ? (c.examples[0] || c.text) : (c.examples || c.text);
+    return `
+      <article class="card combo-card-lite">
+        <span class="kicker">${c.category}</span>
+        <h3>${c.text}</h3>
+        <p><strong>${c.pinyin}</strong>${c.translation ? " · " + c.translation : ""}</p>
+        <p>${c.note}</p>
+        ${anatomyHTML(c.text)}
+        <div class="example" style="margin-top:12px">
+          <div class="example-row">
+            <div>
+              <div class="sentence">${example}</div>
+              <strong>${c.pinyin}</strong>
+            </div>
+            ${safeAudioV360(c.text,"Ouvir termo")}
+          </div>
+        </div>
+      </article>
+    `;
+  }
+
+  function renderGrid(id,data){
+    const grid=document.querySelector("#"+id);
+    if(!grid || !Array.isArray(data)) return;
+    grid.classList.add("combo-fallback-grid");
+    grid.innerHTML=data.map(comboCardV360).join("");
+  }
+
+  function renderComboAnatomyV360(){
+    try{ if(typeof combos !== "undefined") renderGrid("comboGrid",combos); }catch(e){}
+    try{ if(typeof urbanSignCombos !== "undefined") renderGrid("urbanComboGrid",urbanSignCombos); }catch(e){}
+    try{ if(typeof practicalLifeCombos !== "undefined") renderGrid("practicalComboGrid",practicalLifeCombos); }catch(e){}
+    try{ if(typeof expandedV33Combos !== "undefined") renderGrid("expandedV33ComboGrid",expandedV33Combos); }catch(e){}
+    try{ if(typeof expandedV34Combos !== "undefined") renderGrid("expandedV34ComboGrid",expandedV34Combos); }catch(e){}
+    try{ if(typeof acceleratedV35Combos !== "undefined") renderGrid("acceleratedV35ComboGrid",acceleratedV35Combos); }catch(e){}
+    try{ if(typeof updateHeroStatsV356 === "function") updateHeroStatsV356(); }catch(e){}
+  }
+
+  if(document.readyState==="loading"){
+    document.addEventListener("DOMContentLoaded",renderComboAnatomyV360,{once:true});
+  }else{
+    renderComboAnatomyV360();
+  }
+  setTimeout(renderComboAnatomyV360,400);
+  setTimeout(renderComboAnatomyV360,1400);
+  setTimeout(renderComboAnatomyV360,2600);
+
+  window.HanVerseRenderComboAnatomy = renderComboAnatomyV360;
 })();
 
 </script>
