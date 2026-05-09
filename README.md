@@ -1,47 +1,29 @@
 # HanVerse VS · Mandarim Visual, Sonoro e Estrutural
 
-App educacional em HTML, CSS e JavaScript para estudo de chinês mandarim, com foco em:
-
-- ideogramas organizados por HSK 1–9;
-- pinyin e fonética aplicada para brasileiros;
-- tons do mandarim;
-- combinações de ideogramas;
-- gramática com decomposição;
-- áudio em frases e combinações;
-- animação de escrita dos ideogramas;
-- favoritos e revisão ativa;
-- design responsivo com estética inspirada na China.
+App educacional em HTML, CSS e JavaScript para estudo de chinês mandarim.
 
 ## Versão
 
-**MVP 2.0 · Base Expandida**
+**MVP 2.1 · Base Expandida II**
 
-Esta primeira versão pública/testável contém uma base inicial expandida de ideogramas, especialmente com reforço em HSK 1 e HSK 2.
+## Principais recursos
+
+- Ideogramas organizados por HSK 1–9;
+- Pinyin e fonética aplicada para brasileiros;
+- Tabelas de iniciais e finais;
+- Tons do mandarim;
+- Combinações de ideogramas;
+- Gramática com decomposição;
+- Áudio em frases e combinações;
+- Animação fiel de escrita dos ideogramas;
+- Favoritos e revisão ativa;
+- Quiz rápido;
+- Design responsivo.
 
 ## Como executar
 
-Abra o arquivo `index.html` diretamente no navegador.
+Abra `index.html` no navegador.
 
-Para publicar no Netlify, Vercel ou GitHub Pages, envie o conteúdo desta pasta e defina `index.html` como arquivo principal.
+## Publicação
 
-## Estrutura
-
-```txt
-hanverse-vs/
-├── index.html
-├── README.md
-└── CHANGELOG.md
-```
-
-## Observação sobre animação dos ideogramas
-
-A animação fiel dos traços usa carregamento online de dados dos caracteres quando disponível. Caso os dados não carreguem, o app mantém uma visualização alternativa.
-
-## Próximos passos sugeridos
-
-- Expandir HSK 1 completo;
-- Expandir HSK 2 completo;
-- Criar arquivos separados para dados, CSS e JavaScript;
-- Melhorar performance mobile;
-- Criar sistema de progresso real;
-- Criar modo treino de escrita interativa.
+Pode ser publicado diretamente em GitHub Pages, Netlify ou Vercel como site estático.
