@@ -1,5 +1,116 @@
 # Changelog · HanVerse VS
 
+## v3.8.3 · Root Data Architecture
+
+- Arquivos JSON movidos da pasta `data/` para a raiz.
+- Loader externo atualizado para buscar JSON na raiz.
+- Service Worker atualizado.
+- Mantido fallback interno do app.
+
+
+## v3.8.2 · External Data Architecture
+
+- Criada arquitetura externa de dados em JSON.
+- Exportados 1786 ideogramas para arquivos HSK.
+- Exportadas 359 combinações.
+- Mantido fallback interno para compatibilidade.
+- Service Worker atualizado para cachear arquivos `data/`.
+
+
+## v3.8.1 · Population Wave
+
+- Nova onda de população.
+- 54 ideogramas adicionados.
+- 28 combinações adicionadas.
+- Mantida a estabilidade da v3.8.0.
+- Cache atualizado para v3.8.1.
+
+
+## v3.8.0 · Population Wave
+
+- Nova onda de população.
+- 58 ideogramas adicionados.
+- 36 combinações adicionadas.
+- Mantida a estabilidade da v3.7.9.
+- Cache atualizado para v3.8.0.
+
+
+## v3.7.9 · Population Wave
+
+- Nova onda de população.
+- 74 ideogramas adicionados.
+- 36 combinações adicionadas.
+- Mantida a estabilidade da v3.7.8.
+- Cache atualizado para v3.7.9.
+
+
+## v3.7.8 · Population Wave
+
+- Nova onda de população.
+- 74 ideogramas adicionados.
+- 45 combinações adicionadas.
+- Mantida a estabilidade da v3.7.7.
+- Cache atualizado para v3.7.8.
+
+
+## v3.7.7 · Population Wave
+
+- Nova onda de população.
+- 61 ideogramas adicionados.
+- 43 combinações adicionadas.
+- Mantida a estabilidade da v3.7.6.
+- Cache atualizado para v3.7.7.
+
+
+## v3.7.6 · Faithful Decompose Final Fix
+
+- Restaurado texto visual do botão para Decompor.
+- Corrigido botão Repetir animação.
+- Modal Decompor usa motor HanziWriter quando disponível.
+- Fallback seguro com glifo fiel, sem traços inventados.
+- Cache atualizado para v3.7.6.
+
+
+## v3.7.5 · Perfect Decompose Stroke Sync
+
+- Corrigido desenho errado no modal Decompor.
+- Modal agora tenta usar HanziWriter, o mesmo motor da animação pedagógica.
+- Fallback seguro mostra glifo fiel em vez de desenho falso.
+- Cache atualizado para v3.7.5.
+
+
+## v3.7.4 · Faithful Glyph Decompose
+
+- Corrigido problema de imagens erradas no Decompor.
+- Removido fallback de traços genéricos que desenhava ideogramas incorretos.
+- Adicionado modo visualização fiel do glifo.
+- Cache atualizado para v3.7.4.
+
+
+## v3.7.3 · Safe Decompose Trigger
+
+- Corrigido conflito de listeners antigos no botão Decompor.
+- Botão passa a aparecer como "Analisar" para evitar interceptação antiga.
+- Modal abre com escrita guiada e animação de traços.
+- Cache atualizado para v3.7.3.
+
+
+## v3.7.2 · Stroke Modal Restore
+
+- Corrigida perda da animação pedagógica de traços no modal.
+- Adicionado painel `stroke-restore-panel`.
+- `openDetail` agora renderiza decomposição + escrita guiada + animação.
+- Cache atualizado para v3.7.2.
+
+
+## v3.7.1 · Decompose Button Fix
+
+- Corrigido botão Decompor que não abria.
+- Adicionado `HanVerseOpenDetail`.
+- Adicionada abertura robusta de modal com fallback.
+- Cache atualizado para v3.7.1.
+
+
 ## v3.7.0 · HSK Locked Renderer
 
 - Corrigido problema dos cards HSK vazios.

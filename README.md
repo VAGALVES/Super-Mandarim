@@ -300,3 +300,141 @@ Correção:
 - adiciona MutationObserver no painel HSK;
 - se um renderer antigo sobrescrever a grade, o app restaura o layout oficial;
 - mantém contadores no formato HSK / assunto / acumulado.
+
+
+## v3.7.1 · Decompose Button Fix
+
+Correção:
+
+- botão Decompor agora abre por delegação de evento;
+- `openDetail` foi sobrescrito com fallback robusto;
+- modal abre mesmo se o fluxo antigo falhar;
+- fechamento por X, fundo e ESC preservado.
+
+
+## v3.7.2 · Stroke Modal Restore
+
+Correção:
+
+- restaura a área visual de escrita guiada dentro do modal Decompor;
+- adiciona quadro de caligrafia com grade;
+- adiciona animação de traços;
+- adiciona botões numerados para isolar cada traço;
+- adiciona botão para repetir animação.
+
+
+## v3.7.3 · Safe Decompose Trigger
+
+Correção:
+
+- substitui o botão Decompor por gatilho seguro "Analisar";
+- evita conflito com listeners antigos que capturavam o clique antes;
+- usa pointerdown para abrir o modal antes dos listeners antigos;
+- mantém a escrita guiada, animação de traços e botões individuais.
+
+
+## v3.7.4 · Faithful Glyph Decompose
+
+Correção pedagógica:
+
+- remove o uso de traços genéricos falsos para caracteres sem base confiável;
+- mostra o ideograma fiel como glifo tipográfico quando a ordem real dos traços ainda não foi curada;
+- mantém animação curada apenas para caracteres com dados internos revisados;
+- adiciona aviso pedagógico para evitar ensino incorreto.
+
+
+## v3.7.5 · Perfect Decompose Stroke Sync
+
+Correção:
+
+- modal Analisar/Decompor passa a usar o mesmo motor visual da animação pedagógica dos traços;
+- remove desenhos próprios incorretos do modal;
+- quando HanziWriter/dados reais estão disponíveis, o caractere é animado fielmente;
+- quando não estão disponíveis, o app mostra glifo fiel sem inventar traços;
+- botões de traço individual usam `animateStroke` quando possível.
+
+
+## v3.7.6 · Faithful Decompose Final Fix
+
+Correção solicitada:
+
+- botão volta a aparecer como **Decompor**;
+- remove gatilho visual “Analisar”;
+- neutraliza listeners antigos sem mudar o texto visível;
+- modal usa HanziWriter quando disponível;
+- botão Repetir animação chama novamente `animateCharacter`;
+- sem fallback de traços falsos: se o motor real não carregar, mostra glifo fiel.
+
+
+## v3.7.7 · Population Wave
+
+Expansão de base:
+
+- adicionados 61 novos ideogramas;
+- adicionadas 43 novas combinações;
+- foco em radicais 彳, 心/忄, 戈, 户 e 扌;
+- sem alterações no modal Decompor, tema, HSK ou system design.
+
+
+## v3.7.8 · Population Wave
+
+Expansão de base:
+
+- adicionados 74 novos ideogramas;
+- adicionadas 45 novas combinações;
+- foco em radicais 攵, 文, 斗, 斤, 方, 日, 曰, 月 e 木;
+- sem alterações no modal Decompor, tema, HSK ou system design.
+
+
+## v3.7.9 · Population Wave
+
+Expansão de base:
+
+- adicionados 74 novos ideogramas;
+- adicionadas 36 novas combinações;
+- foco em radicais 木, 欠, 止, 歹, 殳, 毋 e 母;
+- sem alterações no modal Decompor, tema, HSK ou system design.
+
+
+## v3.8.0 · Population Wave
+
+Expansão de base:
+
+- adicionados 58 novos ideogramas;
+- adicionadas 36 novas combinações;
+- foco em radicais 氏, 气, 水 e 氵;
+- sem alterações no modal Decompor, tema, HSK ou system design.
+
+
+## v3.8.1 · Population Wave
+
+Expansão de base:
+
+- adicionados 54 novos ideogramas;
+- adicionadas 28 novas combinações;
+- foco ampliado no radical 氵;
+- sem alterações no modal Decompor, tema, HSK ou system design.
+
+
+## v3.8.2 · External Data Architecture
+
+Mudança arquitetural:
+
+- criada pasta `data/`;
+- criados arquivos `characters-hsk-1.json` a `characters-hsk-9.json`;
+- criado `data/combinations.json`;
+- criado `data/manifest-data.json`;
+- app passa a tentar carregar dados externos via `fetch()`;
+- se o JSON não carregar, a base interna continua funcionando como fallback;
+- exportados 1786 ideogramas e 359 combinações.
+
+
+## v3.8.3 · Root Data Architecture
+
+Ajuste para uso no celular:
+
+- removida a dependência da pasta `data/`;
+- arquivos JSON movidos para a raiz;
+- loader atualizado para buscar `characters-hsk-1.json` diretamente na raiz;
+- service worker atualizado para cachear os JSON da raiz;
+- ideal para upload manual pelo GitHub mobile.
