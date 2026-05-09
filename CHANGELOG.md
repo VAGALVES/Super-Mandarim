@@ -1,5 +1,92 @@
 # Changelog · HanVerse VS
 
+## v3.7.0 · HSK Locked Renderer
+
+- Corrigido problema dos cards HSK vazios.
+- Adicionado renderizador travado com MutationObserver.
+- O painel HSK oficial agora se auto-restaura caso scripts antigos sobrescrevam a grade.
+- Cache atualizado para v3.7.0.
+
+
+## v3.6.9 · HSK Static Map Fix
+
+- Substituído mapa HSK antigo que continuava aparecendo com contagem errada.
+- Painel oficial HSK passa a ser a única fonte visual.
+- Contador agora acompanha o mesmo conjunto renderizado no filtro.
+- Cache atualizado para v3.6.9.
+
+
+## v3.6.8 · HSK Authoritative Count
+
+- Corrigida divergência persistente do HSK 9.
+- Adicionado contador autoritativo calculado por `byLevel(level).length`.
+- Renderização final roda depois dos scripts antigos para impedir sobrescrita.
+- Cache atualizado para v3.6.8.
+
+
+## v3.6.7 · HSK Count Sync
+
+- Corrigida divergência entre contagem HSK e cards filtrados.
+- Criada base canônica `HanVerseCanonicalCharacters`.
+- Renderização dos cards de ideogramas passa a usar a mesma base dos contadores.
+- Cache atualizado para v3.6.7.
+
+
+## v3.6.6 · HSK Card Layout
+
+- Cards HSK redesenhados no formato HSK [nº] / assunto / acumulado.
+- Melhor legibilidade mobile.
+- Mantida delegação de clique da v3.6.5.
+- Cache atualizado para v3.6.6.
+
+
+## v3.6.5 · HSK Click Fix
+
+- Corrigido clique dos HSKs por delegação de evento.
+- Cards HSK renderizados ou antigos agora aplicam filtro automaticamente.
+- Subfiltros semânticos também usam delegação.
+- Cache atualizado para v3.6.5.
+
+
+## v3.6.4 · HSK Interactive Taxonomy
+
+- Adicionado painel HSK interativo com contadores.
+- HSK cards agora funcionam como filtros clicáveis.
+- Subfiltros por campo semântico aparecem dentro do HSK selecionado.
+- Select de HSK normalizado para HSK 1, HSK 2, ..., HSK 9.
+- Cache atualizado para v3.6.4.
+
+
+## v3.6.3 · Mobile Navigation and Character Taxonomy
+
+- Removido botão flutuante inferior de tema.
+- Adicionada navegação inteligente dos ideogramas com filtros por HSK, categoria e radical.
+- Adicionado carregamento progressivo para evitar página infinita no mobile.
+- Adicionados 48 novos caracteres únicos.
+- Adicionadas 57 novas combinações.
+- Cache atualizado para v3.6.3.
+
+
+## v3.6.2 · Tone Training and Theme Button
+
+- Corrigido treino de tons: agora existe contorno sonoro sintético diferente para cada tom.
+- Adicionado laboratório de tons reais com mā, má, mǎ, mà e ma.
+- Botão de tema virou ícone e foi reposicionado para não sobrepor o menu.
+- Modo claro refinado.
+- Adicionados 45 novos caracteres únicos.
+- Adicionadas 49 novas combinações.
+- Cache atualizado para v3.6.2.
+
+
+## v3.6.1 · Population Expansion
+
+- Adicionados 189 novos caracteres únicos.
+- Adicionadas 65 novas combinações com anatomia visual.
+- Nova seção `extraCombosV361Grid`.
+- Contadores atualizados para considerar a nova base de combinações.
+- Cache atualizado para v3.6.1.
+
+
 ## v3.6.0 · Light Mode and Combo Anatomy
 
 - Refinado o modo claro preservando o system design original.
