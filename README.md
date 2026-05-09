@@ -4,9 +4,9 @@ App educacional em HTML, CSS e JavaScript para estudo de chinês mandarim.
 
 ## Versão
 
-**MVP 2.1 · Base Expandida II**
+**MVP 2.7 · Tema Claro + Glossário Expandido**
 
-## Principais recursos
+## Recursos principais
 
 - Ideogramas organizados por HSK 1–9;
 - Pinyin e fonética aplicada para brasileiros;
@@ -14,8 +14,12 @@ App educacional em HTML, CSS e JavaScript para estudo de chinês mandarim.
 - Tons do mandarim;
 - Combinações de ideogramas;
 - Gramática com decomposição;
+- Glossário expandido de termos essenciais;
 - Áudio em frases e combinações;
 - Animação fiel de escrita dos ideogramas;
+- Números dos traços clicáveis;
+- Animação mais lenta para estudo;
+- Modo claro/escuro com contraste ajustado;
 - Favoritos e revisão ativa;
 - Quiz rápido;
 - Design responsivo.
