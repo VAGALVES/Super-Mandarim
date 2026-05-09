@@ -1,20 +1,13 @@
 # Changelog · HanVerse VS
 
-## v3.2 · Learning UX + Selective Offline Cache
+## v3.5 · Accelerated Expansion
 
-- Busca com autocomplete visual por caractere, pinyin, tradução, radical, nível e categoria.
-- Atalhos por radicais frequentes para filtrar caracteres rapidamente.
-- Laboratório de gramática com exercícios de ordenar frase em padrão SVO.
-- Exercício de completar partículas: 的, 了, 吗, 呢 e 在.
-- Quiz com modos:
-  - tradução;
-  - ouvir áudio e escolher caractere;
-  - pinyin para escrita do caractere, com canvas livre para treino manual.
-- PWA offline com cache seletivo:
-  - core assets no cache principal;
-  - CDN/HanziWriter em cache de runtime quando acessados;
-  - fallback de navegação para index.html.
+- Adição de 213 novos caracteres únicos.
+- Adição de 128 novas combinações práticas.
+- Expansão acelerada por radicais, com reforço em caracteres comuns, trabalho, cidade, tecnologia, saúde, documentos, conectores e cultura.
+- Total aproximado agora: 1183 caracteres únicos.
+- Validação de sintaxe JavaScript com `node --check`.
 
-## v3.1 · Installable
+## v3.4 · Daily Life Expansion
 
-- Manifest, service worker, ícones e botão de instalação.
+- Expansão de clima, documentos, transporte, saúde, tecnologia e cultura.

@@ -44,3 +44,29 @@ O `service-worker.js` separa:
 ### Observação
 
 Para o botão de instalação funcionar corretamente, publique em HTTPS, como GitHub Pages, Netlify ou Vercel.
+
+
+## v3.2.1 · Correção
+
+Correção da função `answerQuiz()` e validação de sintaxe JavaScript antes da próxima rodada de população.
+
+
+## v3.3 · Expanded Practical Mandarin
+
+Esta versão adiciona 52 novos caracteres únicos e 75 combinações práticas para vida real em mandarim: moradia, trabalho, universidade, tecnologia, saúde, turismo, finanças, supermercado e conectores.
+
+A sintaxe JavaScript foi validada com `node --check`.
+
+
+## v3.4 · Daily Life Expansion
+
+Esta versão adiciona 41 novos caracteres únicos e 71 combinações práticas para uso cotidiano: clima, documentos, transporte, compras, restaurante, saúde, tecnologia, conectores e cultura chinesa.
+
+A sintaxe JavaScript foi validada com `node --check`.
+
+
+## v3.5 · Accelerated Expansion
+
+Rodada acelerada com 213 novos caracteres únicos e 128 combinações práticas. A base se aproxima de 1.100 caracteres únicos, preservando pinyin, tons, categorias, exemplos e áudio.
+
+Validação JavaScript: `node --check` OK.
