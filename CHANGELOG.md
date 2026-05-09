@@ -1,5 +1,13 @@
 # Changelog · HanVerse VS
 
+## v3.5.1 · Root Icons
+
+- Manifest atualizado para buscar ícones na raiz.
+- Service worker atualizado para cachear ícones na raiz.
+- HTML atualizado para buscar `apple-touch-icon`, `favicon` e ícone do banner de instalação na raiz.
+- Pasta `/icons` removida do pacote final para facilitar upload pelo celular.
+
+
 ## v3.5 · Accelerated Expansion
 
 - Adição de 213 novos caracteres únicos.

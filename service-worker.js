@@ -1,13 +1,13 @@
-const CACHE_NAME = "hanverse-vs-v3-2-core";
-const RUNTIME_CACHE = "hanverse-vs-v3-2-runtime";
+const CACHE_NAME = "hanverse-vs-v3-5-1-root-icons-core";
+const RUNTIME_CACHE = "hanverse-vs-v3-5-1-root-icons-runtime";
 const CORE_ASSETS = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
-  "./icons/icon-32.png",
-  "./icons/icon-192.png",
-  "./icons/icon-512.png",
-  "./icons/apple-touch-icon-180.png"
+  "./icon-32.png",
+  "./icon-192.png",
+  "./icon-512.png",
+  "./apple-touch-icon-180.png"
 ];
 self.addEventListener("install", event => {
   event.waitUntil(

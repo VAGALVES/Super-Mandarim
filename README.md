@@ -70,3 +70,18 @@ A sintaxe JavaScript foi validada com `node --check`.
 Rodada acelerada com 213 novos caracteres únicos e 128 combinações práticas. A base se aproxima de 1.100 caracteres únicos, preservando pinyin, tons, categorias, exemplos e áudio.
 
 Validação JavaScript: `node --check` OK.
+
+
+## v3.5.1 · Root Icons
+
+Esta versão remove a dependência da pasta `/icons`.
+
+Agora o `index.html`, o `manifest.webmanifest` e o `service-worker.js` buscam os ícones diretamente na raiz do repositório:
+
+- `./icon-192.png`
+- `./icon-512.png`
+- `./icon-maskable-192.png`
+- `./icon-maskable-512.png`
+- `./apple-touch-icon-180.png`
+
+Isso facilita o upload manual pelo celular no GitHub.
