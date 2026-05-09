@@ -1,5 +1,14 @@
 # Changelog · HanVerse VS
 
+## v3.5.2 · Button Fix
+
+- Adicionada camada defensiva de JavaScript para religar os botões críticos mesmo se parte do `init()` original falhar.
+- Corrigido botão de Copiar Plano com fallback para navegadores sem Clipboard API.
+- Corrigido botão Instalar Agora com tratamento para Android/Chrome e iOS.
+- Corrigido botão de Tema com alternância direta entre dark/parchment.
+- Mantidos ícones PWA na raiz do repositório.
+
+
 ## v3.5.1 · Root Icons
 
 - Manifest atualizado para buscar ícones na raiz.

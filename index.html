@@ -4,8 +4,8 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="theme-color" content="#7F1D1D" />
-<title>HanVerse VS · MVP 3.5.1 Root Icons</title>
-<!-- v3.5.1: ícones PWA apontando para a raiz do repositório, sem pasta /icons -->
+<title>HanVerse VS · MVP 3.5.2 Button Fix</title>
+<!-- v3.5.2: correção defensiva dos botões Copiar Plano, Instalar Agora e Tema -->
 <link rel="manifest" href="./manifest.webmanifest" />
 <link rel="icon" type="image/png" sizes="32x32" href="./icon-32.png" />
 <link rel="icon" type="image/png" sizes="192x192" href="./icon-192.png" />
@@ -624,13 +624,18 @@ display:grid;place-items:center}
   color:#8A4F00 !important;
 }
 
+
+/* v3.5.2 · Button fix helpers */
+.install-banner[hidden]{display:none !important}
+.install-banner.show{display:block !important}
+
 </style>
 <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.7/dist/hanzi-writer.min.js"></script>
 </head>
 <body>
 <div class="app">
 <header class="topbar">
-  <a class="brand" href="#inicio"><div class="seal"><span>汉</span></div><div><strong>HanVerse VS</strong><small>Mandarim visual, sonoro e estrutural · v3.5.1</small></div></a>
+  <a class="brand" href="#inicio"><div class="seal"><span>汉</span></div><div><strong>HanVerse VS</strong><small>Mandarim visual, sonoro e estrutural · v3.5.2</small></div></a>
   <div class="actions">
     <button class="btn" id="theme">Tema claro/escuro</button>
     <button class="btn" id="focus">Ativar modo claro</button>
@@ -641,7 +646,7 @@ display:grid;place-items:center}
 <main>
 <section class="hero" id="inicio">
   <div class="panel hero-main">
-    <span class="kicker">VS Mandarin Learning Stack</span><span class="version">Evolução 3.5.1</span>
+    <span class="kicker">VS Mandarin Learning Stack</span><span class="version">Evolução 3.5.2</span>
     <h1>Aprenda chinês vendo, ouvindo, escrevendo e decompondo.</h1>
     <p>Um app educacional para brasileiros aprenderem mandarim por camadas: ideograma, pinyin, tom, significado, radical, traços, evolução visual, combinações e uso real em frases.</p>
     <div class="hero-actions"><a class="btn primary" href="#ideogramas">Explorar ideogramas</a><a class="btn" href="#tons">Treinar tons</a><a class="btn" href="#gramatica">Ver gramática</a></div>
@@ -2056,6 +2061,189 @@ setTimeout(showInstallBanner,700);
 registerPWA();
 }
 init();
+
+
+/* v3.5.2 · Defensive button wiring */
+(function(){
+  function ready(fn){
+    if(document.readyState === "loading"){
+      document.addEventListener("DOMContentLoaded", fn, {once:true});
+    } else {
+      fn();
+    }
+  }
+  function qs(sel){ return document.querySelector(sel); }
+  function toastSafe(msg){
+    const t = qs("#toast");
+    if(t){
+      t.textContent = msg;
+      t.classList.add("show");
+      setTimeout(()=>t.classList.remove("show"), 1800);
+    } else {
+      console.log(msg);
+    }
+  }
+  function copyTextSafe(text){
+    const value = String(text || "").trim();
+    if(!value) return toastSafe("Nada para copiar");
+    if(navigator.clipboard && window.isSecureContext){
+      navigator.clipboard.writeText(value).then(()=>toastSafe("Copiado")).catch(()=>fallbackCopy(value));
+    } else {
+      fallbackCopy(value);
+    }
+  }
+  function fallbackCopy(value){
+    const ta = document.createElement("textarea");
+    ta.value = value;
+    ta.setAttribute("readonly","");
+    ta.style.position = "fixed";
+    ta.style.left = "-9999px";
+    ta.style.top = "0";
+    document.body.appendChild(ta);
+    ta.select();
+    try{
+      document.execCommand("copy");
+      toastSafe("Copiado");
+    }catch(e){
+      toastSafe("Não consegui copiar automaticamente");
+    }
+    ta.remove();
+  }
+  function getPlanText(){
+    const sections = [
+      "HanVerse VS · Plano de Estudo",
+      "1. Tons: treinar 1º, 2º, 3º, 4º e tom neutro com áudio.",
+      "2. Fonética: revisar iniciais, finais e diferenças com o português.",
+      "3. Ideogramas: estudar por HSK, radical, pinyin e significado.",
+      "4. Caligrafia: observar animação, ordem dos traços e traços individuais.",
+      "5. Combinações: aprender palavras formadas por caracteres.",
+      "6. Gramática: praticar SVO, partículas e exemplos.",
+      "7. Quiz: alternar tradução, áudio e escrita.",
+      "8. Revisão: favoritar caracteres difíceis e repetir diariamente."
+    ];
+    return sections.join("\n");
+  }
+  function wireCopyButtons(){
+    document.querySelectorAll("button, .btn, [role='button']").forEach(btn=>{
+      const txt = (btn.textContent || "").trim().toLowerCase();
+      const id = (btn.id || "").toLowerCase();
+      if(id.includes("copyplan") || txt.includes("copiar plano") || txt.includes("copiar roteiro") || txt.includes("copiar")){
+        if(btn.dataset.vsCopyFixed === "1") return;
+        btn.dataset.vsCopyFixed = "1";
+        btn.addEventListener("click", function(ev){
+          const specific = btn.getAttribute("data-copy") || btn.getAttribute("data-text") || btn.dataset.copyText;
+          if(txt.includes("copiar plano") || id.includes("copyplan")){
+            ev.preventDefault();
+            copyTextSafe(specific || getPlanText());
+          }
+        }, true);
+      }
+    });
+    const copyPlan = qs("#copyPlan") || qs("#copyPlanBtn") || qs("[data-action='copy-plan']");
+    if(copyPlan && copyPlan.dataset.vsCopyFixed !== "1"){
+      copyPlan.dataset.vsCopyFixed = "1";
+      copyPlan.addEventListener("click", e=>{e.preventDefault();copyTextSafe(getPlanText());}, true);
+    }
+  }
+  let deferredPromptFix = null;
+  window.addEventListener("beforeinstallprompt", function(e){
+    e.preventDefault();
+    deferredPromptFix = e;
+    const banner = qs("#installBanner");
+    if(banner && localStorage.getItem("hanverse-install-dismissed-v1") !== "1"){
+      banner.hidden = false;
+      banner.classList.add("show");
+    }
+  });
+  function wireInstallButton(){
+    const installBtn = qs("#installAppBtn");
+    const dismissBtn = qs("#dismissInstallBtn");
+    const banner = qs("#installBanner");
+    const hint = qs("#installHint");
+    const isStandalone = window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
+    const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
+    if(isStandalone && banner){
+      banner.hidden = true;
+      banner.classList.remove("show");
+    }
+    if(installBtn && installBtn.dataset.vsInstallFixed !== "1"){
+      installBtn.dataset.vsInstallFixed = "1";
+      installBtn.addEventListener("click", async function(e){
+        e.preventDefault();
+        if(deferredPromptFix){
+          deferredPromptFix.prompt();
+          try{
+            const choice = await deferredPromptFix.userChoice;
+            if(choice && choice.outcome === "accepted"){
+              toastSafe("Instalação iniciada");
+              localStorage.setItem("hanverse-install-dismissed-v1","1");
+              if(banner){ banner.hidden = true; banner.classList.remove("show"); }
+            } else {
+              toastSafe("Instalação cancelada");
+            }
+          }catch(err){
+            toastSafe("Abra pelo Chrome e tente instalar novamente");
+          }
+          deferredPromptFix = null;
+          return;
+        }
+        if(isIOS){
+          if(hint) hint.innerHTML = "No iPhone/iPad: toque em <b>Compartilhar</b> e depois em <b>Adicionar à Tela de Início</b>.";
+          toastSafe("Use Compartilhar → Adicionar à Tela de Início");
+        } else {
+          toastSafe("No Chrome, use ⋮ → Adicionar à tela inicial");
+        }
+      }, true);
+    }
+    if(dismissBtn && dismissBtn.dataset.vsDismissFixed !== "1"){
+      dismissBtn.dataset.vsDismissFixed = "1";
+      dismissBtn.addEventListener("click", function(e){
+        e.preventDefault();
+        localStorage.setItem("hanverse-install-dismissed-v1","1");
+        if(banner){ banner.hidden = true; banner.classList.remove("show"); }
+      }, true);
+    }
+    if(banner && !isStandalone && localStorage.getItem("hanverse-install-dismissed-v1") !== "1"){
+      setTimeout(()=>{ banner.hidden = false; banner.classList.add("show"); }, 900);
+    }
+  }
+  function wireThemeButton(){
+    const btn = qs("#themeFab") || qs("[data-action='theme']") || Array.from(document.querySelectorAll("button")).find(b => (b.textContent||"").toLowerCase().includes("tema"));
+    if(!btn || btn.dataset.vsThemeFixed === "1") return;
+    btn.dataset.vsThemeFixed = "1";
+    btn.addEventListener("click", function(e){
+      e.preventDefault();
+      const root = document.documentElement;
+      const current = root.getAttribute("data-theme") || "dark";
+      const next = current === "parchment" || current === "light" ? "dark" : "parchment";
+      root.setAttribute("data-theme", next);
+      localStorage.setItem("hanverse-theme", next);
+      const meta = qs("#meta-theme");
+      if(meta) meta.setAttribute("content", next === "dark" ? "#0A1220" : "#F6E7C8");
+      toastSafe(next === "dark" ? "Tema escuro ativado" : "Tema claro ativado");
+    }, true);
+  }
+  function restoreTheme(){
+    const saved = localStorage.getItem("hanverse-theme");
+    if(saved){
+      document.documentElement.setAttribute("data-theme", saved);
+      const meta = qs("#meta-theme");
+      if(meta) meta.setAttribute("content", saved === "dark" ? "#0A1220" : "#F6E7C8");
+    }
+  }
+  ready(function(){
+    restoreTheme();
+    wireCopyButtons();
+    wireInstallButton();
+    wireThemeButton();
+    setTimeout(function(){
+      wireCopyButtons();
+      wireInstallButton();
+      wireThemeButton();
+    }, 1200);
+  });
+})();
+
 </script>
 </body>
 </html>

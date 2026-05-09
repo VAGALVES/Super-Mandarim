@@ -85,3 +85,14 @@ Agora o `index.html`, o `manifest.webmanifest` e o `service-worker.js` buscam os
 - `./apple-touch-icon-180.png`
 
 Isso facilita o upload manual pelo celular no GitHub.
+
+
+## v3.5.2 · Button Fix
+
+Correção defensiva dos botões:
+
+- Copiar Plano;
+- Instalar agora;
+- Mudar tema.
+
+Também mantém todos os ícones PWA na raiz do repositório, sem pasta `/icons`.
