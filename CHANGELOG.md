@@ -1,5 +1,122 @@
 # Changelog · HanVerse VS
 
+## v3.9.6 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 81 ideogramas adicionados.
+- 24 combinações adicionadas.
+- Total aproximado: 2800 ideogramas.
+- Mantida a mecânica da v3.9.5.
+
+
+## v3.9.5 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 49 ideogramas adicionados.
+- 26 combinações adicionadas.
+- Total aproximado: 2719 ideogramas.
+- Mantida a mecânica da v3.9.4.
+
+
+## v3.9.4 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 79 ideogramas adicionados.
+- 28 combinações adicionadas.
+- Total aproximado: 2670 ideogramas.
+- Mantida a mecânica da v3.9.3.
+
+
+## v3.9.3 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 8 ideogramas adicionados.
+- 26 combinações adicionadas.
+- Total aproximado: 2591 ideogramas.
+- Mantida a mecânica da v3.9.2.
+
+
+## v3.9.2 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 33 ideogramas adicionados.
+- 24 combinações adicionadas.
+- Total aproximado: 2583 ideogramas.
+- Mantida a mecânica da v3.9.1.
+
+
+## v3.9.1 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 69 ideogramas adicionados.
+- 30 combinações adicionadas.
+- Total aproximado: 2550 ideogramas.
+- Mantida a mecânica da v3.9.0.
+
+
+## v3.9.0 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 119 ideogramas adicionados.
+- 37 combinações adicionadas.
+- Total aproximado: 2481 ideogramas.
+- Mantida a mecânica da v3.8.9.
+
+
+## v3.8.9 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 90 ideogramas adicionados.
+- 32 combinações adicionadas.
+- Total aproximado: 2362 ideogramas.
+- Mantida a mecânica da v3.8.8.
+
+
+## v3.8.8 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 134 ideogramas adicionados.
+- 28 combinações adicionadas.
+- Total aproximado: 2272 ideogramas.
+- Mantida a mecânica da v3.8.7.
+
+
+## v3.8.7 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 88 ideogramas adicionados.
+- 30 combinações adicionadas.
+- Total aproximado: 2138 ideogramas.
+- Mantida a mecânica da v3.8.6.
+
+
+## v3.8.6 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 75 ideogramas adicionados.
+- 35 combinações adicionadas.
+- Total aproximado: 2050 ideogramas.
+- Mantida a mecânica da v3.8.5.
+
+
+## v3.8.5 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 90 ideogramas adicionados.
+- 28 combinações adicionadas.
+- Total aproximado: 1975 ideogramas.
+- Mantida a mecânica da v3.8.4.
+
+
+## v3.8.4 · Root JSON Population Wave
+
+- Nova onda de população diretamente nos JSON da raiz.
+- 99 ideogramas adicionados.
+- 35 combinações adicionadas.
+- Total aproximado: 1885 ideogramas.
+- Mantida a mecânica da v3.8.3.
+
+
 ## v3.8.3 · Root Data Architecture
 
 - Arquivos JSON movidos da pasta `data/` para a raiz.

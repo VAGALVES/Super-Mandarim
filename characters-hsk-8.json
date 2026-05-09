@@ -1,0 +1,890 @@
+[
+  {
+    "char": "乾",
+    "traditional": "乾",
+    "pinyin": "qián",
+    "tone": 2,
+    "translation": "céu; seco em tradicional/contexto clássico",
+    "radical": "乙",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "Cultura clássica",
+    "note": "Caractere de alta utilidade em Cultura clássica, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
+    "evolution": "乾 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "steps": [
+      "Observe a estrutura geral de 乾.",
+      "Use a animação fiel para estudar a ordem dos traços.",
+      "Revise o caractere dentro de combinações frequentes."
+    ],
+    "combinations": [
+      "乾隆 · Qianlong",
+      "乾坤 · céu e terra"
+    ],
+    "examples": [
+      {
+        "zh": "这是历史文化词。",
+        "py": "Zhè shì lìshǐ wénhuà cí.",
+        "pt": "Esta é uma palavra histórica/cultural.",
+        "breakdown": [
+          "乾 = céu; seco em tradicional/contexto clássico",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "亏",
+    "traditional": "亏",
+    "pinyin": "kuī",
+    "tone": 1,
+    "translation": "perder; prejuízo",
+    "radical": "二",
+    "strokes": 3,
+    "level": "HSK 8",
+    "category": "Economia e finanças",
+    "note": "Prejuízo/perda.",
+    "evolution": "亏 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
+    "steps": [
+      "Observe a arquitetura visual de 亏 antes de escrever.",
+      "Localize radical, componente semântico e componente fonético provável.",
+      "Escreva por blocos, respeitando equilíbrio, densidade e proporção."
+    ],
+    "combinations": [
+      "亏损 · kuīsǔn · prejuízo",
+      "盈亏 · yíngkuī · lucro e prejuízo"
+    ],
+    "examples": [
+      {
+        "zh": "公司没有亏损。",
+        "py": "Gōngsī méiyǒu kuīsǔn.",
+        "pt": "A empresa não teve prejuízo.",
+        "breakdown": [
+          "公司 = empresa",
+          "没有 = não ter",
+          "亏损 = prejuízo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "仟",
+    "traditional": "仟",
+    "pinyin": "qiān",
+    "tone": 1,
+    "translation": "mil em documentos financeiros",
+    "radical": "亻",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "Finanças",
+    "note": "Caractere de alta utilidade em Finanças, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
+    "evolution": "仟 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "steps": [
+      "Observe a estrutura geral de 仟.",
+      "Use a animação fiel para estudar a ordem dos traços.",
+      "Revise o caractere dentro de combinações frequentes."
+    ],
+    "combinations": [
+      "仟元 · mil yuans"
+    ],
+    "examples": [
+      {
+        "zh": "这个字用于金额大写。",
+        "py": "Zhège zì yòngyú jīn'é dàxiě.",
+        "pt": "Este caractere é usado em valores financeiros por extenso.",
+        "breakdown": [
+          "仟 = mil em documentos financeiros",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "佃",
+    "traditional": "佃",
+    "pinyin": "diàn",
+    "tone": 4,
+    "translation": "cultivar terra arrendada",
+    "radical": "亻",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "História e campo",
+    "note": "Caractere de alta utilidade em História e campo, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
+    "evolution": "佃 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "steps": [
+      "Observe a estrutura geral de 佃.",
+      "Use a animação fiel para estudar a ordem dos traços.",
+      "Revise o caractere dentro de combinações frequentes."
+    ],
+    "combinations": [
+      "佃户 · arrendatário rural"
+    ],
+    "examples": [
+      {
+        "zh": "这是历史农业词。",
+        "py": "Zhè shì lìshǐ nóngyè cí.",
+        "pt": "Esta é uma palavra histórica agrícola.",
+        "breakdown": [
+          "佃 = cultivar terra arrendada",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "佈",
+    "traditional": "佈",
+    "pinyin": "bù",
+    "tone": 4,
+    "translation": "forma tradicional de 布",
+    "radical": "亻",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "Tradicional",
+    "note": "Caractere de alta utilidade em Tradicional, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
+    "evolution": "佈 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "steps": [
+      "Observe a estrutura geral de 佈.",
+      "Use a animação fiel para estudar a ordem dos traços.",
+      "Revise o caractere dentro de combinações frequentes."
+    ],
+    "combinations": [
+      "佈置 · arranjar (trad.)"
+    ],
+    "examples": [
+      {
+        "zh": "这是传统写法。",
+        "py": "Zhè shì chuántǒng xiěfǎ.",
+        "pt": "Esta é uma escrita tradicional.",
+        "breakdown": [
+          "佈 = forma tradicional de 布",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "侥",
+    "traditional": "侥",
+    "pinyin": "jiǎo",
+    "tone": 3,
+    "translation": "por sorte em composição",
+    "radical": "亻",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "Abstratos",
+    "note": "Caractere de alta utilidade em Abstratos, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
+    "evolution": "侥 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "steps": [
+      "Observe a estrutura geral de 侥.",
+      "Use a animação fiel para estudar a ordem dos traços.",
+      "Revise o caractere dentro de combinações frequentes."
+    ],
+    "combinations": [
+      "侥幸 · por sorte"
+    ],
+    "examples": [
+      {
+        "zh": "不要侥幸。",
+        "py": "Bú yào jiǎoxìng.",
+        "pt": "Não conte com a sorte.",
+        "breakdown": [
+          "侥 = por sorte em composição",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "傀",
+    "traditional": "傀",
+    "pinyin": "kuǐ",
+    "tone": 3,
+    "translation": "fantoche em composição",
+    "radical": "亻",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "Cultura",
+    "note": "Caractere de alta utilidade em Cultura, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
+    "evolution": "傀 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "steps": [
+      "Observe a estrutura geral de 傀.",
+      "Use a animação fiel para estudar a ordem dos traços.",
+      "Revise o caractere dentro de combinações frequentes."
+    ],
+    "combinations": [
+      "傀儡 · fantoche"
+    ],
+    "examples": [
+      {
+        "zh": "这是文学词汇。",
+        "py": "Zhè shì wénxué cíhuì.",
+        "pt": "Isto é vocabulário literário.",
+        "breakdown": [
+          "傀 = fantoche em composição",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "儡",
+    "traditional": "儡",
+    "pinyin": "lěi",
+    "tone": 3,
+    "translation": "fantoche em composição",
+    "radical": "亻",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "Cultura",
+    "note": "Caractere de alta utilidade em Cultura, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
+    "evolution": "儡 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "steps": [
+      "Observe a estrutura geral de 儡.",
+      "Use a animação fiel para estudar a ordem dos traços.",
+      "Revise o caractere dentro de combinações frequentes."
+    ],
+    "combinations": [
+      "傀儡 · fantoche"
+    ],
+    "examples": [
+      {
+        "zh": "傀儡是文化词。",
+        "py": "Kuǐlěi shì wénhuà cí.",
+        "pt": "Fantoche é uma palavra cultural.",
+        "breakdown": [
+          "儡 = fantoche em composição",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "兀",
+    "traditional": "兀",
+    "pinyin": "wù",
+    "tone": 4,
+    "translation": "alto e plano; abrupto",
+    "radical": "儿",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "Literário",
+    "note": "Caractere de alta utilidade em Literário, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
+    "evolution": "兀 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "steps": [
+      "Observe a estrutura geral de 兀.",
+      "Use a animação fiel para estudar a ordem dos traços.",
+      "Revise o caractere dentro de combinações frequentes."
+    ],
+    "combinations": [
+      "突兀 · abrupto"
+    ],
+    "examples": [
+      {
+        "zh": "这个词比较书面。",
+        "py": "Zhège cí bǐjiào shūmiàn.",
+        "pt": "Esta palavra é mais escrita/formal.",
+        "breakdown": [
+          "兀 = alto e plano; abrupto",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "剿",
+    "traditional": "剿",
+    "pinyin": "jiǎo",
+    "tone": 3,
+    "translation": "aniquilar",
+    "radical": "刂",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "História",
+    "note": "Caractere de alta utilidade em História, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
+    "evolution": "剿 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "steps": [
+      "Observe a estrutura geral de 剿.",
+      "Use a animação fiel para estudar a ordem dos traços.",
+      "Revise o caractere dentro de combinações frequentes."
+    ],
+    "combinations": [
+      "围剿 · cerco/aniquilação"
+    ],
+    "examples": [
+      {
+        "zh": "这是历史军事词。",
+        "py": "Zhè shì lìshǐ jūnshì cí.",
+        "pt": "Este é vocabulário militar histórico.",
+        "breakdown": [
+          "剿 = aniquilar",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "吁",
+    "traditional": "吁",
+    "pinyin": "xū",
+    "tone": 1,
+    "translation": "suspirar; apelar",
+    "radical": "口",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "Comunicação formal",
+    "note": "Caractere útil em Comunicação formal, adicionado para ampliar leitura, vocabulário prático e reconhecimento visual.",
+    "evolution": "吁 será aprofundado em ciclos futuros com evolução gráfica, decomposição histórica e exemplos adicionais.",
+    "steps": [
+      "Observe a estrutura geral de 吁.",
+      "Acompanhe a ordem dos traços na animação.",
+      "Memorize o caractere dentro de palavras compostas."
+    ],
+    "combinations": [
+      "呼吁 · apelar/chamar"
+    ],
+    "examples": [
+      {
+        "zh": "我们呼吁环保。",
+        "py": "Wǒmen hūyù huánbǎo.",
+        "pt": "Nós apelamos pela proteção ambiental.",
+        "breakdown": [
+          "吁 = suspirar; apelar",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "哉",
+    "traditional": "哉",
+    "pinyin": "zāi",
+    "tone": 1,
+    "translation": "partícula clássica",
+    "radical": "口",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "Cultura clássica",
+    "note": "Caractere útil em Cultura clássica, adicionado para ampliar leitura, vocabulário prático e reconhecimento visual.",
+    "evolution": "哉 será aprofundado em ciclos futuros com evolução gráfica, decomposição histórica e exemplos adicionais.",
+    "steps": [
+      "Observe a estrutura geral de 哉.",
+      "Acompanhe a ordem dos traços na animação.",
+      "Memorize o caractere dentro de palavras compostas."
+    ],
+    "combinations": [
+      "善哉 · excelente em estilo clássico"
+    ],
+    "examples": [
+      {
+        "zh": "这是古文用字。",
+        "py": "Zhè shì gǔwén yòngzì.",
+        "pt": "Este é um caractere de chinês clássico.",
+        "breakdown": [
+          "哉 = partícula clássica",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "哲",
+    "traditional": "哲",
+    "pinyin": "zhé",
+    "tone": 2,
+    "translation": "filosofia; sabedoria",
+    "radical": "口",
+    "strokes": 10,
+    "level": "HSK 8",
+    "category": "Filosofia",
+    "note": "Base de 哲学, filosofia.",
+    "evolution": "哲 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
+    "steps": [
+      "Observe a arquitetura visual de 哲 antes de escrever.",
+      "Localize radical, componente semântico e componente fonético provável.",
+      "Escreva por blocos, respeitando equilíbrio, densidade e proporção."
+    ],
+    "combinations": [
+      "哲学 · zhéxué · filosofia",
+      "哲理 · zhélǐ · princípio filosófico"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢哲学。",
+        "py": "Wǒ xǐhuān zhéxué.",
+        "pt": "Eu gosto de filosofia.",
+        "breakdown": [
+          "我 = eu",
+          "喜欢 = gostar",
+          "哲学 = filosofia"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "壬",
+    "traditional": "壬",
+    "pinyin": "rén",
+    "tone": 2,
+    "translation": "tronco celeste",
+    "radical": "士",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "Cultura clássica",
+    "note": "Caractere útil em Cultura clássica, adicionado para ampliar leitura, vocabulário prático e reconhecimento visual.",
+    "evolution": "壬 será aprofundado em ciclos futuros com evolução gráfica, decomposição histórica e exemplos adicionais.",
+    "steps": [
+      "Observe a estrutura geral de 壬.",
+      "Acompanhe a ordem dos traços na animação.",
+      "Memorize o caractere dentro de palavras compostas."
+    ],
+    "combinations": [
+      "壬寅 · ano renyin"
+    ],
+    "examples": [
+      {
+        "zh": "这是传统历法字。",
+        "py": "Zhè shì chuántǒng lìfǎ zì.",
+        "pt": "Este é um caractere do calendário tradicional.",
+        "breakdown": [
+          "壬 = tronco celeste",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "夷",
+    "traditional": "夷",
+    "pinyin": "yí",
+    "tone": 2,
+    "translation": "antigo termo étnico; plano",
+    "radical": "大",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "História",
+    "note": "Caractere útil em História, adicionado para ampliar leitura, vocabulário prático e reconhecimento visual.",
+    "evolution": "夷 será aprofundado em ciclos futuros com evolução gráfica, decomposição histórica e exemplos adicionais.",
+    "steps": [
+      "Observe a estrutura geral de 夷.",
+      "Acompanhe a ordem dos traços na animação.",
+      "Memorize o caractere dentro de palavras compostas."
+    ],
+    "combinations": [
+      "夷为平地 · arrasar"
+    ],
+    "examples": [
+      {
+        "zh": "这是历史用字。",
+        "py": "Zhè shì lìshǐ yòngzì.",
+        "pt": "Este é um caractere de uso histórico.",
+        "breakdown": [
+          "夷 = antigo termo étnico; plano",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "徵",
+    "traditional": "徵",
+    "pinyin": "zhǐ",
+    "tone": 3,
+    "translation": "nota musical; variante tradicional",
+    "radical": "彳",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "Cultura clássica",
+    "note": "Caractere útil em Cultura clássica, adicionado na expansão v3.7.7.",
+    "evolution": "徵 será aprofundado em ciclos futuros com evolução gráfica e decomposição etimológica.",
+    "steps": [
+      "Observe a estrutura de 徵 dentro da grade.",
+      "Acompanhe o equilíbrio entre esquerda, centro e direita.",
+      "Revise o caractere dentro de palavras compostas."
+    ],
+    "combinations": [
+      "徵音 · nota musical antiga"
+    ],
+    "examples": [
+      {
+        "zh": "这是古代音乐词。",
+        "py": "Zhè shì gǔdài yīnyuè cí.",
+        "pt": "Este é termo de música antiga.",
+        "breakdown": [
+          "徵 = nota musical; variante tradicional",
+          "例句 = frase de exemplo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "悟",
+    "traditional": "悟",
+    "pinyin": "wù",
+    "tone": 4,
+    "translation": "compreender profundamente",
+    "radical": "忄",
+    "strokes": 10,
+    "level": "HSK 8",
+    "category": "Filosofia",
+    "note": "Perceber/compreender profundamente.",
+    "evolution": "悟 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
+    "steps": [
+      "Observe a arquitetura visual de 悟 antes de escrever.",
+      "Localize radical, componente semântico e componente fonético provável.",
+      "Escreva por blocos, respeitando equilíbrio, densidade e proporção."
+    ],
+    "combinations": [
+      "领悟 · lǐngwù · compreender profundamente",
+      "觉悟 · juéwù · consciência/despertar"
+    ],
+    "examples": [
+      {
+        "zh": "我慢慢领悟了。",
+        "py": "Wǒ mànmàn lǐngwù le.",
+        "pt": "Eu compreendi aos poucos.",
+        "breakdown": [
+          "我 = eu",
+          "慢慢 = aos poucos",
+          "领悟 = compreender profundamente",
+          "了 = conclusão"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "慧",
+    "traditional": "慧",
+    "pinyin": "huì",
+    "tone": 4,
+    "translation": "sabedoria",
+    "radical": "心",
+    "strokes": 15,
+    "level": "HSK 8",
+    "category": "Filosofia",
+    "note": "Sabedoria/inteligência profunda.",
+    "evolution": "慧 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
+    "steps": [
+      "Observe a arquitetura visual de 慧 antes de escrever.",
+      "Localize radical, componente semântico e componente fonético provável.",
+      "Escreva por blocos, respeitando equilíbrio, densidade e proporção."
+    ],
+    "combinations": [
+      "智慧 · zhìhuì · sabedoria",
+      "慧眼 · huìyǎn · olhar perspicaz"
+    ],
+    "examples": [
+      {
+        "zh": "智慧来自学习。",
+        "py": "Zhìhuì láizì xuéxí.",
+        "pt": "A sabedoria vem do estudo.",
+        "breakdown": [
+          "智慧 = sabedoria",
+          "来自 = vem de",
+          "学习 = estudo"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "盈",
+    "traditional": "盈",
+    "pinyin": "yíng",
+    "tone": 2,
+    "translation": "lucro; cheio",
+    "radical": "皿",
+    "strokes": 9,
+    "level": "HSK 8",
+    "category": "Economia e finanças",
+    "note": "Lucro/ganho em contextos financeiros.",
+    "evolution": "盈 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
+    "steps": [
+      "Observe a arquitetura visual de 盈 antes de escrever.",
+      "Localize radical, componente semântico e componente fonético provável.",
+      "Escreva por blocos, respeitando equilíbrio, densidade e proporção."
+    ],
+    "combinations": [
+      "盈利 · yínglì · lucrar/lucro",
+      "盈亏 · yíngkuī · lucro e prejuízo"
+    ],
+    "examples": [
+      {
+        "zh": "企业开始盈利。",
+        "py": "Qǐyè kāishǐ yínglì.",
+        "pt": "A empresa começa a lucrar.",
+        "breakdown": [
+          "企业 = empresa",
+          "开始 = começar",
+          "盈利 = lucrar"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "矩",
+    "traditional": "矩",
+    "pinyin": "jǔ",
+    "tone": 3,
+    "translation": "regra; matriz em composição",
+    "radical": "矢",
+    "strokes": 9,
+    "level": "HSK 8",
+    "category": "Ciência e dados",
+    "note": "Regra/forma; usado em 矩阵.",
+    "evolution": "矩 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
+    "steps": [
+      "Observe a arquitetura visual de 矩 antes de escrever.",
+      "Localize radical, componente semântico e componente fonético provável.",
+      "Escreva por blocos, respeitando equilíbrio, densidade e proporção."
+    ],
+    "combinations": [
+      "矩阵 · jǔzhèn · matriz",
+      "规矩 · guīju · regra"
+    ],
+    "examples": [
+      {
+        "zh": "矩阵用于数据分析。",
+        "py": "Jǔzhèn yòngyú shùjù fēnxī.",
+        "pt": "Matrizes são usadas em análise de dados.",
+        "breakdown": [
+          "矩阵 = matriz",
+          "用于 = usado em",
+          "数据分析 = análise de dados"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "籍",
+    "traditional": "籍",
+    "pinyin": "jí",
+    "tone": 2,
+    "translation": "livro; registro",
+    "radical": "竹",
+    "strokes": 20,
+    "level": "HSK 8",
+    "category": "Linguagem formal",
+    "note": "Livros/registros.",
+    "evolution": "籍 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
+    "steps": [
+      "Observe a arquitetura visual de 籍 antes de escrever.",
+      "Localize radical, componente semântico e componente fonético provável.",
+      "Escreva por blocos, respeitando equilíbrio, densidade e proporção."
+    ],
+    "combinations": [
+      "书籍 · shūjí · livros",
+      "国籍 · guójí · nacionalidade"
+    ],
+    "examples": [
+      {
+        "zh": "这些书籍很重要。",
+        "py": "Zhèxiē shūjí hěn zhòngyào.",
+        "pt": "Estes livros são importantes.",
+        "breakdown": [
+          "这些书籍 = estes livros",
+          "很重要 = importantes"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "维",
+    "traditional": "维",
+    "pinyin": "wéi",
+    "tone": 2,
+    "translation": "dimensão; manter",
+    "radical": "纟",
+    "strokes": 11,
+    "level": "HSK 8",
+    "category": "Ciência e dados",
+    "note": "Dimensão/manutenção.",
+    "evolution": "维 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
+    "steps": [
+      "Observe a arquitetura visual de 维 antes de escrever.",
+      "Localize radical, componente semântico e componente fonético provável.",
+      "Escreva por blocos, respeitando equilíbrio, densidade e proporção."
+    ],
+    "combinations": [
+      "维度 · wéidù · dimensão",
+      "思维 · sīwéi · pensamento"
+    ],
+    "examples": [
+      {
+        "zh": "数据有很多维度。",
+        "py": "Shùjù yǒu hěn duō wéidù.",
+        "pt": "Os dados têm muitas dimensões.",
+        "breakdown": [
+          "数据 = dados",
+          "有 = tem",
+          "很多维度 = muitas dimensões"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "豫",
+    "traditional": "豫",
+    "pinyin": "yù",
+    "tone": 4,
+    "translation": "Henan; Yu em nome próprio",
+    "radical": "豕",
+    "strokes": "auto",
+    "level": "HSK 8",
+    "category": "Shanghai",
+    "note": "Caractere útil para leitura urbana em Shanghai: placas, mapas, transporte, aeroportos, metrô, ruas e serviços públicos.",
+    "evolution": "豫 será aprofundado em rodadas futuras com decomposição urbana, exemplos de placas e vocabulário visual.",
+    "steps": [
+      "Observe a estrutura geral de 豫.",
+      "Use a animação fiel para estudar a ordem real dos traços.",
+      "Clique nos números dos traços para revisar cada traço individualmente."
+    ],
+    "combinations": [
+      "豫园 · Yù Yuán · Jardim Yu"
+    ],
+    "examples": [
+      {
+        "zh": "豫园在上海。",
+        "py": "Yù Yuán zài Shànghǎi.",
+        "pt": "O Jardim Yu fica em Shanghai.",
+        "breakdown": [
+          "豫园 = Jardim Yu",
+          "在上海 = em Shanghai"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "辟",
+    "traditional": "辟",
+    "pinyin": "pì",
+    "tone": 4,
+    "translation": "abrir; refutar em composição",
+    "radical": "辛",
+    "strokes": 13,
+    "level": "HSK 8",
+    "category": "Argumentação",
+    "note": "Aparece em 批判/辟谣 etc.; útil em leitura formal.",
+    "evolution": "辟 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
+    "steps": [
+      "Observe a arquitetura visual de 辟 antes de escrever.",
+      "Localize radical, componente semântico e componente fonético provável.",
+      "Escreva por blocos, respeitando equilíbrio, densidade e proporção."
+    ],
+    "combinations": [
+      "开辟 · kāipì · abrir caminho",
+      "辟谣 · pìyáo · desmentir boato"
+    ],
+    "examples": [
+      {
+        "zh": "我们开辟新的领域。",
+        "py": "Wǒmen kāipì xīn de lǐngyù.",
+        "pt": "Nós abrimos uma nova área.",
+        "breakdown": [
+          "我们 = nós",
+          "开辟 = abrir caminho",
+          "新的领域 = nova área"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "释",
+    "traditional": "释",
+    "pinyin": "shì",
+    "tone": 4,
+    "translation": "explicar; liberar",
+    "radical": "采",
+    "strokes": 12,
+    "level": "HSK 8",
+    "category": "Abstratos avançados",
+    "note": "Explicar/interpretar.",
+    "evolution": "释 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
+    "steps": [
+      "Observe a arquitetura visual de 释 antes de escrever.",
+      "Localize radical, componente semântico e componente fonético provável.",
+      "Escreva por blocos, respeitando equilíbrio, densidade e proporção."
+    ],
+    "combinations": [
+      "解释 · jiěshì · explicar",
+      "阐释 · chǎnshì · interpretar/expor"
+    ],
+    "examples": [
+      {
+        "zh": "请解释这个概念。",
+        "py": "Qǐng jiěshì zhège gàiniàn.",
+        "pt": "Por favor, explique este conceito.",
+        "breakdown": [
+          "请 = por favor",
+          "解释 = explicar",
+          "这个概念 = este conceito"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "阵",
+    "traditional": "阵",
+    "pinyin": "zhèn",
+    "tone": 4,
+    "translation": "formação; matriz em composição",
+    "radical": "阝",
+    "strokes": 6,
+    "level": "HSK 8",
+    "category": "Ciência e dados",
+    "note": "Formação; parte de 矩阵.",
+    "evolution": "阵 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
+    "steps": [
+      "Observe a arquitetura visual de 阵 antes de escrever.",
+      "Localize radical, componente semântico e componente fonético provável.",
+      "Escreva por blocos, respeitando equilíbrio, densidade e proporção."
+    ],
+    "combinations": [
+      "矩阵 · jǔzhèn · matriz",
+      "阵地 · zhèndì · posição/terreno"
+    ],
+    "examples": [
+      {
+        "zh": "这个矩阵很大。",
+        "py": "Zhège jǔzhèn hěn dà.",
+        "pt": "Esta matriz é grande.",
+        "breakdown": [
+          "这个矩阵 = esta matriz",
+          "很大 = grande"
+        ]
+      }
+    ]
+  },
+  {
+    "char": "频",
+    "traditional": "频",
+    "pinyin": "pín",
+    "tone": 2,
+    "translation": "frequência",
+    "radical": "页",
+    "strokes": 13,
+    "level": "HSK 8",
+    "category": "Ciência e dados",
+    "note": "Frequência.",
+    "evolution": "频 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
+    "steps": [
+      "Observe a arquitetura visual de 频 antes de escrever.",
+      "Localize radical, componente semântico e componente fonético provável.",
+      "Escreva por blocos, respeitando equilíbrio, densidade e proporção."
+    ],
+    "combinations": [
+      "频率 · pínlǜ · frequência",
+      "高频 · gāopín · alta frequência"
+    ],
+    "examples": [
+      {
+        "zh": "这个词频率很高。",
+        "py": "Zhège cí pínlǜ hěn gāo.",
+        "pt": "A frequência desta palavra é alta.",
+        "breakdown": [
+          "这个词 = esta palavra",
+          "频率 = frequência",
+          "很高 = alta"
+        ]
+      }
+    ]
+  }
+]

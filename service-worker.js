@@ -1,9 +1,20 @@
-const CACHE_NAME = "hanverse-vs-v3-5-1-root-icons-core";
-const RUNTIME_CACHE = "hanverse-vs-v3-5-1-root-icons-runtime";
+const CACHE_NAME = "hanverse-vs-v3-9-6-root-json-population-core";
+const RUNTIME_CACHE = "hanverse-vs-v3-9-6-root-json-population-runtime";
 const CORE_ASSETS = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
+  "./characters-hsk-1.json",
+  "./characters-hsk-2.json",
+  "./characters-hsk-3.json",
+  "./characters-hsk-4.json",
+  "./characters-hsk-5.json",
+  "./characters-hsk-6.json",
+  "./characters-hsk-7.json",
+  "./characters-hsk-8.json",
+  "./characters-hsk-9.json",
+  "./combinations.json",
+  "./manifest-data.json",
   "./icon-32.png",
   "./icon-192.png",
   "./icon-512.png",

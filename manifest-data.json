@@ -1,0 +1,37 @@
+{
+  "version": "3.9.6",
+  "generated_from": "HanVerse VS v3.8.1",
+  "characters_total": 2800,
+  "combinations_total": 709,
+  "files": [
+    "characters-hsk-1.json",
+    "characters-hsk-2.json",
+    "characters-hsk-3.json",
+    "characters-hsk-4.json",
+    "characters-hsk-5.json",
+    "characters-hsk-6.json",
+    "characters-hsk-7.json",
+    "characters-hsk-8.json",
+    "characters-hsk-9.json",
+    "combinations.json"
+  ],
+  "note": "Arquitetura externa com JSON na raiz para facilitar upload pelo celular.",
+  "layout": "root-json-files",
+  "last_population_wave": {
+    "version": "3.9.6",
+    "new_characters": 81,
+    "new_combinations": 24,
+    "focus": [
+      "廴",
+      "廾",
+      "弋",
+      "弓",
+      "彐",
+      "彡",
+      "彳",
+      "心/忄",
+      "戈",
+      "户"
+    ]
+  }
+}

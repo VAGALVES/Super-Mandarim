@@ -1,0 +1,7092 @@
+[
+  {
+    "text": "一幢大楼",
+    "pinyin": "yí zhuàng dàlóu",
+    "translation": "um prédio",
+    "category": "Cidade",
+    "note": "一 + 幢 + 大楼 = um + classificador + prédio.",
+    "examples": [
+      "这是一幢大楼。"
+    ]
+  },
+  {
+    "text": "一张车票",
+    "pinyin": "yì zhāng chēpiào",
+    "translation": "um bilhete de transporte",
+    "category": "Transporte",
+    "note": "一 + 张 + 车票 = um + classificador + bilhete.",
+    "examples": [
+      "我买一张车票。"
+    ]
+  },
+  {
+    "text": "一支笔",
+    "pinyin": "yì zhī bǐ",
+    "translation": "uma caneta",
+    "category": "Estudo",
+    "note": "一支 + 笔 = uma unidade + caneta.",
+    "examples": [
+      "我需要一支笔。"
+    ]
+  },
+  {
+    "text": "一条路线",
+    "pinyin": "yì tiáo lùxiàn",
+    "translation": "uma rota",
+    "category": "Transporte",
+    "note": "一条 + 路线 = uma + rota.",
+    "examples": [
+      "这是一条路线。"
+    ]
+  },
+  {
+    "text": "一杯咖啡",
+    "pinyin": "yì bēi kāfēi",
+    "translation": "uma xícara de café",
+    "category": "Restaurante",
+    "note": "一杯 + 咖啡 = uma xícara + café.",
+    "examples": [
+      "我要一杯咖啡。"
+    ]
+  },
+  {
+    "text": "一碗米饭",
+    "pinyin": "yì wǎn mǐfàn",
+    "translation": "uma tigela de arroz",
+    "category": "Restaurante",
+    "note": "一碗 + 米饭 = uma tigela + arroz.",
+    "examples": [
+      "我要一碗米饭。"
+    ]
+  },
+  {
+    "text": "上海浦东",
+    "pinyin": "Shànghǎi Pǔdōng",
+    "translation": "Shanghai Pudong",
+    "category": "Shanghai",
+    "note": "上海 + 浦东 = Shanghai + Pudong.",
+    "examples": [
+      "上海浦东很现代。"
+    ]
+  },
+  {
+    "text": "上海火车站",
+    "pinyin": "Shànghǎi Huǒchēzhàn",
+    "translation": "Estação Ferroviária de Shanghai",
+    "category": "Transporte",
+    "note": "上海 + 火车 + 站 = Shanghai + trem + estação.",
+    "examples": [
+      "上海火车站怎么走？"
+    ]
+  },
+  {
+    "text": "下棋时间",
+    "pinyin": "xiàqí shíjiān",
+    "translation": "horário para jogar xadrez",
+    "category": "Lazer",
+    "note": "下棋 + 时间 = jogar xadrez + tempo.",
+    "examples": [
+      "下棋时间到了。"
+    ]
+  },
+  {
+    "text": "下次会议",
+    "pinyin": "xiàcì huìyì",
+    "translation": "próxima reunião",
+    "category": "Trabalho",
+    "note": "下次 + 会议 = próxima vez + reunião.",
+    "examples": [
+      "下次会议几点？"
+    ]
+  },
+  {
+    "text": "不要太辣",
+    "pinyin": "bú yào tài là",
+    "translation": "não quero muito picante",
+    "category": "Restaurante",
+    "note": "不要 + 太 + 辣 = não quero + demais + picante.",
+    "examples": [
+      "不要太辣。"
+    ]
+  },
+  {
+    "text": "不要浪费",
+    "pinyin": "bú yào làngfèi",
+    "translation": "não desperdice",
+    "category": "Conselhos",
+    "note": "不要 + 浪费 = não + desperdiçar.",
+    "examples": [
+      "不要浪费时间。"
+    ]
+  },
+  {
+    "text": "世界地图",
+    "pinyin": "shìjiè dìtú",
+    "translation": "mapa-múndi",
+    "category": "Estudo e viagem",
+    "note": "世界 + 地图 = mundo + mapa.",
+    "examples": [
+      "世界地图在哪里？"
+    ]
+  },
+  {
+    "text": "世纪大道",
+    "pinyin": "Shìjì Dàdào",
+    "translation": "Century Avenue",
+    "category": "Shanghai",
+    "note": "世纪 + 大道 = século + avenida.",
+    "examples": [
+      "世纪大道站在哪里？"
+    ]
+  },
+  {
+    "text": "东方明珠塔",
+    "pinyin": "Dōngfāng Míngzhū Tǎ",
+    "translation": "Torre Pérola Oriental",
+    "category": "Shanghai",
+    "note": "东 + 方 + 明 + 珠 + 塔 = leste + direção + brilhante + pérola + torre.",
+    "examples": [
+      "东方明珠塔很有名。"
+    ]
+  },
+  {
+    "text": "中央车站",
+    "pinyin": "zhōngyāng chēzhàn",
+    "translation": "estação central",
+    "category": "Transporte",
+    "note": "中央 + 车站 = central + estação.",
+    "examples": [
+      "中央车站在哪里？"
+    ]
+  },
+  {
+    "text": "中文学习",
+    "pinyin": "Zhōngwén xuéxí",
+    "translation": "estudo de chinês",
+    "category": "Educação",
+    "note": "中文 + 学习 = chinês + estudo.",
+    "examples": [
+      "中文学习很有意思。"
+    ]
+  },
+  {
+    "text": "中文文件",
+    "pinyin": "Zhōngwén wénjiàn",
+    "translation": "documento em chinês",
+    "category": "Documentos",
+    "note": "中文 + 文件 = chinês + documento.",
+    "examples": [
+      "请看中文文件。"
+    ]
+  },
+  {
+    "text": "丰富经验",
+    "pinyin": "fēngfù jīngyàn",
+    "translation": "experiência rica",
+    "category": "Trabalho",
+    "note": "丰富 + 经验 = abundante + experiência.",
+    "examples": [
+      "他有丰富经验。"
+    ]
+  },
+  {
+    "text": "主要矛盾",
+    "pinyin": "zhǔyào máodùn",
+    "translation": "contradição principal",
+    "category": "Análise",
+    "note": "主要 + 矛盾 = principal + contradição.",
+    "examples": [
+      "这是主要矛盾。"
+    ]
+  },
+  {
+    "text": "二维码付款",
+    "pinyin": "èrwéimǎ fùkuǎn",
+    "translation": "pagamento por QR code",
+    "category": "Pagamentos",
+    "note": "二维码 + 付款 = QR code + pagamento.",
+    "examples": [
+      "请二维码付款。"
+    ]
+  },
+  {
+    "text": "交通方便",
+    "pinyin": "jiāotōng fāngbiàn",
+    "translation": "transporte conveniente",
+    "category": "Cidade",
+    "note": "交通 + 方便 = transporte + conveniente.",
+    "examples": [
+      "这里交通方便。"
+    ]
+  },
+  {
+    "text": "产品品质",
+    "pinyin": "chǎnpǐn pǐnzhì",
+    "translation": "qualidade do produto",
+    "category": "Negócios",
+    "note": "产品 + 品质 = produto + qualidade.",
+    "examples": [
+      "产品品质很好。"
+    ]
+  },
+  {
+    "text": "享受服务",
+    "pinyin": "xiǎngshòu fúwù",
+    "translation": "aproveitar o serviço",
+    "category": "Serviços",
+    "note": "享受 + 服务 = desfrutar + serviço.",
+    "examples": [
+      "请享受服务。"
+    ]
+  },
+  {
+    "text": "人工智能",
+    "pinyin": "réngōng zhìnéng",
+    "translation": "inteligência artificial",
+    "category": "Tecnologia",
+    "note": "人工 + 智能 = artificial + inteligência.",
+    "examples": [
+      "人工智能很重要。"
+    ]
+  },
+  {
+    "text": "人民币汇率",
+    "pinyin": "rénmínbì huìlǜ",
+    "translation": "taxa de câmbio do RMB",
+    "category": "Finanças",
+    "note": "人民币 + 汇率 = moeda chinesa + taxa de câmbio.",
+    "examples": [
+      "人民币汇率是多少？"
+    ]
+  },
+  {
+    "text": "人民广场",
+    "pinyin": "Rénmín Guǎngchǎng",
+    "translation": "Praça do Povo",
+    "category": "Shanghai",
+    "note": "人民 + 广场 = povo + praça.",
+    "examples": [
+      "人民广场在哪里？"
+    ]
+  },
+  {
+    "text": "人民服务",
+    "pinyin": "rénmín fúwù",
+    "translation": "serviço ao povo",
+    "category": "Serviços públicos",
+    "note": "人民 + 服务 = povo + serviço.",
+    "examples": [
+      "人民服务中心在哪里？"
+    ]
+  },
+  {
+    "text": "付款成功",
+    "pinyin": "fùkuǎn chénggōng",
+    "translation": "pagamento bem-sucedido",
+    "category": "Pagamento",
+    "note": "付款 + 成功 = pagar + sucesso.",
+    "examples": [
+      "付款成功。"
+    ]
+  },
+  {
+    "text": "付款方式",
+    "pinyin": "fùkuǎn fāngshì",
+    "translation": "forma de pagamento",
+    "category": "Pagamentos",
+    "note": "付款 + 方式 = pagamento + método.",
+    "examples": [
+      "付款方式有哪些？"
+    ]
+  },
+  {
+    "text": "代替方案",
+    "pinyin": "dàitì fāng'àn",
+    "translation": "plano alternativo",
+    "category": "Trabalho",
+    "note": "代替 + 方案 = substituir + plano.",
+    "examples": [
+      "这是代替方案。"
+    ]
+  },
+  {
+    "text": "价格上涨",
+    "pinyin": "jiàgé shàngzhǎng",
+    "translation": "alta de preço",
+    "category": "Finanças",
+    "note": "价格 + 上涨 = preço + subir.",
+    "examples": [
+      "价格上涨很快。"
+    ]
+  },
+  {
+    "text": "仿真模型",
+    "pinyin": "fǎngzhēn móxíng",
+    "translation": "modelo de simulação",
+    "category": "Tecnologia",
+    "note": "仿真 + 模型 = simulação + modelo.",
+    "examples": [
+      "这是仿真模型。"
+    ]
+  },
+  {
+    "text": "企业创新",
+    "pinyin": "qǐyè chuàngxīn",
+    "translation": "inovação empresarial",
+    "category": "Negócios",
+    "note": "企业 + 创新 = empresa + inovação.",
+    "examples": [
+      "企业创新很重要。"
+    ]
+  },
+  {
+    "text": "优惠价格",
+    "pinyin": "yōuhuì jiàgé",
+    "translation": "preço promocional",
+    "category": "Compras",
+    "note": "优惠 + 价格 = desconto + preço.",
+    "examples": [
+      "这是优惠价格。"
+    ]
+  },
+  {
+    "text": "优惠券领取",
+    "pinyin": "yōuhuìquàn lǐngqǔ",
+    "translation": "retirar cupom de desconto",
+    "category": "Compras",
+    "note": "优惠券 + 领取 = cupom + retirar.",
+    "examples": [
+      "优惠券在哪里领取？"
+    ]
+  },
+  {
+    "text": "优惠活动",
+    "pinyin": "yōuhuì huódòng",
+    "translation": "promoção/desconto",
+    "category": "Compras",
+    "note": "优惠 + 活动 = desconto + atividade.",
+    "examples": [
+      "今天有优惠活动。"
+    ]
+  },
+  {
+    "text": "会议议程",
+    "pinyin": "huìyì yìchéng",
+    "translation": "pauta da reunião",
+    "category": "Trabalho",
+    "note": "会议 + 议程 = reunião + pauta.",
+    "examples": [
+      "会议议程很清楚。"
+    ]
+  },
+  {
+    "text": "会议议题",
+    "pinyin": "huìyì yìtí",
+    "translation": "pauta da reunião",
+    "category": "Trabalho",
+    "note": "会议 + 议题 = reunião + pauta.",
+    "examples": [
+      "会议议题是什么？"
+    ]
+  },
+  {
+    "text": "伸展运动",
+    "pinyin": "shēnzhǎn yùndòng",
+    "translation": "exercício de alongamento",
+    "category": "Saúde",
+    "note": "伸展 + 运动 = alongar + exercício.",
+    "examples": [
+      "伸展运动很重要。"
+    ]
+  },
+  {
+    "text": "低碳生活",
+    "pinyin": "dītàn shēnghuó",
+    "translation": "vida de baixo carbono",
+    "category": "Sustentabilidade",
+    "note": "低碳 + 生活 = baixo carbono + vida.",
+    "examples": [
+      "低碳生活很重要。"
+    ]
+  },
+  {
+    "text": "住宿费用",
+    "pinyin": "zhùsù fèiyòng",
+    "translation": "custo de hospedagem",
+    "category": "Viagem",
+    "note": "住宿 + 费用 = hospedagem + custo.",
+    "examples": [
+      "住宿费用是多少？"
+    ]
+  },
+  {
+    "text": "体检报告",
+    "pinyin": "tǐjiǎn bàogào",
+    "translation": "relatório de exame médico",
+    "category": "Saúde",
+    "note": "体检 + 报告 = exame físico + relatório.",
+    "examples": [
+      "体检报告出来了吗？"
+    ]
+  },
+  {
+    "text": "余额不足",
+    "pinyin": "yú'é bùzú",
+    "translation": "saldo insuficiente",
+    "category": "Pagamento",
+    "note": "余额 + 不足 = saldo + insuficiente.",
+    "examples": [
+      "余额不足。"
+    ]
+  },
+  {
+    "text": "使用工具",
+    "pinyin": "shǐyòng gōngjù",
+    "translation": "usar ferramenta",
+    "category": "Trabalho",
+    "note": "使用 + 工具 = usar + ferramenta.",
+    "examples": [
+      "请使用工具。"
+    ]
+  },
+  {
+    "text": "供应服务",
+    "pinyin": "gōngyìng fúwù",
+    "translation": "fornecimento de serviço",
+    "category": "Serviços",
+    "note": "供应 + 服务 = fornecer + serviço.",
+    "examples": [
+      "供应服务很稳定。"
+    ]
+  },
+  {
+    "text": "供应链管理",
+    "pinyin": "gōngyìngliàn guǎnlǐ",
+    "translation": "gestão da cadeia de suprimentos",
+    "category": "Gestão",
+    "note": "供应链 + 管理 = cadeia de suprimentos + gestão.",
+    "examples": [
+      "供应链管理很重要。"
+    ]
+  },
+  {
+    "text": "依靠数据",
+    "pinyin": "yīkào shùjù",
+    "translation": "basear-se em dados",
+    "category": "Dados",
+    "note": "依靠 + 数据 = depender + dados.",
+    "examples": [
+      "决策要依靠数据。"
+    ]
+  },
+  {
+    "text": "侵犯隐私",
+    "pinyin": "qīnfàn yǐnsī",
+    "translation": "violar privacidade",
+    "category": "Segurança",
+    "note": "侵犯 + 隐私 = infringir + privacidade.",
+    "examples": [
+      "不要侵犯隐私。"
+    ]
+  },
+  {
+    "text": "促进销售",
+    "pinyin": "cùjìn xiāoshòu",
+    "translation": "promover vendas",
+    "category": "Marketing",
+    "note": "促进 + 销售 = promover + vendas.",
+    "examples": [
+      "活动促进销售。"
+    ]
+  },
+  {
+    "text": "俄罗斯市场",
+    "pinyin": "Éluósī shìchǎng",
+    "translation": "mercado russo",
+    "category": "Negócios",
+    "note": "俄罗斯 + 市场 = Rússia + mercado.",
+    "examples": [
+      "俄罗斯市场很大。"
+    ]
+  },
+  {
+    "text": "保存文件",
+    "pinyin": "bǎocún wénjiàn",
+    "translation": "salvar arquivo",
+    "category": "Tecnologia",
+    "note": "保存 + 文件 = salvar + arquivo.",
+    "examples": [
+      "请保存文件。"
+    ]
+  },
+  {
+    "text": "保护环境",
+    "pinyin": "bǎohù huánjìng",
+    "translation": "proteger o ambiente",
+    "category": "Sustentabilidade",
+    "note": "保护 + 环境 = proteger + ambiente.",
+    "examples": [
+      "请保护环境。"
+    ]
+  },
+  {
+    "text": "信封地址",
+    "pinyin": "xìnfēng dìzhǐ",
+    "translation": "endereço no envelope",
+    "category": "Documentos",
+    "note": "信封 + 地址 = envelope + endereço.",
+    "examples": [
+      "请写信封地址。"
+    ]
+  },
+  {
+    "text": "信息泄露",
+    "pinyin": "xìnxī xièlòu",
+    "translation": "vazamento de informação",
+    "category": "Segurança digital",
+    "note": "信息 + 泄露 = informação + vazamento.",
+    "examples": [
+      "信息泄露很危险。"
+    ]
+  },
+  {
+    "text": "修改资料",
+    "pinyin": "xiūgǎi zīliào",
+    "translation": "alterar dados/material",
+    "category": "Documentos",
+    "note": "修改 + 资料 = revisar + dados.",
+    "examples": [
+      "请修改资料。"
+    ]
+  },
+  {
+    "text": "健康检查",
+    "pinyin": "jiànkāng jiǎnchá",
+    "translation": "exame de saúde",
+    "category": "Saúde",
+    "note": "健康 + 检查 = saúde + exame.",
+    "examples": [
+      "我需要健康检查。"
+    ]
+  },
+  {
+    "text": "儒家思想",
+    "pinyin": "rújiā sīxiǎng",
+    "translation": "pensamento confucionista",
+    "category": "Cultura",
+    "note": "儒家 + 思想 = escola confucionista + pensamento.",
+    "examples": [
+      "儒家思想影响很大。"
+    ]
+  },
+  {
+    "text": "儿童票价",
+    "pinyin": "értóng piàojià",
+    "translation": "preço do ingresso infantil",
+    "category": "Serviços",
+    "note": "儿童 + 票价 = criança + preço do ingresso.",
+    "examples": [
+      "儿童票价是多少？"
+    ]
+  },
+  {
+    "text": "光纤网络",
+    "pinyin": "guāngxiān wǎngluò",
+    "translation": "rede de fibra óptica",
+    "category": "Tecnologia",
+    "note": "光纤 + 网络 = fibra óptica + rede.",
+    "examples": [
+      "光纤网络很快。"
+    ]
+  },
+  {
+    "text": "免税商店",
+    "pinyin": "miǎnshuì shāngdiàn",
+    "translation": "loja duty-free",
+    "category": "Aeroporto",
+    "note": "免税 + 商店 = livre de imposto + loja.",
+    "examples": [
+      "免税商店在哪里？"
+    ]
+  },
+  {
+    "text": "免费兑换",
+    "pinyin": "miǎnfèi duìhuàn",
+    "translation": "troca gratuita",
+    "category": "Serviços",
+    "note": "免费 + 兑换 = grátis + troca.",
+    "examples": [
+      "这里可以免费兑换。"
+    ]
+  },
+  {
+    "text": "公园地图",
+    "pinyin": "gōngyuán dìtú",
+    "translation": "mapa do parque",
+    "category": "Cidade",
+    "note": "公园 + 地图 = parque + mapa.",
+    "examples": [
+      "公园地图在哪里？"
+    ]
+  },
+  {
+    "text": "公寓租金",
+    "pinyin": "gōngyù zūjīn",
+    "translation": "aluguel do apartamento",
+    "category": "Moradia",
+    "note": "公寓 + 租金 = apartamento + aluguel.",
+    "examples": [
+      "公寓租金是多少？"
+    ]
+  },
+  {
+    "text": "公式说明",
+    "pinyin": "gōngshì shuōmíng",
+    "translation": "explicação da fórmula",
+    "category": "Estudo",
+    "note": "公式 + 说明 = fórmula + explicação.",
+    "examples": [
+      "请看公式说明。"
+    ]
+  },
+  {
+    "text": "公益活动",
+    "pinyin": "gōngyì huódòng",
+    "translation": "atividade de bem público",
+    "category": "Sociedade",
+    "note": "公益 + 活动 = bem público + atividade.",
+    "examples": [
+      "公益活动开始了。"
+    ]
+  },
+  {
+    "text": "内容清楚",
+    "pinyin": "nèiróng qīngchu",
+    "translation": "conteúdo claro",
+    "category": "Estudo",
+    "note": "内容 + 清楚 = conteúdo + claro.",
+    "examples": [
+      "内容很清楚。"
+    ]
+  },
+  {
+    "text": "农村服务",
+    "pinyin": "nóngcūn fúwù",
+    "translation": "serviços rurais",
+    "category": "Sociedade",
+    "note": "农村 + 服务 = campo + serviços.",
+    "examples": [
+      "农村服务需要改善。"
+    ]
+  },
+  {
+    "text": "准备材料",
+    "pinyin": "zhǔnbèi cáiliào",
+    "translation": "preparar materiais",
+    "category": "Documentos",
+    "note": "准备 + 材料 = preparar + materiais.",
+    "examples": [
+      "请准备材料。"
+    ]
+  },
+  {
+    "text": "出汗很多",
+    "pinyin": "chūhàn hěn duō",
+    "translation": "suar muito",
+    "category": "Corpo",
+    "note": "出汗 + 很多 = suar + muito.",
+    "examples": [
+      "运动后出汗很多。"
+    ]
+  },
+  {
+    "text": "出租车站",
+    "pinyin": "chūzūchē zhàn",
+    "translation": "ponto de táxi",
+    "category": "Transporte",
+    "note": "出租车 + 站 = táxi + estação/ponto.",
+    "examples": [
+      "出租车站在哪里？"
+    ]
+  },
+  {
+    "text": "刀具安全",
+    "pinyin": "dāojù ānquán",
+    "translation": "segurança com facas/ferramentas de corte",
+    "category": "Segurança",
+    "note": "刀具 + 安全 = ferramenta de corte + segurança.",
+    "examples": [
+      "刀具安全很重要。"
+    ]
+  },
+  {
+    "text": "分析数据",
+    "pinyin": "fēnxī shùjù",
+    "translation": "analisar dados",
+    "category": "Dados",
+    "note": "分析 + 数据 = análise + dados.",
+    "examples": [
+      "我们分析数据。"
+    ]
+  },
+  {
+    "text": "分钟等待",
+    "pinyin": "fēnzhōng děngdài",
+    "translation": "espera em minutos",
+    "category": "Tempo",
+    "note": "分钟 + 等待 = minuto + espera.",
+    "examples": [
+      "请等待五分钟。"
+    ]
+  },
+  {
+    "text": "初学者课程",
+    "pinyin": "chūxuézhě kèchéng",
+    "translation": "curso para iniciantes",
+    "category": "Educação",
+    "note": "初学者 + 课程 = iniciante + curso.",
+    "examples": [
+      "这是初学者课程。"
+    ]
+  },
+  {
+    "text": "删除文件",
+    "pinyin": "shānchú wénjiàn",
+    "translation": "deletar arquivo",
+    "category": "Tecnologia",
+    "note": "删除 + 文件 = deletar + arquivo.",
+    "examples": [
+      "请删除文件。"
+    ]
+  },
+  {
+    "text": "判断结果",
+    "pinyin": "pànduàn jiéguǒ",
+    "translation": "julgar resultado",
+    "category": "Análise",
+    "note": "判断 + 结果 = julgamento + resultado.",
+    "examples": [
+      "请判断结果。"
+    ]
+  },
+  {
+    "text": "利润增长",
+    "pinyin": "lìrùn zēngzhǎng",
+    "translation": "crescimento do lucro",
+    "category": "Negócios",
+    "note": "利润 + 增长 = lucro + crescimento.",
+    "examples": [
+      "利润增长了。"
+    ]
+  },
+  {
+    "text": "刷卡付款",
+    "pinyin": "shuākǎ fùkuǎn",
+    "translation": "pagar com cartão",
+    "category": "Pagamentos",
+    "note": "刷卡 + 付款 = passar cartão + pagar.",
+    "examples": [
+      "可以刷卡付款吗？"
+    ]
+  },
+  {
+    "text": "前面岔路",
+    "pinyin": "qiánmiàn chàlù",
+    "translation": "bifurcação à frente",
+    "category": "Trânsito",
+    "note": "前面 + 岔路 = à frente + bifurcação.",
+    "examples": [
+      "前面有岔路。"
+    ]
+  },
+  {
+    "text": "剪刀工具",
+    "pinyin": "jiǎndāo gōngjù",
+    "translation": "ferramenta tesoura",
+    "category": "Moda e objetos",
+    "note": "剪刀 + 工具 = tesoura + ferramenta.",
+    "examples": [
+      "剪刀工具在哪里？"
+    ]
+  },
+  {
+    "text": "办公室",
+    "pinyin": "bàngōngshì",
+    "translation": "escritório",
+    "category": "Trabalho",
+    "note": "办公 + 室 = trabalhar/administrar + sala.",
+    "examples": [
+      "办公室在哪里？"
+    ]
+  },
+  {
+    "text": "办公室地址",
+    "pinyin": "bàngōngshì dìzhǐ",
+    "translation": "endereço do escritório",
+    "category": "Trabalho",
+    "note": "办公室 + 地址 = escritório + endereço.",
+    "examples": [
+      "办公室地址在哪里？"
+    ]
+  },
+  {
+    "text": "努力学习",
+    "pinyin": "nǔlì xuéxí",
+    "translation": "estudar com esforço",
+    "category": "Estudo",
+    "note": "努力 + 学习 = esforço + estudar.",
+    "examples": [
+      "我要努力学习。"
+    ]
+  },
+  {
+    "text": "劳动合同",
+    "pinyin": "láodòng hétong",
+    "translation": "contrato de trabalho",
+    "category": "Trabalho e direito",
+    "note": "劳动 + 合同 = trabalho + contrato.",
+    "examples": [
+      "劳动合同需要签字。"
+    ]
+  },
+  {
+    "text": "勾选选项",
+    "pinyin": "gōuxuǎn xuǎnxiàng",
+    "translation": "marcar opção",
+    "category": "Interface",
+    "note": "勾选 + 选项 = marcar + opção.",
+    "examples": [
+      "请勾选选项。"
+    ]
+  },
+  {
+    "text": "化妆用品",
+    "pinyin": "huàzhuāng yòngpǐn",
+    "translation": "produtos de maquiagem",
+    "category": "Beleza",
+    "note": "化妆 + 用品 = maquiagem + produtos.",
+    "examples": [
+      "化妆用品在哪里？"
+    ]
+  },
+  {
+    "text": "区域划分",
+    "pinyin": "qūyù huàfēn",
+    "translation": "divisão de áreas",
+    "category": "Gestão",
+    "note": "区域 + 划分 = área + divisão.",
+    "examples": [
+      "区域划分很清楚。"
+    ]
+  },
+  {
+    "text": "医院门诊",
+    "pinyin": "yīyuàn ménzhěn",
+    "translation": "ambulatório do hospital",
+    "category": "Saúde",
+    "note": "医院 + 门诊 = hospital + consulta ambulatorial.",
+    "examples": [
+      "医院门诊在哪里？"
+    ]
+  },
+  {
+    "text": "匿名反馈",
+    "pinyin": "nìmíng fǎnkuì",
+    "translation": "feedback anônimo",
+    "category": "Comunicação",
+    "note": "匿名 + 反馈 = anônimo + feedback.",
+    "examples": [
+      "可以匿名反馈。"
+    ]
+  },
+  {
+    "text": "十厘米",
+    "pinyin": "shí límǐ",
+    "translation": "dez centímetros",
+    "category": "Medidas",
+    "note": "十 + 厘米 = dez + centímetros.",
+    "examples": [
+      "这是十厘米。"
+    ]
+  },
+  {
+    "text": "南京东路",
+    "pinyin": "Nánjīng Dōng Lù",
+    "translation": "Nanjing East Road",
+    "category": "Shanghai",
+    "note": "南京 + 东 + 路 = Nanjing + leste + rua.",
+    "examples": [
+      "南京东路很热闹。"
+    ]
+  },
+  {
+    "text": "博物馆门票",
+    "pinyin": "bówùguǎn ménpiào",
+    "translation": "ingresso do museu",
+    "category": "Cultura e turismo",
+    "note": "博物馆 + 门票 = museu + ingresso.",
+    "examples": [
+      "博物馆门票多少钱？"
+    ]
+  },
+  {
+    "text": "卫生间",
+    "pinyin": "wèishēngjiān",
+    "translation": "banheiro",
+    "category": "Cidade real",
+    "note": "卫 + 生 + 间 = higiene + espaço.",
+    "examples": [
+      "卫生间在哪里？"
+    ]
+  },
+  {
+    "text": "厕所方向",
+    "pinyin": "cèsuǒ fāngxiàng",
+    "translation": "direção do banheiro",
+    "category": "Cidade",
+    "note": "厕所 + 方向 = banheiro + direção.",
+    "examples": [
+      "厕所方向在哪里？"
+    ]
+  },
+  {
+    "text": "原材料采购",
+    "pinyin": "yuáncáiliào cǎigòu",
+    "translation": "compra de matéria-prima",
+    "category": "Indústria",
+    "note": "原材料 + 采购 = matéria-prima + aquisição.",
+    "examples": [
+      "原材料采购完成了。"
+    ]
+  },
+  {
+    "text": "厨房用品",
+    "pinyin": "chúfáng yòngpǐn",
+    "translation": "utensílios de cozinha",
+    "category": "Casa",
+    "note": "厨房 + 用品 = cozinha + produtos.",
+    "examples": [
+      "厨房用品在哪里？"
+    ]
+  },
+  {
+    "text": "参加会议",
+    "pinyin": "cānjiā huìyì",
+    "translation": "participar da reunião",
+    "category": "Trabalho",
+    "note": "参加 + 会议 = participar + reunião.",
+    "examples": [
+      "我参加会议。"
+    ]
+  },
+  {
+    "text": "及时回复",
+    "pinyin": "jíshí huífù",
+    "translation": "responder a tempo",
+    "category": "Comunicação",
+    "note": "及时 + 回复 = oportuno + responder.",
+    "examples": [
+      "请及时回复。"
+    ]
+  },
+  {
+    "text": "反馈意见",
+    "pinyin": "fǎnkuì yìjiàn",
+    "translation": "opinião de feedback",
+    "category": "Trabalho",
+    "note": "反馈 + 意见 = feedback + opinião.",
+    "examples": [
+      "请给反馈意见。"
+    ]
+  },
+  {
+    "text": "发烧门诊",
+    "pinyin": "fāshāo ménzhěn",
+    "translation": "ambulatório de febre",
+    "category": "Saúde",
+    "note": "发烧 + 门诊 = febre + ambulatório.",
+    "examples": [
+      "发烧门诊在哪里？"
+    ]
+  },
+  {
+    "text": "取钱窗口",
+    "pinyin": "qǔqián chuāngkǒu",
+    "translation": "guichê para sacar dinheiro",
+    "category": "Banco",
+    "note": "取钱 + 窗口 = sacar dinheiro + guichê.",
+    "examples": [
+      "取钱窗口在哪里？"
+    ]
+  },
+  {
+    "text": "口渴喝水",
+    "pinyin": "kǒukě hē shuǐ",
+    "translation": "beber água quando está com sede",
+    "category": "Saúde",
+    "note": "口渴 + 喝水 = sede + beber água.",
+    "examples": [
+      "口渴就喝水。"
+    ]
+  },
+  {
+    "text": "合作协议",
+    "pinyin": "hézuò xiéyì",
+    "translation": "acordo de cooperação",
+    "category": "Trabalho e documentos",
+    "note": "合作 + 协议 = cooperação + acordo.",
+    "examples": [
+      "我们签合作协议。"
+    ]
+  },
+  {
+    "text": "合同乙方",
+    "pinyin": "hétong yǐfāng",
+    "translation": "parte B do contrato",
+    "category": "Documentos",
+    "note": "合同 + 乙方 = contrato + parte B.",
+    "examples": [
+      "合同乙方需要签字。"
+    ]
+  },
+  {
+    "text": "合同履行",
+    "pinyin": "hétong lǚxíng",
+    "translation": "cumprimento de contrato",
+    "category": "Jurídico e negócios",
+    "note": "合同 + 履行 = contrato + cumprir.",
+    "examples": [
+      "请履行合同。"
+    ]
+  },
+  {
+    "text": "听懂中文",
+    "pinyin": "tīngdǒng Zhōngwén",
+    "translation": "entender chinês ouvindo",
+    "category": "Estudo",
+    "note": "听懂 + 中文 = entender ouvindo + chinês.",
+    "examples": [
+      "我能听懂中文。"
+    ]
+  },
+  {
+    "text": "启动系统",
+    "pinyin": "qǐdòng xìtǒng",
+    "translation": "iniciar o sistema",
+    "category": "Tecnologia",
+    "note": "启动 + 系统 = iniciar + sistema.",
+    "examples": [
+      "请启动系统。"
+    ]
+  },
+  {
+    "text": "吸引客户",
+    "pinyin": "xīyǐn kèhù",
+    "translation": "atrair clientes",
+    "category": "Marketing",
+    "note": "吸引 + 客户 = atrair + clientes.",
+    "examples": [
+      "广告吸引客户。"
+    ]
+  },
+  {
+    "text": "周末旅行",
+    "pinyin": "zhōumò lǚxíng",
+    "translation": "viagem de fim de semana",
+    "category": "Viagem",
+    "note": "周末 + 旅行 = fim de semana + viagem.",
+    "examples": [
+      "周末旅行很好。"
+    ]
+  },
+  {
+    "text": "咖啡馆",
+    "pinyin": "kāfēiguǎn",
+    "translation": "cafeteria",
+    "category": "Cidade e lazer",
+    "note": "咖啡 + 馆 = café + estabelecimento.",
+    "examples": [
+      "咖啡馆在哪里？"
+    ]
+  },
+  {
+    "text": "咖啡馆地址",
+    "pinyin": "kāfēiguǎn dìzhǐ",
+    "translation": "endereço da cafeteria",
+    "category": "Cidade e serviços",
+    "note": "咖啡馆 + 地址 = cafeteria + endereço.",
+    "examples": [
+      "咖啡馆地址在哪里？"
+    ]
+  },
+  {
+    "text": "咨询台",
+    "pinyin": "zīxúntái",
+    "translation": "balcão de informações",
+    "category": "Cidade real",
+    "note": "咨 + 询 + 台 = consultar + perguntar + balcão.",
+    "examples": [
+      "咨询台在哪里？"
+    ]
+  },
+  {
+    "text": "咳嗽发烧",
+    "pinyin": "késou fāshāo",
+    "translation": "tosse e febre",
+    "category": "Saúde",
+    "note": "咳嗽 + 发烧 = tossir + ter febre.",
+    "examples": [
+      "我咳嗽发烧。"
+    ]
+  },
+  {
+    "text": "品尝美食",
+    "pinyin": "pǐncháng měishí",
+    "translation": "provar comida boa",
+    "category": "Restaurante",
+    "note": "品尝 + 美食 = provar + comida deliciosa.",
+    "examples": [
+      "我想品尝美食。"
+    ]
+  },
+  {
+    "text": "品牌标志",
+    "pinyin": "pǐnpái biāozhì",
+    "translation": "logotipo da marca",
+    "category": "Marketing",
+    "note": "品牌 + 标志 = marca + símbolo.",
+    "examples": [
+      "品牌标志很清楚。"
+    ]
+  },
+  {
+    "text": "唐诗宋词",
+    "pinyin": "Tángshī Sòngcí",
+    "translation": "poesia Tang e letras Song",
+    "category": "Cultura",
+    "note": "唐诗 + 宋词 = poemas Tang + poesia Song.",
+    "examples": [
+      "唐诗宋词很有名。"
+    ]
+  },
+  {
+    "text": "售票处",
+    "pinyin": "shòupiàochù",
+    "translation": "bilheteria",
+    "category": "Cidade real",
+    "note": "售 + 票 + 处 = vender + bilhete + local.",
+    "examples": [
+      "售票处在哪里？"
+    ]
+  },
+  {
+    "text": "售票处入口",
+    "pinyin": "shòupiàochù rùkǒu",
+    "translation": "entrada da bilheteria",
+    "category": "Transporte e eventos",
+    "note": "售票处 + 入口 = bilheteria + entrada.",
+    "examples": [
+      "售票处入口在哪里？"
+    ]
+  },
+  {
+    "text": "唱歌比赛",
+    "pinyin": "chànggē bǐsài",
+    "translation": "competição de canto",
+    "category": "Cultura",
+    "note": "唱歌 + 比赛 = cantar + competição.",
+    "examples": [
+      "唱歌比赛开始了。"
+    ]
+  },
+  {
+    "text": "商业模式",
+    "pinyin": "shāngyè móshì",
+    "translation": "modelo de negócio",
+    "category": "Negócios",
+    "note": "商业 + 模式 = comércio/negócio + modelo.",
+    "examples": [
+      "这是商业模式。"
+    ]
+  },
+  {
+    "text": "商店门口",
+    "pinyin": "shāngdiàn ménkǒu",
+    "translation": "entrada da loja",
+    "category": "Cidade e compras",
+    "note": "商店 + 门口 = loja + porta/entrada.",
+    "examples": [
+      "我在商店门口。"
+    ]
+  },
+  {
+    "text": "商量方案",
+    "pinyin": "shāngliang fāng'àn",
+    "translation": "discutir o plano",
+    "category": "Trabalho",
+    "note": "商量 + 方案 = discutir + plano.",
+    "examples": [
+      "我们商量方案。"
+    ]
+  },
+  {
+    "text": "喉咙疼",
+    "pinyin": "hóulóng téng",
+    "translation": "dor de garganta",
+    "category": "Saúde",
+    "note": "喉咙 + 疼 = garganta + doer.",
+    "examples": [
+      "我喉咙疼。"
+    ]
+  },
+  {
+    "text": "喝水提醒",
+    "pinyin": "hē shuǐ tíxǐng",
+    "translation": "lembrete para beber água",
+    "category": "Saúde",
+    "note": "喝水 + 提醒 = beber água + lembrete.",
+    "examples": [
+      "设置喝水提醒。"
+    ]
+  },
+  {
+    "text": "四川火锅",
+    "pinyin": "Sìchuān huǒguō",
+    "translation": "hotpot de Sichuan",
+    "category": "Restaurante",
+    "note": "四川 + 火锅 = Sichuan + hotpot.",
+    "examples": [
+      "四川火锅很辣。"
+    ]
+  },
+  {
+    "text": "国庆节活动",
+    "pinyin": "guóqìngjié huódòng",
+    "translation": "atividade do Dia Nacional",
+    "category": "Cultura",
+    "note": "国庆节 + 活动 = Dia Nacional + atividade.",
+    "examples": [
+      "国庆节活动很多。"
+    ]
+  },
+  {
+    "text": "国籍信息",
+    "pinyin": "guójí xìnxī",
+    "translation": "informação de nacionalidade",
+    "category": "Documentos",
+    "note": "国籍 + 信息 = nacionalidade + informação.",
+    "examples": [
+      "请填写国籍信息。"
+    ]
+  },
+  {
+    "text": "在线课程",
+    "pinyin": "zàixiàn kèchéng",
+    "translation": "curso online",
+    "category": "Educação",
+    "note": "在线 + 课程 = online + curso.",
+    "examples": [
+      "在线课程很好。"
+    ]
+  },
+  {
+    "text": "地铁站口",
+    "pinyin": "dìtiě zhànkǒu",
+    "translation": "entrada/saída do metrô",
+    "category": "Transporte",
+    "note": "地铁 + 站口 = metrô + entrada/saída.",
+    "examples": [
+      "地铁站口在哪里？"
+    ]
+  },
+  {
+    "text": "地铁路线",
+    "pinyin": "dìtiě lùxiàn",
+    "translation": "rota do metrô",
+    "category": "Transporte",
+    "note": "地铁 + 路线 = metrô + rota.",
+    "examples": [
+      "地铁路线很清楚。"
+    ]
+  },
+  {
+    "text": "地震报警",
+    "pinyin": "dìzhèn bàojǐng",
+    "translation": "alarme de terremoto",
+    "category": "Segurança",
+    "note": "地震 + 报警 = terremoto + alarme.",
+    "examples": [
+      "地震报警响了。"
+    ]
+  },
+  {
+    "text": "坚持不懈",
+    "pinyin": "jiānchí búxiè",
+    "translation": "persistir sem desistir",
+    "category": "Estudo e atitude",
+    "note": "坚持 + 不懈 = persistir + sem relaxar.",
+    "examples": [
+      "学习要坚持不懈。"
+    ]
+  },
+  {
+    "text": "垃圾分类",
+    "pinyin": "lājī fēnlèi",
+    "translation": "separação de lixo",
+    "category": "Cidade real",
+    "note": "垃圾 + 分类 = lixo + classificação.",
+    "examples": [
+      "垃圾分类很重要。"
+    ]
+  },
+  {
+    "text": "垃圾桶",
+    "pinyin": "lājītǒng",
+    "translation": "lixeira",
+    "category": "Cidade real",
+    "note": "垃 + 圾 + 桶 = lixo + recipiente.",
+    "examples": [
+      "垃圾桶在哪里？"
+    ]
+  },
+  {
+    "text": "垃圾桶位置",
+    "pinyin": "lājītǒng wèizhi",
+    "translation": "local da lixeira",
+    "category": "Cidade",
+    "note": "垃圾桶 + 位置 = lixeira + localização.",
+    "examples": [
+      "垃圾桶位置在哪里？"
+    ]
+  },
+  {
+    "text": "城市区域",
+    "pinyin": "chéngshì qūyù",
+    "translation": "área urbana",
+    "category": "Cidade",
+    "note": "城市 + 区域 = cidade + área.",
+    "examples": [
+      "城市区域很大。"
+    ]
+  },
+  {
+    "text": "城市建设",
+    "pinyin": "chéngshì jiànshè",
+    "translation": "construção urbana",
+    "category": "Cidade",
+    "note": "城市 + 建设 = cidade + construção.",
+    "examples": [
+      "城市建设很快。"
+    ]
+  },
+  {
+    "text": "城隍庙",
+    "pinyin": "Chénghuángmiào",
+    "translation": "Templo do Deus da Cidade",
+    "category": "Shanghai",
+    "note": "城 + 隍 + 庙 = cidade + deus local + templo.",
+    "examples": [
+      "城隍庙在哪里？"
+    ]
+  },
+  {
+    "text": "城隍庙门票",
+    "pinyin": "Chénghuángmiào ménpiào",
+    "translation": "ingresso do Templo do Deus da Cidade",
+    "category": "Shanghai",
+    "note": "城隍庙 + 门票 = templo + ingresso.",
+    "examples": [
+      "城隍庙门票多少钱？"
+    ]
+  },
+  {
+    "text": "培训员工",
+    "pinyin": "péixùn yuángōng",
+    "translation": "treinar funcionários",
+    "category": "Trabalho",
+    "note": "培训 + 员工 = capacitação + funcionários.",
+    "examples": [
+      "公司培训员工。"
+    ]
+  },
+  {
+    "text": "培训课程",
+    "pinyin": "péixùn kèchéng",
+    "translation": "curso de treinamento",
+    "category": "Trabalho e estudo",
+    "note": "培训 + 课程 = treinamento + curso.",
+    "examples": [
+      "公司提供培训课程。"
+    ]
+  },
+  {
+    "text": "基本材料",
+    "pinyin": "jīběn cáiliào",
+    "translation": "materiais básicos",
+    "category": "Estudo e trabalho",
+    "note": "基本 + 材料 = básico + material.",
+    "examples": [
+      "基本材料准备好了。"
+    ]
+  },
+  {
+    "text": "基础设施",
+    "pinyin": "jīchǔ shèshī",
+    "translation": "infraestrutura",
+    "category": "Cidade e gestão",
+    "note": "基础 + 设施 = base + instalações.",
+    "examples": [
+      "基础设施很好。"
+    ]
+  },
+  {
+    "text": "堵车严重",
+    "pinyin": "dǔchē yánzhòng",
+    "translation": "engarrafamento grave",
+    "category": "Trânsito",
+    "note": "堵车 + 严重 = engarrafamento + grave.",
+    "examples": [
+      "今天堵车严重。"
+    ]
+  },
+  {
+    "text": "塑料袋收费",
+    "pinyin": "sùliàodài shōufèi",
+    "translation": "cobrança por sacola plástica",
+    "category": "Compras",
+    "note": "塑料袋 + 收费 = sacola plástica + cobrança.",
+    "examples": [
+      "塑料袋收费吗？"
+    ]
+  },
+  {
+    "text": "填写表格",
+    "pinyin": "tiánxiě biǎogé",
+    "translation": "preencher formulário",
+    "category": "Documentos",
+    "note": "填写 + 表格 = preencher + tabela/formulário.",
+    "examples": [
+      "请填写表格。"
+    ]
+  },
+  {
+    "text": "声调练习",
+    "pinyin": "shēngdiào liànxí",
+    "translation": "treino de tons",
+    "category": "Educação",
+    "note": "声调 + 练习 = tom + prática.",
+    "examples": [
+      "声调练习很重要。"
+    ]
+  },
+  {
+    "text": "复印文件",
+    "pinyin": "fùyìn wénjiàn",
+    "translation": "fotocopiar documento",
+    "category": "Documentos",
+    "note": "复印 + 文件 = copiar + documento.",
+    "examples": [
+      "请复印文件。"
+    ]
+  },
+  {
+    "text": "复杂问题",
+    "pinyin": "fùzá wèntí",
+    "translation": "problema complexo",
+    "category": "Análise",
+    "note": "复杂 + 问题 = complexo + problema.",
+    "examples": [
+      "这是复杂问题。"
+    ]
+  },
+  {
+    "text": "外滩",
+    "pinyin": "Wàitān",
+    "translation": "The Bund",
+    "category": "Shanghai",
+    "note": "外 + 滩 = margem externa.",
+    "examples": [
+      "外滩很漂亮。"
+    ]
+  },
+  {
+    "text": "夜景路线",
+    "pinyin": "yèjǐng lùxiàn",
+    "translation": "rota de vista noturna",
+    "category": "Viagem",
+    "note": "夜景 + 路线 = vista noturna + rota.",
+    "examples": [
+      "上海夜景路线很美。"
+    ]
+  },
+  {
+    "text": "天气预报",
+    "pinyin": "tiānqì yùbào",
+    "translation": "previsão do tempo",
+    "category": "Clima",
+    "note": "天气 + 预报 = clima + previsão.",
+    "examples": [
+      "天气预报说明天有雨。"
+    ]
+  },
+  {
+    "text": "天涯海角",
+    "pinyin": "tiānyá hǎijiǎo",
+    "translation": "confins do mundo",
+    "category": "Cultura",
+    "note": "天涯 + 海角 = fim do céu + canto do mar.",
+    "examples": [
+      "这是浪漫表达。"
+    ]
+  },
+  {
+    "text": "头疼发烧",
+    "pinyin": "tóuténg fāshāo",
+    "translation": "dor de cabeça e febre",
+    "category": "Saúde",
+    "note": "头疼 + 发烧 = dor de cabeça + febre.",
+    "examples": [
+      "我头疼发烧。"
+    ]
+  },
+  {
+    "text": "奥运会场馆",
+    "pinyin": "Àoyùnhuì chǎngguǎn",
+    "translation": "locais olímpicos",
+    "category": "Esporte e cidade",
+    "note": "奥运会 + 场馆 = Olimpíadas + locais.",
+    "examples": [
+      "奥运会场馆很大。"
+    ]
+  },
+  {
+    "text": "姓名地址",
+    "pinyin": "xìngmíng dìzhǐ",
+    "translation": "nome e endereço",
+    "category": "Documentos",
+    "note": "姓名 + 地址 = nome completo + endereço.",
+    "examples": [
+      "请填写姓名地址。"
+    ]
+  },
+  {
+    "text": "姓氏登记",
+    "pinyin": "xìngshì dēngjì",
+    "translation": "registro de sobrenome",
+    "category": "Documentos",
+    "note": "姓氏 + 登记 = sobrenome + registro.",
+    "examples": [
+      "请填写姓氏登记。"
+    ]
+  },
+  {
+    "text": "婚礼场地",
+    "pinyin": "hūnlǐ chǎngdì",
+    "translation": "local de casamento",
+    "category": "Eventos",
+    "note": "婚礼 + 场地 = casamento + local.",
+    "examples": [
+      "婚礼场地很漂亮。"
+    ]
+  },
+  {
+    "text": "媒体报道",
+    "pinyin": "méitǐ bàodào",
+    "translation": "cobertura da mídia",
+    "category": "Comunicação",
+    "note": "媒体 + 报道 = mídia + reportagem.",
+    "examples": [
+      "媒体报道了新闻。"
+    ]
+  },
+  {
+    "text": "嫌疑人信息",
+    "pinyin": "xiányírén xìnxī",
+    "translation": "informações do suspeito",
+    "category": "Direito",
+    "note": "嫌疑人 + 信息 = suspeito + informações.",
+    "examples": [
+      "嫌疑人信息在哪里？"
+    ]
+  },
+  {
+    "text": "字符串长度",
+    "pinyin": "zìfúchuàn chángdù",
+    "translation": "comprimento da string",
+    "category": "Tecnologia",
+    "note": "字符串 + 长度 = string + comprimento.",
+    "examples": [
+      "字符串长度是多少？"
+    ]
+  },
+  {
+    "text": "字符编码",
+    "pinyin": "zìfú biānmǎ",
+    "translation": "codificação de caracteres",
+    "category": "Tecnologia",
+    "note": "字符 + 编码 = caractere + codificação.",
+    "examples": [
+      "字符编码很重要。"
+    ]
+  },
+  {
+    "text": "学习诀窍",
+    "pinyin": "xuéxí juéqiào",
+    "translation": "macete de estudo",
+    "category": "Estudo",
+    "note": "学习 + 诀窍 = aprender + macete.",
+    "examples": [
+      "学习有诀窍。"
+    ]
+  },
+  {
+    "text": "学校门口",
+    "pinyin": "xuéxiào ménkǒu",
+    "translation": "entrada da escola",
+    "category": "Cidade",
+    "note": "学校 + 门口 = escola + entrada.",
+    "examples": [
+      "学校门口很忙。"
+    ]
+  },
+  {
+    "text": "宇宙科学",
+    "pinyin": "yǔzhòu kēxué",
+    "translation": "ciência do universo",
+    "category": "Ciência",
+    "note": "宇宙 + 科学 = universo + ciência.",
+    "examples": [
+      "孩子喜欢宇宙科学。"
+    ]
+  },
+  {
+    "text": "安全帽",
+    "pinyin": "ānquánmào",
+    "translation": "capacete",
+    "category": "Segurança",
+    "note": "安全 + 帽 = segurança + chapéu.",
+    "examples": [
+      "请戴安全帽。"
+    ]
+  },
+  {
+    "text": "安全栏杆",
+    "pinyin": "ānquán lángān",
+    "translation": "corrimão de segurança",
+    "category": "Cidade",
+    "note": "安全 + 栏杆 = segurança + corrimão.",
+    "examples": [
+      "请扶安全栏杆。"
+    ]
+  },
+  {
+    "text": "安宁住宅区",
+    "pinyin": "ānníng zhùzháiqū",
+    "translation": "área residencial tranquila",
+    "category": "Moradia",
+    "note": "安宁 + 住宅区 = tranquilidade + área residencial.",
+    "examples": [
+      "这个住宅区很安宁。"
+    ]
+  },
+  {
+    "text": "安检口",
+    "pinyin": "ānjiǎnkǒu",
+    "translation": "controle de segurança",
+    "category": "Aeroporto",
+    "note": "安检 + 口 = inspeção de segurança + entrada.",
+    "examples": [
+      "安检口在前面。"
+    ]
+  },
+  {
+    "text": "安装软件",
+    "pinyin": "ānzhuāng ruǎnjiàn",
+    "translation": "instalar software",
+    "category": "Tecnologia",
+    "note": "安装 + 软件 = instalar + software.",
+    "examples": [
+      "请安装软件。"
+    ]
+  },
+  {
+    "text": "安静区域",
+    "pinyin": "ānjìng qūyù",
+    "translation": "área silenciosa",
+    "category": "Placas",
+    "note": "安静 + 区域 = silêncio + área.",
+    "examples": [
+      "这里是安静区域。"
+    ]
+  },
+  {
+    "text": "官方信息",
+    "pinyin": "guānfāng xìnxī",
+    "translation": "informação oficial",
+    "category": "Documentos",
+    "note": "官方 + 信息 = oficial + informação.",
+    "examples": [
+      "这是官方信息。"
+    ]
+  },
+  {
+    "text": "官方通知",
+    "pinyin": "guānfāng tōngzhī",
+    "translation": "aviso oficial",
+    "category": "Governo e comunicação",
+    "note": "官方 + 通知 = oficial + aviso.",
+    "examples": [
+      "官方通知来了。"
+    ]
+  },
+  {
+    "text": "实际问题",
+    "pinyin": "shíjì wèntí",
+    "translation": "problema real",
+    "category": "Análise",
+    "note": "实际 + 问题 = real + problema.",
+    "examples": [
+      "这是实际问题。"
+    ]
+  },
+  {
+    "text": "宠物医院",
+    "pinyin": "chǒngwù yīyuàn",
+    "translation": "hospital veterinário",
+    "category": "Cidade e saúde",
+    "note": "宠物 + 医院 = animal de estimação + hospital.",
+    "examples": [
+      "宠物医院在哪里？"
+    ]
+  },
+  {
+    "text": "审核文件",
+    "pinyin": "shěnhé wénjiàn",
+    "translation": "revisar/auditar documento",
+    "category": "Documentos",
+    "note": "审核 + 文件 = auditoria/revisão + documento.",
+    "examples": [
+      "请审核文件。"
+    ]
+  },
+  {
+    "text": "客户催促",
+    "pinyin": "kèhù cuīcù",
+    "translation": "cliente cobrando urgência",
+    "category": "Trabalho",
+    "note": "客户 + 催促 = cliente + cobrança.",
+    "examples": [
+      "客户在催促。"
+    ]
+  },
+  {
+    "text": "客户服务",
+    "pinyin": "kèhù fúwù",
+    "translation": "atendimento ao cliente",
+    "category": "Negócios",
+    "note": "客户 + 服务 = cliente + serviço.",
+    "examples": [
+      "客户服务很好。"
+    ]
+  },
+  {
+    "text": "客舱服务",
+    "pinyin": "kècāng fúwù",
+    "translation": "serviço de cabine",
+    "category": "Aeroporto",
+    "note": "客舱 + 服务 = cabine + serviço.",
+    "examples": [
+      "客舱服务很好。"
+    ]
+  },
+  {
+    "text": "宣传海报",
+    "pinyin": "xuānchuán hǎibào",
+    "translation": "cartaz de divulgação",
+    "category": "Marketing",
+    "note": "宣传 + 海报 = divulgação + cartaz.",
+    "examples": [
+      "宣传海报做好了。"
+    ]
+  },
+  {
+    "text": "宫殿建筑",
+    "pinyin": "gōngdiàn jiànzhù",
+    "translation": "arquitetura palaciana",
+    "category": "Cultura",
+    "note": "宫殿 + 建筑 = palácio + arquitetura.",
+    "examples": [
+      "宫殿建筑很美。"
+    ]
+  },
+  {
+    "text": "家庭地址",
+    "pinyin": "jiātíng dìzhǐ",
+    "translation": "endereço residencial",
+    "category": "Documentos",
+    "note": "家庭 + 地址 = família/casa + endereço.",
+    "examples": [
+      "请填写家庭地址。"
+    ]
+  },
+  {
+    "text": "宽带网络",
+    "pinyin": "kuāndài wǎngluò",
+    "translation": "internet banda larga",
+    "category": "Tecnologia",
+    "note": "宽带 + 网络 = banda larga + rede.",
+    "examples": [
+      "宽带网络很快。"
+    ]
+  },
+  {
+    "text": "宾馆住宿",
+    "pinyin": "bīnguǎn zhùsù",
+    "translation": "hospedagem em hotel",
+    "category": "Viagem",
+    "note": "宾馆 + 住宿 = hotel + hospedagem.",
+    "examples": [
+      "宾馆住宿多少钱？"
+    ]
+  },
+  {
+    "text": "宾馆地址",
+    "pinyin": "bīnguǎn dìzhǐ",
+    "translation": "endereço do hotel",
+    "category": "Viagem",
+    "note": "宾馆 + 地址 = hotel + endereço.",
+    "examples": [
+      "宾馆地址是什么？"
+    ]
+  },
+  {
+    "text": "宿舍地址",
+    "pinyin": "sùshè dìzhǐ",
+    "translation": "endereço do dormitório",
+    "category": "Moradia",
+    "note": "宿舍 + 地址 = dormitório + endereço.",
+    "examples": [
+      "宿舍地址在哪里？"
+    ]
+  },
+  {
+    "text": "密码安全",
+    "pinyin": "mìmǎ ānquán",
+    "translation": "segurança de senha",
+    "category": "Tecnologia",
+    "note": "密码 + 安全 = senha + segurança.",
+    "examples": [
+      "密码安全很重要。"
+    ]
+  },
+  {
+    "text": "密码忘记",
+    "pinyin": "mìmǎ wàngjì",
+    "translation": "senha esquecida",
+    "category": "Tecnologia",
+    "note": "密码 + 忘记 = senha + esquecer.",
+    "examples": [
+      "我忘记密码了。"
+    ]
+  },
+  {
+    "text": "密码锁设置",
+    "pinyin": "mìmǎsuǒ shèzhì",
+    "translation": "configuração da fechadura com senha",
+    "category": "Segurança",
+    "note": "密码锁 + 设置 = fechadura com senha + configuração.",
+    "examples": [
+      "密码锁设置完成了。"
+    ]
+  },
+  {
+    "text": "密码错误",
+    "pinyin": "mìmǎ cuòwù",
+    "translation": "senha incorreta",
+    "category": "Tecnologia",
+    "note": "密码 + 错误 = senha + erro.",
+    "examples": [
+      "密码错误。"
+    ]
+  },
+  {
+    "text": "寒冷天气",
+    "pinyin": "hánlěng tiānqì",
+    "translation": "clima muito frio",
+    "category": "Clima",
+    "note": "寒冷 + 天气 = frio intenso + clima.",
+    "examples": [
+      "今天是寒冷天气。"
+    ]
+  },
+  {
+    "text": "导航路线",
+    "pinyin": "dǎoháng lùxiàn",
+    "translation": "rota de navegação",
+    "category": "Cidade",
+    "note": "导航 + 路线 = navegação + rota.",
+    "examples": [
+      "导航路线很清楚。"
+    ]
+  },
+  {
+    "text": "尊重文化",
+    "pinyin": "zūnzhòng wénhuà",
+    "translation": "respeitar cultura",
+    "category": "Cultura",
+    "note": "尊重 + 文化 = respeitar + cultura.",
+    "examples": [
+      "请尊重文化。"
+    ]
+  },
+  {
+    "text": "小心地滑",
+    "pinyin": "xiǎoxīn dì huá",
+    "translation": "cuidado, piso escorregadio",
+    "category": "Placas",
+    "note": "小心 + 地 + 滑 = cuidado + chão + escorregadio.",
+    "examples": [
+      "小心地滑。"
+    ]
+  },
+  {
+    "text": "小猫照片",
+    "pinyin": "xiǎomāo zhàopiàn",
+    "translation": "foto do gatinho",
+    "category": "Animais",
+    "note": "小猫 + 照片 = gatinho + foto.",
+    "examples": [
+      "小猫照片很可爱。"
+    ]
+  },
+  {
+    "text": "少油少盐",
+    "pinyin": "shǎo yóu shǎo yán",
+    "translation": "pouco óleo e pouco sal",
+    "category": "Restaurante",
+    "note": "少 + 油 + 少 + 盐 = pouco óleo + pouco sal.",
+    "examples": [
+      "请少油少盐。"
+    ]
+  },
+  {
+    "text": "尖端技术",
+    "pinyin": "jiānduān jìshù",
+    "translation": "tecnologia de ponta",
+    "category": "Tecnologia",
+    "note": "尖端 + 技术 = ponta + tecnologia.",
+    "examples": [
+      "这是尖端技术。"
+    ]
+  },
+  {
+    "text": "尴尬气氛",
+    "pinyin": "gāngà qìfēn",
+    "translation": "clima constrangedor",
+    "category": "Relações",
+    "note": "尴尬 + 气氛 = constrangedor + atmosfera.",
+    "examples": [
+      "气氛很尴尬。"
+    ]
+  },
+  {
+    "text": "尺寸不合适",
+    "pinyin": "chǐcùn bù héshì",
+    "translation": "tamanho não adequado",
+    "category": "Compras",
+    "note": "尺寸 + 不合适 = medida + não serve.",
+    "examples": [
+      "尺寸不合适。"
+    ]
+  },
+  {
+    "text": "尺寸测量",
+    "pinyin": "chǐcùn cèliáng",
+    "translation": "medição de tamanho",
+    "category": "Medidas",
+    "note": "尺寸 + 测量 = tamanho + medição.",
+    "examples": [
+      "尺寸测量完成了。"
+    ]
+  },
+  {
+    "text": "尺码表",
+    "pinyin": "chǐmǎ biǎo",
+    "translation": "tabela de tamanhos",
+    "category": "Compras",
+    "note": "尺码 + 表 = tamanho + tabela.",
+    "examples": [
+      "尺码表在哪里？"
+    ]
+  },
+  {
+    "text": "尽快回复",
+    "pinyin": "jǐnkuài huífù",
+    "translation": "responder o quanto antes",
+    "category": "Trabalho",
+    "note": "尽快 + 回复 = o quanto antes + responder.",
+    "examples": [
+      "请尽快回复。"
+    ]
+  },
+  {
+    "text": "居住证明",
+    "pinyin": "jūzhù zhèngmíng",
+    "translation": "comprovante de residência",
+    "category": "Documentos",
+    "note": "居住 + 证明 = residência + comprovação.",
+    "examples": [
+      "需要居住证明吗？"
+    ]
+  },
+  {
+    "text": "屏幕亮度",
+    "pinyin": "píngmù liàngdù",
+    "translation": "brilho da tela",
+    "category": "Tecnologia",
+    "note": "屏幕 + 亮度 = tela + brilho.",
+    "examples": [
+      "屏幕亮度太高。"
+    ]
+  },
+  {
+    "text": "屏幕开幕",
+    "pinyin": "píngmù kāimù",
+    "translation": "abertura na tela",
+    "category": "Cultura e tecnologia",
+    "note": "屏幕 + 开幕 = tela + abertura.",
+    "examples": [
+      "开幕式在屏幕上。"
+    ]
+  },
+  {
+    "text": "屏幕显示",
+    "pinyin": "píngmù xiǎnshì",
+    "translation": "exibição da tela",
+    "category": "Tecnologia",
+    "note": "屏幕 + 显示 = tela + mostrar.",
+    "examples": [
+      "屏幕显示错误。"
+    ]
+  },
+  {
+    "text": "展览入口",
+    "pinyin": "zhǎnlǎn rùkǒu",
+    "translation": "entrada da exposição",
+    "category": "Eventos",
+    "note": "展览 + 入口 = exposição + entrada.",
+    "examples": [
+      "展览入口在哪里？"
+    ]
+  },
+  {
+    "text": "展览门票",
+    "pinyin": "zhǎnlǎn ménpiào",
+    "translation": "ingresso da exposição",
+    "category": "Cultura",
+    "note": "展览 + 门票 = exposição + ingresso.",
+    "examples": [
+      "展览门票多少钱？"
+    ]
+  },
+  {
+    "text": "属于公司",
+    "pinyin": "shǔyú gōngsī",
+    "translation": "pertence à empresa",
+    "category": "Trabalho",
+    "note": "属于 + 公司 = pertencer + empresa.",
+    "examples": [
+      "这个属于公司。"
+    ]
+  },
+  {
+    "text": "履行合同",
+    "pinyin": "lǚxíng hétong",
+    "translation": "cumprir contrato",
+    "category": "Direito e trabalho",
+    "note": "履行 + 合同 = cumprir + contrato.",
+    "examples": [
+      "请履行合同。"
+    ]
+  },
+  {
+    "text": "岗位职责",
+    "pinyin": "gǎngwèi zhízé",
+    "translation": "responsabilidades do cargo",
+    "category": "Trabalho",
+    "note": "岗位 + 职责 = cargo + responsabilidades.",
+    "examples": [
+      "岗位职责很清楚。"
+    ]
+  },
+  {
+    "text": "岛屿地图",
+    "pinyin": "dǎoyǔ dìtú",
+    "translation": "mapa das ilhas",
+    "category": "Geografia",
+    "note": "岛屿 + 地图 = ilhas + mapa.",
+    "examples": [
+      "岛屿地图在哪里？"
+    ]
+  },
+  {
+    "text": "岩石公园",
+    "pinyin": "yánshí gōngyuán",
+    "translation": "parque de rochas",
+    "category": "Turismo",
+    "note": "岩石 + 公园 = rocha + parque.",
+    "examples": [
+      "岩石公园很漂亮。"
+    ]
+  },
+  {
+    "text": "嵌入式系统",
+    "pinyin": "qiànrùshì xìtǒng",
+    "translation": "sistema embarcado",
+    "category": "Tecnologia",
+    "note": "嵌入式 + 系统 = embarcado + sistema.",
+    "examples": [
+      "这是嵌入式系统。"
+    ]
+  },
+  {
+    "text": "工作压力",
+    "pinyin": "gōngzuò yālì",
+    "translation": "pressão do trabalho",
+    "category": "Trabalho",
+    "note": "工作 + 压力 = trabalho + pressão.",
+    "examples": [
+      "工作压力很大。"
+    ]
+  },
+  {
+    "text": "工程师岗位",
+    "pinyin": "gōngchéngshī gǎngwèi",
+    "translation": "vaga de engenheiro",
+    "category": "Trabalho",
+    "note": "工程师 + 岗位 = engenheiro + cargo.",
+    "examples": [
+      "工程师岗位很好。"
+    ]
+  },
+  {
+    "text": "工程师证书",
+    "pinyin": "gōngchéngshī zhèngshū",
+    "translation": "certificado de engenheiro",
+    "category": "Trabalho",
+    "note": "工程师 + 证书 = engenheiro + certificado.",
+    "examples": [
+      "工程师证书在哪里？"
+    ]
+  },
+  {
+    "text": "差异分析",
+    "pinyin": "chāyì fēnxī",
+    "translation": "análise de diferenças",
+    "category": "Dados",
+    "note": "差异 + 分析 = diferença + análise.",
+    "examples": [
+      "差异分析很重要。"
+    ]
+  },
+  {
+    "text": "市场入口",
+    "pinyin": "shìchǎng rùkǒu",
+    "translation": "entrada do mercado",
+    "category": "Cidade",
+    "note": "市场 + 入口 = mercado + entrada.",
+    "examples": [
+      "市场入口在哪里？"
+    ]
+  },
+  {
+    "text": "市场波动",
+    "pinyin": "shìchǎng bōdòng",
+    "translation": "flutuação do mercado",
+    "category": "Finanças",
+    "note": "市场 + 波动 = mercado + flutuação.",
+    "examples": [
+      "市场波动很大。"
+    ]
+  },
+  {
+    "text": "市场竞争",
+    "pinyin": "shìchǎng jìngzhēng",
+    "translation": "competição de mercado",
+    "category": "Negócios",
+    "note": "市场 + 竞争 = mercado + competição.",
+    "examples": [
+      "市场竞争很强。"
+    ]
+  },
+  {
+    "text": "市场趋势",
+    "pinyin": "shìchǎng qūshì",
+    "translation": "tendência de mercado",
+    "category": "Análise",
+    "note": "市场 + 趋势 = mercado + tendência.",
+    "examples": [
+      "这是市场趋势。"
+    ]
+  },
+  {
+    "text": "布料市场",
+    "pinyin": "bùliào shìchǎng",
+    "translation": "mercado de tecidos",
+    "category": "Moda e compras",
+    "note": "布料 + 市场 = tecido + mercado.",
+    "examples": [
+      "布料市场在哪里？"
+    ]
+  },
+  {
+    "text": "希望成功",
+    "pinyin": "xīwàng chénggōng",
+    "translation": "esperar sucesso",
+    "category": "Estudo e carreira",
+    "note": "希望 + 成功 = esperança + sucesso.",
+    "examples": [
+      "我希望成功。"
+    ]
+  },
+  {
+    "text": "帐单金额",
+    "pinyin": "zhàngdān jīn'é",
+    "translation": "valor da conta",
+    "category": "Finanças",
+    "note": "帐单 + 金额 = conta + valor.",
+    "examples": [
+      "帐单金额是多少？"
+    ]
+  },
+  {
+    "text": "帖子评论",
+    "pinyin": "tiězi pínglùn",
+    "translation": "comentário de post",
+    "category": "Internet",
+    "note": "帖子 + 评论 = post + comentário.",
+    "examples": [
+      "这个帖子评论很多。"
+    ]
+  },
+  {
+    "text": "帽子尺码",
+    "pinyin": "màozi chǐmǎ",
+    "translation": "tamanho do chapéu",
+    "category": "Roupas",
+    "note": "帽子 + 尺码 = chapéu + tamanho.",
+    "examples": [
+      "帽子尺码是多少？"
+    ]
+  },
+  {
+    "text": "干净房间",
+    "pinyin": "gānjìng fángjiān",
+    "translation": "quarto limpo",
+    "category": "Casa",
+    "note": "干净 + 房间 = limpo + quarto.",
+    "examples": [
+      "房间很干净。"
+    ]
+  },
+  {
+    "text": "干燥天气",
+    "pinyin": "gānzào tiānqì",
+    "translation": "clima seco",
+    "category": "Clima",
+    "note": "干燥 + 天气 = seco + clima.",
+    "examples": [
+      "今天是干燥天气。"
+    ]
+  },
+  {
+    "text": "平均价格",
+    "pinyin": "píngjūn jiàgé",
+    "translation": "preço médio",
+    "category": "Finanças",
+    "note": "平均 + 价格 = média + preço.",
+    "examples": [
+      "平均价格是多少？"
+    ]
+  },
+  {
+    "text": "平安到达",
+    "pinyin": "píng'ān dàodá",
+    "translation": "chegar em segurança",
+    "category": "Viagem",
+    "note": "平安 + 到达 = paz/segurança + chegar.",
+    "examples": [
+      "祝你平安到达。"
+    ]
+  },
+  {
+    "text": "并且工作",
+    "pinyin": "bìngqiě gōngzuò",
+    "translation": "e também trabalhar",
+    "category": "Gramática",
+    "note": "并且 + 工作 = além disso/e + trabalhar.",
+    "examples": [
+      "我学习并且工作。"
+    ]
+  },
+  {
+    "text": "幸福生活",
+    "pinyin": "xìngfú shēnghuó",
+    "translation": "vida feliz",
+    "category": "Vida diária",
+    "note": "幸福 + 生活 = felicidade + vida.",
+    "examples": [
+      "祝你幸福生活。"
+    ]
+  },
+  {
+    "text": "幼儿园地址",
+    "pinyin": "yòu'éryuán dìzhǐ",
+    "translation": "endereço do jardim de infância",
+    "category": "Cidade e família",
+    "note": "幼儿园 + 地址 = jardim de infância + endereço.",
+    "examples": [
+      "幼儿园地址是什么？"
+    ]
+  },
+  {
+    "text": "广告设计",
+    "pinyin": "guǎnggào shèjì",
+    "translation": "design publicitário",
+    "category": "Marketing",
+    "note": "广告 + 设计 = propaganda + design.",
+    "examples": [
+      "广告设计很好。"
+    ]
+  },
+  {
+    "text": "床单颜色",
+    "pinyin": "chuángdān yánsè",
+    "translation": "cor do lençol",
+    "category": "Casa",
+    "note": "床单 + 颜色 = lençol + cor.",
+    "examples": [
+      "床单颜色很好看。"
+    ]
+  },
+  {
+    "text": "应该休息",
+    "pinyin": "yīnggāi xiūxi",
+    "translation": "deveria descansar",
+    "category": "Saúde",
+    "note": "应该 + 休息 = deveria + descansar.",
+    "examples": [
+      "你应该休息。"
+    ]
+  },
+  {
+    "text": "座位号码",
+    "pinyin": "zuòwèi hàomǎ",
+    "translation": "número do assento",
+    "category": "Transporte",
+    "note": "座位 + 号码 = assento + número.",
+    "examples": [
+      "座位号码是多少？"
+    ]
+  },
+  {
+    "text": "延迟通知",
+    "pinyin": "yánchí tōngzhī",
+    "translation": "aviso de atraso",
+    "category": "Transporte e eventos",
+    "note": "延迟 + 通知 = atraso + aviso.",
+    "examples": [
+      "航班延迟通知来了。"
+    ]
+  },
+  {
+    "text": "建设项目",
+    "pinyin": "jiànshè xiàngmù",
+    "translation": "projeto de construção",
+    "category": "Cidade e trabalho",
+    "note": "建设 + 项目 = construção + projeto.",
+    "examples": [
+      "建设项目很大。"
+    ]
+  },
+  {
+    "text": "开放时间",
+    "pinyin": "kāifàng shíjiān",
+    "translation": "horário de funcionamento",
+    "category": "Cidade e serviços",
+    "note": "开放 + 时间 = abrir + tempo.",
+    "examples": [
+      "开放时间是几点？"
+    ]
+  },
+  {
+    "text": "弄堂路线",
+    "pinyin": "lòngtáng lùxiàn",
+    "translation": "rota pelas vielas tradicionais",
+    "category": "Shanghai",
+    "note": "弄堂 + 路线 = viela tradicional + rota.",
+    "examples": [
+      "上海弄堂路线很有意思。"
+    ]
+  },
+  {
+    "text": "弄清楚问题",
+    "pinyin": "nòng qīngchu wèntí",
+    "translation": "esclarecer o problema",
+    "category": "Comunicação",
+    "note": "弄清楚 + 问题 = esclarecer + problema.",
+    "examples": [
+      "请弄清楚问题。"
+    ]
+  },
+  {
+    "text": "弓箭文化",
+    "pinyin": "gōngjiàn wénhuà",
+    "translation": "cultura do arco e flecha",
+    "category": "Cultura",
+    "note": "弓箭 + 文化 = arco e flecha + cultura.",
+    "examples": [
+      "弓箭文化很有意思。"
+    ]
+  },
+  {
+    "text": "弘扬文化",
+    "pinyin": "hóngyáng wénhuà",
+    "translation": "promover cultura",
+    "category": "Cultura",
+    "note": "弘扬 + 文化 = promover + cultura.",
+    "examples": [
+      "我们弘扬文化。"
+    ]
+  },
+  {
+    "text": "弥补损失",
+    "pinyin": "míbǔ sǔnshī",
+    "translation": "compensar perdas",
+    "category": "Finanças e trabalho",
+    "note": "弥补 + 损失 = compensar + perda.",
+    "examples": [
+      "需要弥补损失。"
+    ]
+  },
+  {
+    "text": "弧线设计",
+    "pinyin": "húxiàn shèjì",
+    "translation": "design em curva",
+    "category": "Design",
+    "note": "弧线 + 设计 = curva + design.",
+    "examples": [
+      "弧线设计很好看。"
+    ]
+  },
+  {
+    "text": "弱点分析",
+    "pinyin": "ruòdiǎn fēnxī",
+    "translation": "análise de pontos fracos",
+    "category": "Estratégia",
+    "note": "弱点 + 分析 = ponto fraco + análise.",
+    "examples": [
+      "弱点分析很重要。"
+    ]
+  },
+  {
+    "text": "弹钢琴课程",
+    "pinyin": "tán gāngqín kèchéng",
+    "translation": "curso de piano",
+    "category": "Educação",
+    "note": "弹钢琴 + 课程 = tocar piano + curso.",
+    "examples": [
+      "弹钢琴课程开始了。"
+    ]
+  },
+  {
+    "text": "强烈建议",
+    "pinyin": "qiángliè jiànyì",
+    "translation": "recomendação forte",
+    "category": "Comunicação",
+    "note": "强烈 + 建议 = forte + sugestão.",
+    "examples": [
+      "我强烈建议休息。"
+    ]
+  },
+  {
+    "text": "归还书本",
+    "pinyin": "guīhuán shūběn",
+    "translation": "devolver livros",
+    "category": "Serviços",
+    "note": "归还 + 书本 = devolver + livros.",
+    "examples": [
+      "请归还书本。"
+    ]
+  },
+  {
+    "text": "当前位置",
+    "pinyin": "dāngqián wèizhi",
+    "translation": "posição atual",
+    "category": "Tecnologia",
+    "note": "当前 + 位置 = atual + posição.",
+    "examples": [
+      "当前位置在哪里？"
+    ]
+  },
+  {
+    "text": "当地文化",
+    "pinyin": "dāngdì wénhuà",
+    "translation": "cultura local",
+    "category": "Cultura",
+    "note": "当地 + 文化 = local + cultura.",
+    "examples": [
+      "我喜欢当地文化。"
+    ]
+  },
+  {
+    "text": "当然可以",
+    "pinyin": "dāngrán kěyǐ",
+    "translation": "claro que pode",
+    "category": "Frases úteis",
+    "note": "当然 + 可以 = claro + pode.",
+    "examples": [
+      "当然可以。"
+    ]
+  },
+  {
+    "text": "录音文件",
+    "pinyin": "lùyīn wénjiàn",
+    "translation": "arquivo de áudio gravado",
+    "category": "Tecnologia",
+    "note": "录音 + 文件 = gravação + arquivo.",
+    "examples": [
+      "录音文件在哪里？"
+    ]
+  },
+  {
+    "text": "形状识别",
+    "pinyin": "xíngzhuàng shíbié",
+    "translation": "reconhecimento de formas",
+    "category": "Tecnologia",
+    "note": "形状 + 识别 = forma + reconhecimento.",
+    "examples": [
+      "形状识别很有用。"
+    ]
+  },
+  {
+    "text": "彩色地图",
+    "pinyin": "cǎisè dìtú",
+    "translation": "mapa colorido",
+    "category": "Cidade",
+    "note": "彩色 + 地图 = colorido + mapa.",
+    "examples": [
+      "彩色地图很好看。"
+    ]
+  },
+  {
+    "text": "彬彬有礼",
+    "pinyin": "bīnbīn yǒulǐ",
+    "translation": "muito educado/cortês",
+    "category": "Cultura e comportamento",
+    "note": "彬彬 + 有礼 = refinado + ter etiqueta.",
+    "examples": [
+      "他彬彬有礼。"
+    ]
+  },
+  {
+    "text": "影片播放",
+    "pinyin": "yǐngpiàn bōfàng",
+    "translation": "reprodução de filme",
+    "category": "Mídia",
+    "note": "影片 + 播放 = filme + reprodução.",
+    "examples": [
+      "影片播放失败。"
+    ]
+  },
+  {
+    "text": "微信支付",
+    "pinyin": "Wēixìn zhīfù",
+    "translation": "pagamento via WeChat",
+    "category": "Cidade e pagamentos",
+    "note": "微信 + 支付 = WeChat + pagamento.",
+    "examples": [
+      "可以微信支付吗？"
+    ]
+  },
+  {
+    "text": "微信群聊",
+    "pinyin": "Wēixìn qúnliáo",
+    "translation": "grupo/conversa do WeChat",
+    "category": "Comunicação",
+    "note": "微信 + 群聊 = WeChat + grupo.",
+    "examples": [
+      "微信群聊很方便。"
+    ]
+  },
+  {
+    "text": "必须完成",
+    "pinyin": "bìxū wánchéng",
+    "translation": "deve ser concluído",
+    "category": "Trabalho",
+    "note": "必须 + 完成 = deve + concluir.",
+    "examples": [
+      "任务必须完成。"
+    ]
+  },
+  {
+    "text": "快递到了",
+    "pinyin": "kuàidì dào le",
+    "translation": "a entrega chegou",
+    "category": "Logística",
+    "note": "快递 + 到了 = entrega + chegou.",
+    "examples": [
+      "快递到了。"
+    ]
+  },
+  {
+    "text": "快递寄送",
+    "pinyin": "kuàidì jìsòng",
+    "translation": "envio de encomenda",
+    "category": "Serviços",
+    "note": "快递 + 寄送 = encomenda expressa + enviar.",
+    "examples": [
+      "快递寄送很方便。"
+    ]
+  },
+  {
+    "text": "意思解释",
+    "pinyin": "yìsi jiěshì",
+    "translation": "explicação do significado",
+    "category": "Linguagem",
+    "note": "意思 + 解释 = significado + explicação.",
+    "examples": [
+      "请解释这个意思。"
+    ]
+  },
+  {
+    "text": "意见一致",
+    "pinyin": "yìjiàn yízhì",
+    "translation": "opiniões consistentes",
+    "category": "Trabalho",
+    "note": "意见 + 一致 = opinião + consistência.",
+    "examples": [
+      "大家意见一致。"
+    ]
+  },
+  {
+    "text": "感冒药",
+    "pinyin": "gǎnmào yào",
+    "translation": "remédio para resfriado",
+    "category": "Saúde",
+    "note": "感冒 + 药 = resfriado + remédio.",
+    "examples": [
+      "我需要感冒药。"
+    ]
+  },
+  {
+    "text": "愿意帮忙",
+    "pinyin": "yuànyì bāngmáng",
+    "translation": "estar disposto a ajudar",
+    "category": "Conversação",
+    "note": "愿意 + 帮忙 = estar disposto + ajudar.",
+    "examples": [
+      "我愿意帮忙。"
+    ]
+  },
+  {
+    "text": "成本下降",
+    "pinyin": "chéngběn xiàjiàng",
+    "translation": "queda de custo",
+    "category": "Finanças",
+    "note": "成本 + 下降 = custo + cair.",
+    "examples": [
+      "成本下降了。"
+    ]
+  },
+  {
+    "text": "戒烟服务",
+    "pinyin": "jièyān fúwù",
+    "translation": "serviço para parar de fumar",
+    "category": "Saúde",
+    "note": "戒烟 + 服务 = parar de fumar + serviço.",
+    "examples": [
+      "医院有戒烟服务。"
+    ]
+  },
+  {
+    "text": "战争历史",
+    "pinyin": "zhànzhēng lìshǐ",
+    "translation": "história da guerra",
+    "category": "História",
+    "note": "战争 + 历史 = guerra + história.",
+    "examples": [
+      "这是战争历史。"
+    ]
+  },
+  {
+    "text": "战略问题",
+    "pinyin": "zhànlüè wèntí",
+    "translation": "questão estratégica",
+    "category": "Gestão",
+    "note": "战略 + 问题 = estratégia + questão.",
+    "examples": [
+      "这是战略问题。"
+    ]
+  },
+  {
+    "text": "戴口罩",
+    "pinyin": "dài kǒuzhào",
+    "translation": "usar máscara",
+    "category": "Saúde e cidade",
+    "note": "戴 + 口罩 = usar + máscara.",
+    "examples": [
+      "请戴口罩。"
+    ]
+  },
+  {
+    "text": "房租价格",
+    "pinyin": "fángzū jiàgé",
+    "translation": "preço do aluguel",
+    "category": "Moradia",
+    "note": "房租 + 价格 = aluguel + preço.",
+    "examples": [
+      "房租价格是多少？"
+    ]
+  },
+  {
+    "text": "房间号码",
+    "pinyin": "fángjiān hàomǎ",
+    "translation": "número do quarto",
+    "category": "Hotel",
+    "note": "房间 + 号码 = quarto + número.",
+    "examples": [
+      "房间号码是多少？"
+    ]
+  },
+  {
+    "text": "房间钥匙",
+    "pinyin": "fángjiān yàoshi",
+    "translation": "chave do quarto",
+    "category": "Hotel",
+    "note": "房间 + 钥匙 = quarto + chave.",
+    "examples": [
+      "房间钥匙在哪里？"
+    ]
+  },
+  {
+    "text": "手帕纸巾",
+    "pinyin": "shǒupà zhǐjīn",
+    "translation": "lenço e papel",
+    "category": "Objetos",
+    "note": "手帕 + 纸巾 = lenço + papel.",
+    "examples": [
+      "手帕纸巾在哪里？"
+    ]
+  },
+  {
+    "text": "手机充电",
+    "pinyin": "shǒujī chōngdiàn",
+    "translation": "carregar celular",
+    "category": "Tecnologia",
+    "note": "手机 + 充电 = celular + carregar.",
+    "examples": [
+      "手机需要充电。"
+    ]
+  },
+  {
+    "text": "手机外壳",
+    "pinyin": "shǒujī wàiké",
+    "translation": "capinha/carcaça de celular",
+    "category": "Objetos",
+    "note": "手机 + 外壳 = celular + carcaça.",
+    "examples": [
+      "手机外壳很好看。"
+    ]
+  },
+  {
+    "text": "手机机会",
+    "pinyin": "shǒujī jīhuì",
+    "translation": "oportunidade mobile",
+    "category": "Tecnologia",
+    "note": "手机 + 机会 = celular + oportunidade.",
+    "examples": [
+      "手机机会很大。"
+    ]
+  },
+  {
+    "text": "打开文件",
+    "pinyin": "dǎkāi wénjiàn",
+    "translation": "abrir arquivo",
+    "category": "Tecnologia",
+    "note": "打开 + 文件 = abrir + arquivo.",
+    "examples": [
+      "请打开文件。"
+    ]
+  },
+  {
+    "text": "打折商品",
+    "pinyin": "dǎzhé shāngpǐn",
+    "translation": "produto com desconto",
+    "category": "Compras",
+    "note": "打折 + 商品 = desconto + produto.",
+    "examples": [
+      "打折商品在哪里？"
+    ]
+  },
+  {
+    "text": "打车软件",
+    "pinyin": "dǎchē ruǎnjiàn",
+    "translation": "app de chamar táxi",
+    "category": "Transporte",
+    "note": "打车 + 软件 = chamar táxi + software.",
+    "examples": [
+      "打车软件很好用。"
+    ]
+  },
+  {
+    "text": "执行计划",
+    "pinyin": "zhíxíng jìhuà",
+    "translation": "executar plano",
+    "category": "Trabalho",
+    "note": "执行 + 计划 = executar + plano.",
+    "examples": [
+      "请执行计划。"
+    ]
+  },
+  {
+    "text": "扩大市场",
+    "pinyin": "kuòdà shìchǎng",
+    "translation": "ampliar mercado",
+    "category": "Negócios",
+    "note": "扩大 + 市场 = ampliar + mercado.",
+    "examples": [
+      "公司扩大市场。"
+    ]
+  },
+  {
+    "text": "扫码付款",
+    "pinyin": "sǎomǎ fùkuǎn",
+    "translation": "pagar escaneando QR code",
+    "category": "Pagamentos",
+    "note": "扫码 + 付款 = escanear código + pagar.",
+    "examples": [
+      "请扫码付款。"
+    ]
+  },
+  {
+    "text": "扫码支付",
+    "pinyin": "sǎomǎ zhīfù",
+    "translation": "pagamento por QR code",
+    "category": "Pagamento",
+    "note": "扫 + 码 + 支付 = escanear + código + pagar.",
+    "examples": [
+      "可以扫码支付吗？"
+    ]
+  },
+  {
+    "text": "找到出口",
+    "pinyin": "zhǎodào chūkǒu",
+    "translation": "encontrar a saída",
+    "category": "Cidade",
+    "note": "找到 + 出口 = encontrar + saída.",
+    "examples": [
+      "我找到出口了。"
+    ]
+  },
+  {
+    "text": "技术架构",
+    "pinyin": "jìshù jiàgòu",
+    "translation": "arquitetura técnica",
+    "category": "Tecnologia",
+    "note": "技术 + 架构 = técnica + arquitetura.",
+    "examples": [
+      "技术架构很清晰。"
+    ]
+  },
+  {
+    "text": "技术能力",
+    "pinyin": "jìshù nénglì",
+    "translation": "capacidade técnica",
+    "category": "Trabalho",
+    "note": "技术 + 能力 = técnica + capacidade.",
+    "examples": [
+      "技术能力很重要。"
+    ]
+  },
+  {
+    "text": "技术艺术",
+    "pinyin": "jìshù yìshù",
+    "translation": "técnica e arte",
+    "category": "Educação",
+    "note": "技术 + 艺术 = técnica + arte.",
+    "examples": [
+      "技术艺术都重要。"
+    ]
+  },
+  {
+    "text": "抄袭论文",
+    "pinyin": "chāoxí lùnwén",
+    "translation": "plagiar artigo/tese",
+    "category": "Acadêmico",
+    "note": "抄袭 + 论文 = plagiar + artigo acadêmico.",
+    "examples": [
+      "不要抄袭论文。"
+    ]
+  },
+  {
+    "text": "抓紧时间",
+    "pinyin": "zhuājǐn shíjiān",
+    "translation": "aproveitar/apressar o tempo",
+    "category": "Tempo",
+    "note": "抓紧 + 时间 = agarrar firme + tempo.",
+    "examples": [
+      "请抓紧时间。"
+    ]
+  },
+  {
+    "text": "投资风险",
+    "pinyin": "tóuzī fēngxiǎn",
+    "translation": "risco de investimento",
+    "category": "Finanças",
+    "note": "投资 + 风险 = investimento + risco.",
+    "examples": [
+      "投资风险很高。"
+    ]
+  },
+  {
+    "text": "抗生素药",
+    "pinyin": "kàngshēngsù yào",
+    "translation": "antibiótico",
+    "category": "Saúde",
+    "note": "抗生素 + 药 = antibiótico + remédio.",
+    "examples": [
+      "需要抗生素药吗？"
+    ]
+  },
+  {
+    "text": "折叠衣服",
+    "pinyin": "zhédié yīfu",
+    "translation": "dobrar roupas",
+    "category": "Roupas",
+    "note": "折叠 + 衣服 = dobrar + roupa.",
+    "examples": [
+      "请折叠衣服。"
+    ]
+  },
+  {
+    "text": "报名表格",
+    "pinyin": "bàomíng biǎogé",
+    "translation": "formulário de inscrição",
+    "category": "Documentos",
+    "note": "报名 + 表格 = inscrição + formulário.",
+    "examples": [
+      "请填写报名表格。"
+    ]
+  },
+  {
+    "text": "报酬标准",
+    "pinyin": "bàochóu biāozhǔn",
+    "translation": "padrão de remuneração",
+    "category": "Trabalho",
+    "note": "报酬 + 标准 = remuneração + padrão.",
+    "examples": [
+      "报酬标准是什么？"
+    ]
+  },
+  {
+    "text": "抬头看路",
+    "pinyin": "táitóu kàn lù",
+    "translation": "levantar a cabeça e olhar o caminho",
+    "category": "Orientação",
+    "note": "抬头 + 看路 = levantar cabeça + olhar caminho.",
+    "examples": [
+      "请抬头看路。"
+    ]
+  },
+  {
+    "text": "抵达机场",
+    "pinyin": "dǐdá jīchǎng",
+    "translation": "chegar ao aeroporto",
+    "category": "Aeroporto",
+    "note": "抵达 + 机场 = chegar + aeroporto.",
+    "examples": [
+      "飞机抵达机场。"
+    ]
+  },
+  {
+    "text": "押金收据",
+    "pinyin": "yājīn shōujù",
+    "translation": "recibo da caução",
+    "category": "Hotel e documentos",
+    "note": "押金 + 收据 = caução + recibo.",
+    "examples": [
+      "请给我押金收据。"
+    ]
+  },
+  {
+    "text": "担心迟到",
+    "pinyin": "dānxīn chídào",
+    "translation": "preocupar-se em atrasar",
+    "category": "Rotina",
+    "note": "担心 + 迟到 = preocupar-se + atrasar.",
+    "examples": [
+      "我担心迟到。"
+    ]
+  },
+  {
+    "text": "拉门入口",
+    "pinyin": "lā mén rùkǒu",
+    "translation": "entrada com porta de puxar",
+    "category": "Placas",
+    "note": "拉门 + 入口 = puxar porta + entrada.",
+    "examples": [
+      "这是拉门入口。"
+    ]
+  },
+  {
+    "text": "拍照许可",
+    "pinyin": "pāizhào xǔkě",
+    "translation": "permissão para fotografar",
+    "category": "Turismo",
+    "note": "拍照 + 许可 = tirar foto + permissão.",
+    "examples": [
+      "这里可以拍照吗？"
+    ]
+  },
+  {
+    "text": "拒绝服务",
+    "pinyin": "jùjué fúwù",
+    "translation": "recusar serviço",
+    "category": "Serviços",
+    "note": "拒绝 + 服务 = recusar + serviço.",
+    "examples": [
+      "他拒绝服务。"
+    ]
+  },
+  {
+    "text": "招聘信息",
+    "pinyin": "zhāopìn xìnxī",
+    "translation": "informação de recrutamento",
+    "category": "Trabalho",
+    "note": "招聘 + 信息 = recrutamento + informação.",
+    "examples": [
+      "招聘信息在哪里？"
+    ]
+  },
+  {
+    "text": "招聘流程",
+    "pinyin": "zhāopìn liúchéng",
+    "translation": "processo de recrutamento",
+    "category": "Trabalho",
+    "note": "招聘 + 流程 = recrutamento + processo.",
+    "examples": [
+      "招聘流程很清楚。"
+    ]
+  },
+  {
+    "text": "拜访客户",
+    "pinyin": "bàifǎng kèhù",
+    "translation": "visitar cliente",
+    "category": "Negócios",
+    "note": "拜访 + 客户 = visitar + cliente.",
+    "examples": [
+      "明天拜访客户。"
+    ]
+  },
+  {
+    "text": "换乘通道",
+    "pinyin": "huànchéng tōngdào",
+    "translation": "corredor de transferência",
+    "category": "Metrô",
+    "note": "换乘 + 通道 = transferência + corredor.",
+    "examples": [
+      "换乘通道在哪里？"
+    ]
+  },
+  {
+    "text": "排队入口",
+    "pinyin": "páiduì rùkǒu",
+    "translation": "entrada da fila",
+    "category": "Serviços",
+    "note": "排队 + 入口 = fila + entrada.",
+    "examples": [
+      "排队入口在哪里？"
+    ]
+  },
+  {
+    "text": "搬迁通知",
+    "pinyin": "bānqiān tōngzhī",
+    "translation": "aviso de mudança",
+    "category": "Moradia e trabalho",
+    "note": "搬迁 + 通知 = mudança + aviso.",
+    "examples": [
+      "公司发布搬迁通知。"
+    ]
+  },
+  {
+    "text": "支持付款",
+    "pinyin": "zhīchí fùkuǎn",
+    "translation": "suportar pagamento",
+    "category": "Pagamentos",
+    "note": "支持 + 付款 = apoiar/suportar + pagamento.",
+    "examples": [
+      "这里支持微信付款。"
+    ]
+  },
+  {
+    "text": "收入增加",
+    "pinyin": "shōurù zēngjiā",
+    "translation": "aumento de renda",
+    "category": "Finanças",
+    "note": "收入 + 增加 = renda + aumentar.",
+    "examples": [
+      "收入增加了。"
+    ]
+  },
+  {
+    "text": "收到收据",
+    "pinyin": "shōudào shōujù",
+    "translation": "receber recibo",
+    "category": "Documentos",
+    "note": "收到 + 收据 = receber + recibo.",
+    "examples": [
+      "我收到收据了。"
+    ]
+  },
+  {
+    "text": "放弃计划",
+    "pinyin": "fàngqì jìhuà",
+    "translation": "desistir do plano",
+    "category": "Trabalho",
+    "note": "放弃 + 计划 = desistir + plano.",
+    "examples": [
+      "不要放弃计划。"
+    ]
+  },
+  {
+    "text": "放松一下",
+    "pinyin": "fàngsōng yíxià",
+    "translation": "relaxar um pouco",
+    "category": "Rotina",
+    "note": "放松 + 一下 = relaxar + um pouco.",
+    "examples": [
+      "请放松一下。"
+    ]
+  },
+  {
+    "text": "政府服务",
+    "pinyin": "zhèngfǔ fúwù",
+    "translation": "serviço governamental",
+    "category": "Serviços",
+    "note": "政府 + 服务 = governo + serviço.",
+    "examples": [
+      "政府服务在哪里？"
+    ]
+  },
+  {
+    "text": "政府通知",
+    "pinyin": "zhèngfǔ tōngzhī",
+    "translation": "aviso do governo",
+    "category": "Governo",
+    "note": "政府 + 通知 = governo + aviso.",
+    "examples": [
+      "政府通知发布了。"
+    ]
+  },
+  {
+    "text": "故宫门票",
+    "pinyin": "Gùgōng ménpiào",
+    "translation": "ingresso da Cidade Proibida",
+    "category": "Turismo",
+    "note": "故宫 + 门票 = Cidade Proibida + ingresso.",
+    "examples": [
+      "故宫门票多少钱？"
+    ]
+  },
+  {
+    "text": "救护车入口",
+    "pinyin": "jiùhùchē rùkǒu",
+    "translation": "entrada da ambulância",
+    "category": "Emergência",
+    "note": "救护车 + 入口 = ambulância + entrada.",
+    "examples": [
+      "救护车入口在哪里？"
+    ]
+  },
+  {
+    "text": "教学楼",
+    "pinyin": "jiàoxuélóu",
+    "translation": "prédio de ensino",
+    "category": "Educação",
+    "note": "教学 + 楼 = ensino + prédio.",
+    "examples": [
+      "教学楼在前面。"
+    ]
+  },
+  {
+    "text": "教育资源",
+    "pinyin": "jiàoyù zīyuán",
+    "translation": "recursos educacionais",
+    "category": "Educação",
+    "note": "教育 + 资源 = educação + recursos.",
+    "examples": [
+      "教育资源很多。"
+    ]
+  },
+  {
+    "text": "数据分析",
+    "pinyin": "shùjù fēnxī",
+    "translation": "análise de dados",
+    "category": "Tecnologia e dados",
+    "note": "数据 + 分析 = dados + análise.",
+    "examples": [
+      "我学习数据分析。"
+    ]
+  },
+  {
+    "text": "数据存储",
+    "pinyin": "shùjù cúnchǔ",
+    "translation": "armazenamento de dados",
+    "category": "Dados",
+    "note": "数据 + 存储 = dados + armazenamento.",
+    "examples": [
+      "数据存储很重要。"
+    ]
+  },
+  {
+    "text": "数据库",
+    "pinyin": "shùjùkù",
+    "translation": "banco de dados",
+    "category": "Tecnologia e dados",
+    "note": "数据 + 库 = dados + depósito/banco.",
+    "examples": [
+      "数据库很重要。"
+    ]
+  },
+  {
+    "text": "数据库备份",
+    "pinyin": "shùjùkù bèifèn",
+    "translation": "backup do banco de dados",
+    "category": "Tecnologia",
+    "note": "数据库 + 备份 = banco de dados + backup.",
+    "examples": [
+      "数据库备份完成了。"
+    ]
+  },
+  {
+    "text": "数据库服务器",
+    "pinyin": "shùjùkù fúwùqì",
+    "translation": "servidor de banco de dados",
+    "category": "Tecnologia",
+    "note": "数据库 + 服务器 = banco de dados + servidor.",
+    "examples": [
+      "数据库服务器很重要。"
+    ]
+  },
+  {
+    "text": "数据效率",
+    "pinyin": "shùjù xiàolǜ",
+    "translation": "eficiência de dados",
+    "category": "Dados",
+    "note": "数据 + 效率 = dados + eficiência.",
+    "examples": [
+      "数据效率很重要。"
+    ]
+  },
+  {
+    "text": "数据来源",
+    "pinyin": "shùjù láiyuán",
+    "translation": "fonte de dados",
+    "category": "Dados",
+    "note": "数据 + 来源 = dados + origem.",
+    "examples": [
+      "数据来源可靠吗？"
+    ]
+  },
+  {
+    "text": "数据采集",
+    "pinyin": "shùjù cǎijí",
+    "translation": "coleta de dados",
+    "category": "Dados",
+    "note": "数据 + 采集 = dados + coleta.",
+    "examples": [
+      "数据采集完成了。"
+    ]
+  },
+  {
+    "text": "文件夹",
+    "pinyin": "wénjiànjiā",
+    "translation": "pasta de arquivos",
+    "category": "Tecnologia",
+    "note": "文件 + 夹 = documento/arquivo + pasta.",
+    "examples": [
+      "文件夹在哪里？"
+    ]
+  },
+  {
+    "text": "文件夹位置",
+    "pinyin": "wénjiànjiā wèizhi",
+    "translation": "localização da pasta",
+    "category": "Tecnologia",
+    "note": "文件夹 + 位置 = pasta + localização.",
+    "examples": [
+      "文件夹位置在哪里？"
+    ]
+  },
+  {
+    "text": "文件审核",
+    "pinyin": "wénjiàn shěnhé",
+    "translation": "revisão de documento",
+    "category": "Documentos",
+    "note": "文件 + 审核 = documento + revisão/aprovação.",
+    "examples": [
+      "文件正在审核。"
+    ]
+  },
+  {
+    "text": "文件格式",
+    "pinyin": "wénjiàn géshì",
+    "translation": "formato do arquivo",
+    "category": "Documentos",
+    "note": "文件 + 格式 = arquivo + formato.",
+    "examples": [
+      "文件格式不对。"
+    ]
+  },
+  {
+    "text": "文化变化",
+    "pinyin": "wénhuà biànhuà",
+    "translation": "mudança cultural",
+    "category": "Cultura",
+    "note": "文化 + 变化 = cultura + mudança.",
+    "examples": [
+      "文化变化很大。"
+    ]
+  },
+  {
+    "text": "新年快乐",
+    "pinyin": "xīnnián kuàilè",
+    "translation": "feliz ano novo",
+    "category": "Cultura",
+    "note": "新年 + 快乐 = ano novo + felicidade.",
+    "examples": [
+      "新年快乐！"
+    ]
+  },
+  {
+    "text": "新版本更新",
+    "pinyin": "xīn bǎnběn gēngxīn",
+    "translation": "atualização da nova versão",
+    "category": "Tecnologia",
+    "note": "新版本 + 更新 = nova versão + atualização.",
+    "examples": [
+      "新版本更新了。"
+    ]
+  },
+  {
+    "text": "新闻资料",
+    "pinyin": "xīnwén zīliào",
+    "translation": "materiais de notícia",
+    "category": "Comunicação",
+    "note": "新闻 + 资料 = notícia + dados/materiais.",
+    "examples": [
+      "新闻资料在哪里？"
+    ]
+  },
+  {
+    "text": "旅游攻略",
+    "pinyin": "lǚyóu gōnglüè",
+    "translation": "guia de viagem",
+    "category": "Viagem",
+    "note": "旅游 + 攻略 = turismo + guia.",
+    "examples": [
+      "上海旅游攻略很好。"
+    ]
+  },
+  {
+    "text": "旅行方向",
+    "pinyin": "lǚxíng fāngxiàng",
+    "translation": "direção da viagem",
+    "category": "Viagem",
+    "note": "旅行 + 方向 = viagem + direção.",
+    "examples": [
+      "旅行方向很清楚。"
+    ]
+  },
+  {
+    "text": "旅行社地址",
+    "pinyin": "lǚxíngshè dìzhǐ",
+    "translation": "endereço da agência de viagens",
+    "category": "Viagem",
+    "note": "旅行社 + 地址 = agência de viagens + endereço.",
+    "examples": [
+      "旅行社地址在哪里？"
+    ]
+  },
+  {
+    "text": "无线网络",
+    "pinyin": "wúxiàn wǎngluò",
+    "translation": "rede sem fio",
+    "category": "Tecnologia",
+    "note": "无线 + 网络 = sem fio + rede.",
+    "examples": [
+      "这里有无线网络。"
+    ]
+  },
+  {
+    "text": "无障碍电梯",
+    "pinyin": "wúzhàng'ài diàntī",
+    "translation": "elevador acessível",
+    "category": "Acessibilidade",
+    "note": "无 + 障碍 + 电梯 = sem barreira + elevador.",
+    "examples": [
+      "无障碍电梯在哪里？"
+    ]
+  },
+  {
+    "text": "日期时间",
+    "pinyin": "rìqī shíjiān",
+    "translation": "data e hora",
+    "category": "Tempo",
+    "note": "日期 + 时间 = data + hora.",
+    "examples": [
+      "请确认日期时间。"
+    ]
+  },
+  {
+    "text": "时间固定",
+    "pinyin": "shíjiān gùdìng",
+    "translation": "horário fixo",
+    "category": "Agenda",
+    "note": "时间 + 固定 = tempo + fixo.",
+    "examples": [
+      "时间固定了吗？"
+    ]
+  },
+  {
+    "text": "昆虫展览",
+    "pinyin": "kūnchóng zhǎnlǎn",
+    "translation": "exposição de insetos",
+    "category": "Cultura e ciência",
+    "note": "昆虫 + 展览 = inseto + exposição.",
+    "examples": [
+      "昆虫展览开始了。"
+    ]
+  },
+  {
+    "text": "春节快乐",
+    "pinyin": "Chūnjié kuàilè",
+    "translation": "Feliz Ano Novo Chinês",
+    "category": "Cultura",
+    "note": "春节 + 快乐 = festival da primavera + felicidade.",
+    "examples": [
+      "春节快乐！"
+    ]
+  },
+  {
+    "text": "春节旅行",
+    "pinyin": "Chūnjié lǚxíng",
+    "translation": "viagem de Ano Novo Chinês",
+    "category": "Viagem e cultura",
+    "note": "春节 + 旅行 = festival da primavera + viagem.",
+    "examples": [
+      "春节旅行很贵。"
+    ]
+  },
+  {
+    "text": "晚宴菜单",
+    "pinyin": "wǎnyàn càidān",
+    "translation": "menu do jantar formal",
+    "category": "Restaurante",
+    "note": "晚宴 + 菜单 = jantar formal + menu.",
+    "examples": [
+      "晚宴菜单很丰富。"
+    ]
+  },
+  {
+    "text": "普通话学习",
+    "pinyin": "Pǔtōnghuà xuéxí",
+    "translation": "estudo do mandarim padrão",
+    "category": "Estudo",
+    "note": "普通话 + 学习 = mandarim padrão + estudo.",
+    "examples": [
+      "我学习普通话。"
+    ]
+  },
+  {
+    "text": "普通话课程",
+    "pinyin": "Pǔtōnghuà kèchéng",
+    "translation": "curso de mandarim",
+    "category": "Educação",
+    "note": "普通话 + 课程 = mandarim + curso.",
+    "examples": [
+      "普通话课程开始了。"
+    ]
+  },
+  {
+    "text": "晴天风景",
+    "pinyin": "qíngtiān fēngjǐng",
+    "translation": "paisagem em dia claro",
+    "category": "Turismo",
+    "note": "晴天 + 风景 = dia claro + paisagem.",
+    "examples": [
+      "晴天风景很美。"
+    ]
+  },
+  {
+    "text": "暂停服务",
+    "pinyin": "zàntíng fúwù",
+    "translation": "serviço suspenso",
+    "category": "Serviços",
+    "note": "暂停 + 服务 = pausar + serviço.",
+    "examples": [
+      "服务暂停了。"
+    ]
+  },
+  {
+    "text": "更新文件",
+    "pinyin": "gēngxīn wénjiàn",
+    "translation": "atualizar arquivo",
+    "category": "Tecnologia",
+    "note": "更新 + 文件 = atualizar + arquivo.",
+    "examples": [
+      "请更新文件。"
+    ]
+  },
+  {
+    "text": "月底付款",
+    "pinyin": "yuèdǐ fùkuǎn",
+    "translation": "pagamento no fim do mês",
+    "category": "Finanças",
+    "note": "月底 + 付款 = fim do mês + pagamento.",
+    "examples": [
+      "月底付款可以吗？"
+    ]
+  },
+  {
+    "text": "月票价格",
+    "pinyin": "yuèpiào jiàgé",
+    "translation": "preço do passe mensal",
+    "category": "Transporte",
+    "note": "月票 + 价格 = passe mensal + preço.",
+    "examples": [
+      "月票价格是多少？"
+    ]
+  },
+  {
+    "text": "服务中心",
+    "pinyin": "fúwù zhōngxīn",
+    "translation": "centro de atendimento",
+    "category": "Serviços",
+    "note": "服务 + 中心 = serviço + centro.",
+    "examples": [
+      "服务中心在哪里？"
+    ]
+  },
+  {
+    "text": "服务员",
+    "pinyin": "fúwùyuán",
+    "translation": "atendente/garçom",
+    "category": "Restaurante e serviços",
+    "note": "服 + 务 + 员 = serviço + funcionário.",
+    "examples": [
+      "服务员在哪里？"
+    ]
+  },
+  {
+    "text": "服务柜台",
+    "pinyin": "fúwù guìtái",
+    "translation": "balcão de atendimento",
+    "category": "Serviços",
+    "note": "服务 + 柜台 = serviço + balcão.",
+    "examples": [
+      "服务柜台在哪里？"
+    ]
+  },
+  {
+    "text": "服装设计",
+    "pinyin": "fúzhuāng shèjì",
+    "translation": "design de vestuário",
+    "category": "Moda",
+    "note": "服装 + 设计 = vestuário + design.",
+    "examples": [
+      "服装设计很重要。"
+    ]
+  },
+  {
+    "text": "未来机会",
+    "pinyin": "wèilái jīhuì",
+    "translation": "oportunidade futura",
+    "category": "Carreira",
+    "note": "未来 + 机会 = futuro + oportunidade.",
+    "examples": [
+      "未来机会很多。"
+    ]
+  },
+  {
+    "text": "机械设备",
+    "pinyin": "jīxiè shèbèi",
+    "translation": "equipamento mecânico",
+    "category": "Indústria",
+    "note": "机械 + 设备 = máquina + equipamento.",
+    "examples": [
+      "机械设备很贵。"
+    ]
+  },
+  {
+    "text": "材料结构",
+    "pinyin": "cáiliào jiégòu",
+    "translation": "estrutura do material",
+    "category": "Engenharia",
+    "note": "材料 + 结构 = material + estrutura.",
+    "examples": [
+      "材料结构很清晰。"
+    ]
+  },
+  {
+    "text": "来到上海",
+    "pinyin": "láidào Shànghǎi",
+    "translation": "chegar a Shanghai",
+    "category": "Viagem",
+    "note": "来到 + 上海 = chegar + Shanghai.",
+    "examples": [
+      "我来到上海。"
+    ]
+  },
+  {
+    "text": "查询订单",
+    "pinyin": "cháxún dìngdān",
+    "translation": "consultar pedido",
+    "category": "Compras e tecnologia",
+    "note": "查询 + 订单 = consultar + pedido.",
+    "examples": [
+      "我要查询订单。"
+    ]
+  },
+  {
+    "text": "格式错误",
+    "pinyin": "géshì cuòwù",
+    "translation": "erro de formato",
+    "category": "Tecnologia",
+    "note": "格式 + 错误 = formato + erro.",
+    "examples": [
+      "格式错误。"
+    ]
+  },
+  {
+    "text": "梦想计划",
+    "pinyin": "mèngxiǎng jìhuà",
+    "translation": "plano dos sonhos",
+    "category": "Carreira",
+    "note": "梦想 + 计划 = sonho + plano.",
+    "examples": [
+      "梦想计划很重要。"
+    ]
+  },
+  {
+    "text": "棉衣尺码",
+    "pinyin": "miányī chǐmǎ",
+    "translation": "tamanho da roupa de algodão",
+    "category": "Roupas",
+    "note": "棉衣 + 尺码 = roupa de algodão + tamanho.",
+    "examples": [
+      "棉衣尺码是多少？"
+    ]
+  },
+  {
+    "text": "森林公园",
+    "pinyin": "sēnlín gōngyuán",
+    "translation": "parque florestal",
+    "category": "Cidade e turismo",
+    "note": "森林 + 公园 = floresta + parque.",
+    "examples": [
+      "森林公园在哪里？"
+    ]
+  },
+  {
+    "text": "概率分析",
+    "pinyin": "gàilǜ fēnxī",
+    "translation": "análise de probabilidade",
+    "category": "Dados",
+    "note": "概率 + 分析 = probabilidade + análise.",
+    "examples": [
+      "概率分析很重要。"
+    ]
+  },
+  {
+    "text": "模拟考试",
+    "pinyin": "mónǐ kǎoshì",
+    "translation": "simulado/prova simulada",
+    "category": "Estudo",
+    "note": "模拟 + 考试 = simular + prova.",
+    "examples": [
+      "今天有模拟考试。"
+    ]
+  },
+  {
+    "text": "模板文件",
+    "pinyin": "múbǎn wénjiàn",
+    "translation": "arquivo modelo/template",
+    "category": "Tecnologia",
+    "note": "模板 + 文件 = template + arquivo.",
+    "examples": [
+      "模板文件在哪里？"
+    ]
+  },
+  {
+    "text": "横线标注",
+    "pinyin": "héngxiàn biāozhù",
+    "translation": "marcação com linha horizontal",
+    "category": "Estudo e design",
+    "note": "横线 + 标注 = linha horizontal + marcação.",
+    "examples": [
+      "请用横线标注。"
+    ]
+  },
+  {
+    "text": "橙汁价格",
+    "pinyin": "chéngzhī jiàgé",
+    "translation": "preço do suco de laranja",
+    "category": "Restaurante",
+    "note": "橙汁 + 价格 = suco de laranja + preço.",
+    "examples": [
+      "橙汁价格是多少？"
+    ]
+  },
+  {
+    "text": "橡胶材料",
+    "pinyin": "xiàngjiāo cáiliào",
+    "translation": "material de borracha",
+    "category": "Materiais",
+    "note": "橡胶 + 材料 = borracha + material.",
+    "examples": [
+      "橡胶材料很有用。"
+    ]
+  },
+  {
+    "text": "欠款记录",
+    "pinyin": "qiànkuǎn jìlù",
+    "translation": "registro de dívida",
+    "category": "Finanças",
+    "note": "欠款 + 记录 = dívida + registro.",
+    "examples": [
+      "请查看欠款记录。"
+    ]
+  },
+  {
+    "text": "欢迎来到上海",
+    "pinyin": "huānyíng láidào Shànghǎi",
+    "translation": "bem-vindo a Shanghai",
+    "category": "Viagem",
+    "note": "欢迎 + 来到 + 上海.",
+    "examples": [
+      "欢迎来到上海。"
+    ]
+  },
+  {
+    "text": "欧洲旅行",
+    "pinyin": "Ōuzhōu lǚxíng",
+    "translation": "viagem à Europa",
+    "category": "Viagem",
+    "note": "欧洲 + 旅行 = Europa + viagem.",
+    "examples": [
+      "欧洲旅行很贵。"
+    ]
+  },
+  {
+    "text": "歌曲播放",
+    "pinyin": "gēqǔ bōfàng",
+    "translation": "reprodução de música",
+    "category": "Mídia",
+    "note": "歌曲 + 播放 = canção + reproduzir.",
+    "examples": [
+      "歌曲播放失败。"
+    ]
+  },
+  {
+    "text": "正弦函数",
+    "pinyin": "zhèngxián hánshù",
+    "translation": "função seno",
+    "category": "Matemática",
+    "note": "正弦 + 函数 = seno + função.",
+    "examples": [
+      "这是正弦函数。"
+    ]
+  },
+  {
+    "text": "正确答案",
+    "pinyin": "zhèngquè dá'àn",
+    "translation": "resposta correta",
+    "category": "Estudo",
+    "note": "正确 + 答案 = correto + resposta.",
+    "examples": [
+      "这是正确答案。"
+    ]
+  },
+  {
+    "text": "武术学校",
+    "pinyin": "wǔshù xuéxiào",
+    "translation": "escola de artes marciais",
+    "category": "Cultura",
+    "note": "武术 + 学校 = artes marciais + escola.",
+    "examples": [
+      "武术学校在哪里？"
+    ]
+  },
+  {
+    "text": "母语学习",
+    "pinyin": "mǔyǔ xuéxí",
+    "translation": "aprendizado da língua materna",
+    "category": "Educação",
+    "note": "母语 + 学习 = língua materna + estudo.",
+    "examples": [
+      "母语学习很自然。"
+    ]
+  },
+  {
+    "text": "每天复习",
+    "pinyin": "měitiān fùxí",
+    "translation": "revisar todos os dias",
+    "category": "Estudo",
+    "note": "每天 + 复习 = todo dia + revisar.",
+    "examples": [
+      "我每天复习中文。"
+    ]
+  },
+  {
+    "text": "氧气设备",
+    "pinyin": "yǎngqì shèbèi",
+    "translation": "equipamento de oxigênio",
+    "category": "Saúde",
+    "note": "氧气 + 设备 = oxigênio + equipamento.",
+    "examples": [
+      "医院有氧气设备。"
+    ]
+  },
+  {
+    "text": "水果价格",
+    "pinyin": "shuǐguǒ jiàgé",
+    "translation": "preço das frutas",
+    "category": "Compras",
+    "note": "水果 + 价格 = fruta + preço.",
+    "examples": [
+      "水果价格是多少？"
+    ]
+  },
+  {
+    "text": "水污染治理",
+    "pinyin": "shuǐ wūrǎn zhìlǐ",
+    "translation": "governança da poluição da água",
+    "category": "Ambiente",
+    "note": "水污染 + 治理 = poluição da água + governança.",
+    "examples": [
+      "水污染治理很重要。"
+    ]
+  },
+  {
+    "text": "水溶性材料",
+    "pinyin": "shuǐróngxìng cáiliào",
+    "translation": "material solúvel em água",
+    "category": "Materiais",
+    "note": "水溶性 + 材料 = solúvel em água + material.",
+    "examples": [
+      "这是水溶性材料。"
+    ]
+  },
+  {
+    "text": "汇率查询",
+    "pinyin": "huìlǜ cháxún",
+    "translation": "consulta de câmbio",
+    "category": "Finanças",
+    "note": "汇率 + 查询 = câmbio + consulta.",
+    "examples": [
+      "我要汇率查询。"
+    ]
+  },
+  {
+    "text": "汉字书写",
+    "pinyin": "Hànzì shūxiě",
+    "translation": "escrita de caracteres chineses",
+    "category": "Educação",
+    "note": "汉字 + 书写 = caracteres chineses + escrita.",
+    "examples": [
+      "汉字书写需要练习。"
+    ]
+  },
+  {
+    "text": "汉字学习",
+    "pinyin": "Hànzì xuéxí",
+    "translation": "estudo de caracteres chineses",
+    "category": "Estudo",
+    "note": "汉字 + 学习 = caractere chinês + estudo.",
+    "examples": [
+      "汉字学习很重要。"
+    ]
+  },
+  {
+    "text": "汽车站出口",
+    "pinyin": "qìchēzhàn chūkǒu",
+    "translation": "saída da rodoviária/estação de ônibus",
+    "category": "Transporte",
+    "note": "汽车站 + 出口 = estação de ônibus + saída.",
+    "examples": [
+      "汽车站出口在哪里？"
+    ]
+  },
+  {
+    "text": "沉浸学习",
+    "pinyin": "chénjìn xuéxí",
+    "translation": "aprendizado imersivo",
+    "category": "Estudo",
+    "note": "沉浸 + 学习 = imersão + estudo.",
+    "examples": [
+      "沉浸学习很有效。"
+    ]
+  },
+  {
+    "text": "沙滩入口",
+    "pinyin": "shātān rùkǒu",
+    "translation": "entrada da praia",
+    "category": "Turismo",
+    "note": "沙滩 + 入口 = praia de areia + entrada.",
+    "examples": [
+      "沙滩入口在哪里？"
+    ]
+  },
+  {
+    "text": "沙漠旅行",
+    "pinyin": "shāmò lǚxíng",
+    "translation": "viagem ao deserto",
+    "category": "Viagem",
+    "note": "沙漠 + 旅行 = deserto + viagem.",
+    "examples": [
+      "沙漠旅行很特别。"
+    ]
+  },
+  {
+    "text": "沟通效率",
+    "pinyin": "gōutōng xiàolǜ",
+    "translation": "eficiência da comunicação",
+    "category": "Trabalho",
+    "note": "沟通 + 效率 = comunicação + eficiência.",
+    "examples": [
+      "沟通效率很高。"
+    ]
+  },
+  {
+    "text": "没有问题",
+    "pinyin": "méiyǒu wèntí",
+    "translation": "sem problema",
+    "category": "Conversação",
+    "note": "没有 + 问题 = não ter + problema.",
+    "examples": [
+      "没有问题。"
+    ]
+  },
+  {
+    "text": "河边公园",
+    "pinyin": "hébiān gōngyuán",
+    "translation": "parque à beira do rio",
+    "category": "Cidade",
+    "note": "河边 + 公园 = beira do rio + parque.",
+    "examples": [
+      "河边公园在哪里？"
+    ]
+  },
+  {
+    "text": "治疗方案",
+    "pinyin": "zhìliáo fāng'àn",
+    "translation": "plano de tratamento",
+    "category": "Saúde",
+    "note": "治疗 + 方案 = tratamento + plano.",
+    "examples": [
+      "这是治疗方案。"
+    ]
+  },
+  {
+    "text": "沿着路线",
+    "pinyin": "yánzhe lùxiàn",
+    "translation": "seguir ao longo da rota",
+    "category": "Orientação",
+    "note": "沿着 + 路线 = ao longo de + rota.",
+    "examples": [
+      "沿着路线走。"
+    ]
+  },
+  {
+    "text": "法庭地址",
+    "pinyin": "fǎtíng dìzhǐ",
+    "translation": "endereço do tribunal",
+    "category": "Direito e cidade",
+    "note": "法庭 + 地址 = tribunal + endereço.",
+    "examples": [
+      "法庭地址在哪里？"
+    ]
+  },
+  {
+    "text": "法律咨询",
+    "pinyin": "fǎlǜ zīxún",
+    "translation": "consulta jurídica",
+    "category": "Direito",
+    "note": "法律 + 咨询 = lei + consulta.",
+    "examples": [
+      "法律咨询在哪里？"
+    ]
+  },
+  {
+    "text": "法律方法",
+    "pinyin": "fǎlǜ fāngfǎ",
+    "translation": "método jurídico",
+    "category": "Direito",
+    "note": "法律 + 方法 = lei + método.",
+    "examples": [
+      "这是法律方法。"
+    ]
+  },
+  {
+    "text": "法律责任",
+    "pinyin": "fǎlǜ zérèn",
+    "translation": "responsabilidade legal",
+    "category": "Direito",
+    "note": "法律 + 责任 = lei + responsabilidade.",
+    "examples": [
+      "他承担法律责任。"
+    ]
+  },
+  {
+    "text": "泡茶时间",
+    "pinyin": "pào chá shíjiān",
+    "translation": "hora de preparar chá",
+    "category": "Rotina",
+    "note": "泡茶 + 时间 = preparar chá + tempo.",
+    "examples": [
+      "现在是泡茶时间。"
+    ]
+  },
+  {
+    "text": "注射药物",
+    "pinyin": "zhùshè yàowù",
+    "translation": "medicamento injetável",
+    "category": "Saúde",
+    "note": "注射 + 药物 = injeção + medicamento.",
+    "examples": [
+      "需要注射药物吗？"
+    ]
+  },
+  {
+    "text": "注意安全",
+    "pinyin": "zhùyì ānquán",
+    "translation": "preste atenção à segurança",
+    "category": "Placas",
+    "note": "注意 + 安全 = atenção + segurança.",
+    "examples": [
+      "请注意安全。"
+    ]
+  },
+  {
+    "text": "洞穴入口",
+    "pinyin": "dòngxué rùkǒu",
+    "translation": "entrada da caverna",
+    "category": "Turismo",
+    "note": "洞穴 + 入口 = caverna + entrada.",
+    "examples": [
+      "洞穴入口很窄。"
+    ]
+  },
+  {
+    "text": "测试系统",
+    "pinyin": "cèshì xìtǒng",
+    "translation": "testar sistema",
+    "category": "Tecnologia",
+    "note": "测试 + 系统 = teste + sistema.",
+    "examples": [
+      "我要测试系统。"
+    ]
+  },
+  {
+    "text": "浏览器设置",
+    "pinyin": "liúlǎnqì shèzhì",
+    "translation": "configurações do navegador",
+    "category": "Tecnologia",
+    "note": "浏览器 + 设置 = navegador + configuração.",
+    "examples": [
+      "浏览器设置在哪里？"
+    ]
+  },
+  {
+    "text": "浓茶咖啡",
+    "pinyin": "nóngchá kāfēi",
+    "translation": "chá forte e café",
+    "category": "Restaurante",
+    "note": "浓茶 + 咖啡 = chá forte + café.",
+    "examples": [
+      "我喜欢浓茶咖啡。"
+    ]
+  },
+  {
+    "text": "浦东机场",
+    "pinyin": "Pǔdōng Jīchǎng",
+    "translation": "Aeroporto de Pudong",
+    "category": "Transporte",
+    "note": "浦东 + 机场 = Pudong + aeroporto.",
+    "examples": [
+      "浦东机场在哪里？"
+    ]
+  },
+  {
+    "text": "浴室用品",
+    "pinyin": "yùshì yòngpǐn",
+    "translation": "itens de banheiro",
+    "category": "Hotel",
+    "note": "浴室 + 用品 = banheiro + itens.",
+    "examples": [
+      "浴室用品在哪里？"
+    ]
+  },
+  {
+    "text": "海关检查",
+    "pinyin": "hǎiguān jiǎnchá",
+    "translation": "inspeção da alfândega",
+    "category": "Aeroporto",
+    "note": "海关 + 检查 = alfândega + inspeção.",
+    "examples": [
+      "海关检查在哪里？"
+    ]
+  },
+  {
+    "text": "海湾区域",
+    "pinyin": "hǎiwān qūyù",
+    "translation": "área da baía",
+    "category": "Geografia",
+    "note": "海湾 + 区域 = baía + região.",
+    "examples": [
+      "海湾区域发展很快。"
+    ]
+  },
+  {
+    "text": "海滨城市",
+    "pinyin": "hǎibīn chéngshì",
+    "translation": "cidade litorânea",
+    "category": "Geografia",
+    "note": "海滨 + 城市 = litoral + cidade.",
+    "examples": [
+      "海滨城市很美。"
+    ]
+  },
+  {
+    "text": "海鲜市场",
+    "pinyin": "hǎixiān shìchǎng",
+    "translation": "mercado de frutos do mar",
+    "category": "Comida",
+    "note": "海鲜 + 市场 = frutos do mar + mercado.",
+    "examples": [
+      "海鲜市场在哪里？"
+    ]
+  },
+  {
+    "text": "消毒用品",
+    "pinyin": "xiāodú yòngpǐn",
+    "translation": "produtos de desinfecção",
+    "category": "Saúde",
+    "note": "消毒 + 用品 = desinfetar + produtos.",
+    "examples": [
+      "消毒用品在哪里？"
+    ]
+  },
+  {
+    "text": "消防栓位置",
+    "pinyin": "xiāofángshuān wèizhi",
+    "translation": "localização do hidrante",
+    "category": "Cidade e segurança",
+    "note": "消防栓 + 位置 = hidrante + localização.",
+    "examples": [
+      "消防栓位置在哪里？"
+    ]
+  },
+  {
+    "text": "液体检查",
+    "pinyin": "yètǐ jiǎnchá",
+    "translation": "verificação de líquido",
+    "category": "Segurança",
+    "note": "液体 + 检查 = líquido + inspeção.",
+    "examples": [
+      "机场有液体检查。"
+    ]
+  },
+  {
+    "text": "淋浴间",
+    "pinyin": "línyùjiān",
+    "translation": "box/sala de banho",
+    "category": "Hotel",
+    "note": "淋浴 + 间 = banho de chuveiro + espaço.",
+    "examples": [
+      "淋浴间在哪里？"
+    ]
+  },
+  {
+    "text": "淘宝购物",
+    "pinyin": "Táobǎo gòuwù",
+    "translation": "compras no Taobao",
+    "category": "Compras",
+    "note": "淘宝 + 购物 = Taobao + compras.",
+    "examples": [
+      "我喜欢淘宝购物。"
+    ]
+  },
+  {
+    "text": "深度学习",
+    "pinyin": "shēndù xuéxí",
+    "translation": "deep learning",
+    "category": "Tecnologia",
+    "note": "深度 + 学习 = profundidade + aprendizado.",
+    "examples": [
+      "深度学习很重要。"
+    ]
+  },
+  {
+    "text": "混合支付",
+    "pinyin": "hùnhé zhīfù",
+    "translation": "pagamento misto",
+    "category": "Pagamentos",
+    "note": "混合 + 支付 = misturar + pagamento.",
+    "examples": [
+      "可以混合支付吗？"
+    ]
+  },
+  {
+    "text": "混淆概念",
+    "pinyin": "hùnxiáo gàiniàn",
+    "translation": "confundir conceitos",
+    "category": "Estudo",
+    "note": "混淆 + 概念 = confundir + conceito.",
+    "examples": [
+      "不要混淆概念。"
+    ]
+  },
+  {
+    "text": "添加信息",
+    "pinyin": "tiānjiā xìnxī",
+    "translation": "adicionar informação",
+    "category": "Tecnologia",
+    "note": "添加 + 信息 = acrescentar + informação.",
+    "examples": [
+      "请添加信息。"
+    ]
+  },
+  {
+    "text": "清单文件",
+    "pinyin": "qīngdān wénjiàn",
+    "translation": "arquivo de lista",
+    "category": "Documentos",
+    "note": "清单 + 文件 = lista + arquivo.",
+    "examples": [
+      "请发送清单文件。"
+    ]
+  },
+  {
+    "text": "清洁服务",
+    "pinyin": "qīngjié fúwù",
+    "translation": "serviço de limpeza",
+    "category": "Serviços",
+    "note": "清洁 + 服务 = limpeza + serviço.",
+    "examples": [
+      "清洁服务很好。"
+    ]
+  },
+  {
+    "text": "清淡饮食",
+    "pinyin": "qīngdàn yǐnshí",
+    "translation": "alimentação leve",
+    "category": "Restaurante e saúde",
+    "note": "清淡 + 饮食 = leve + alimentação.",
+    "examples": [
+      "我需要清淡饮食。"
+    ]
+  },
+  {
+    "text": "温度太高",
+    "pinyin": "wēndù tài gāo",
+    "translation": "temperatura muito alta",
+    "category": "Clima e saúde",
+    "note": "温度 + 太高 = temperatura + muito alta.",
+    "examples": [
+      "温度太高了。"
+    ]
+  },
+  {
+    "text": "温度显示",
+    "pinyin": "wēndù xiǎnshì",
+    "translation": "exibição da temperatura",
+    "category": "Tecnologia e clima",
+    "note": "温度 + 显示 = temperatura + exibição.",
+    "examples": [
+      "温度显示不准。"
+    ]
+  },
+  {
+    "text": "温度检测",
+    "pinyin": "wēndù jiǎncè",
+    "translation": "medição/teste de temperatura",
+    "category": "Saúde",
+    "note": "温度 + 检测 = temperatura + teste.",
+    "examples": [
+      "入口有温度检测。"
+    ]
+  },
+  {
+    "text": "温泉酒店",
+    "pinyin": "wēnquán jiǔdiàn",
+    "translation": "hotel de águas termais",
+    "category": "Viagem",
+    "note": "温泉 + 酒店 = fonte termal + hotel.",
+    "examples": [
+      "温泉酒店很舒服。"
+    ]
+  },
+  {
+    "text": "游泳池入口",
+    "pinyin": "yóuyǒngchí rùkǒu",
+    "translation": "entrada da piscina",
+    "category": "Lazer",
+    "note": "游泳池 + 入口 = piscina + entrada.",
+    "examples": [
+      "游泳池入口在哪里？"
+    ]
+  },
+  {
+    "text": "游泳课程",
+    "pinyin": "yóuyǒng kèchéng",
+    "translation": "curso de natação",
+    "category": "Educação e esporte",
+    "note": "游泳 + 课程 = natação + curso.",
+    "examples": [
+      "游泳课程开始了。"
+    ]
+  },
+  {
+    "text": "溯源系统",
+    "pinyin": "sùyuán xìtǒng",
+    "translation": "sistema de rastreabilidade",
+    "category": "Tecnologia",
+    "note": "溯源 + 系统 = rastrear origem + sistema.",
+    "examples": [
+      "这是溯源系统。"
+    ]
+  },
+  {
+    "text": "漏水维修",
+    "pinyin": "lòushuǐ wéixiū",
+    "translation": "reparo de vazamento",
+    "category": "Casa",
+    "note": "漏水 + 维修 = vazamento + reparo.",
+    "examples": [
+      "需要漏水维修。"
+    ]
+  },
+  {
+    "text": "演讲资料",
+    "pinyin": "yǎnjiǎng zīliào",
+    "translation": "material de palestra",
+    "category": "Trabalho",
+    "note": "演讲 + 资料 = palestra + material.",
+    "examples": [
+      "演讲资料准备好了。"
+    ]
+  },
+  {
+    "text": "潮湿天气",
+    "pinyin": "cháoshī tiānqì",
+    "translation": "clima úmido",
+    "category": "Clima",
+    "note": "潮湿 + 天气 = úmido + clima.",
+    "examples": [
+      "上海天气很潮湿。"
+    ]
+  },
+  {
+    "text": "火灾报警",
+    "pinyin": "huǒzāi bàojǐng",
+    "translation": "alarme de incêndio",
+    "category": "Segurança",
+    "note": "火灾 + 报警 = incêndio + alarme.",
+    "examples": [
+      "火灾报警响了。"
+    ]
+  },
+  {
+    "text": "火箭发射",
+    "pinyin": "huǒjiàn fāshè",
+    "translation": "lançamento de foguete",
+    "category": "Ciência",
+    "note": "火箭 + 发射 = foguete + lançamento.",
+    "examples": [
+      "火箭发射成功。"
+    ]
+  },
+  {
+    "text": "火车站出口",
+    "pinyin": "huǒchēzhàn chūkǒu",
+    "translation": "saída da estação de trem",
+    "category": "Transporte",
+    "note": "火车站 + 出口 = estação de trem + saída.",
+    "examples": [
+      "火车站出口在哪里？"
+    ]
+  },
+  {
+    "text": "灯笼文化",
+    "pinyin": "dēnglong wénhuà",
+    "translation": "cultura das lanternas",
+    "category": "Cultura",
+    "note": "灯笼 + 文化 = lanterna + cultura.",
+    "examples": [
+      "灯笼文化很有意思。"
+    ]
+  },
+  {
+    "text": "灰尘很多",
+    "pinyin": "huīchén hěn duō",
+    "translation": "muita poeira",
+    "category": "Casa",
+    "note": "灰尘 + 很多 = poeira + muito.",
+    "examples": [
+      "房间灰尘很多。"
+    ]
+  },
+  {
+    "text": "炒饭价格",
+    "pinyin": "chǎofàn jiàgé",
+    "translation": "preço do arroz frito",
+    "category": "Restaurante",
+    "note": "炒饭 + 价格 = arroz frito + preço.",
+    "examples": [
+      "炒饭价格是多少？"
+    ]
+  },
+  {
+    "text": "热门景点",
+    "pinyin": "rèmén jǐngdiǎn",
+    "translation": "ponto turístico popular",
+    "category": "Turismo",
+    "note": "热门 + 景点 = popular + ponto turístico.",
+    "examples": [
+      "这是热门景点。"
+    ]
+  },
+  {
+    "text": "照片备份",
+    "pinyin": "zhàopiàn bèifèn",
+    "translation": "backup de fotos",
+    "category": "Tecnologia",
+    "note": "照片 + 备份 = foto + backup.",
+    "examples": [
+      "请备份照片。"
+    ]
+  },
+  {
+    "text": "煮面时间",
+    "pinyin": "zhǔ miàn shíjiān",
+    "translation": "tempo de cozinhar macarrão",
+    "category": "Comida",
+    "note": "煮面 + 时间 = cozinhar macarrão + tempo.",
+    "examples": [
+      "煮面时间到了。"
+    ]
+  },
+  {
+    "text": "熊猫基地",
+    "pinyin": "xióngmāo jīdì",
+    "translation": "base/reserva de pandas",
+    "category": "Turismo",
+    "note": "熊猫 + 基地 = panda + base.",
+    "examples": [
+      "熊猫基地在哪里？"
+    ]
+  },
+  {
+    "text": "燃料价格",
+    "pinyin": "ránliào jiàgé",
+    "translation": "preço do combustível",
+    "category": "Energia",
+    "note": "燃料 + 价格 = combustível + preço.",
+    "examples": [
+      "燃料价格上涨。"
+    ]
+  },
+  {
+    "text": "爬山路线",
+    "pinyin": "páshān lùxiàn",
+    "translation": "rota de trilha/montanha",
+    "category": "Viagem",
+    "note": "爬山 + 路线 = escalar montanha + rota.",
+    "examples": [
+      "爬山路线很清楚。"
+    ]
+  },
+  {
+    "text": "爱情故事",
+    "pinyin": "àiqíng gùshi",
+    "translation": "história de amor",
+    "category": "Cultura",
+    "note": "爱情 + 故事 = amor + história.",
+    "examples": [
+      "这是爱情故事。"
+    ]
+  },
+  {
+    "text": "父母签证",
+    "pinyin": "fùmǔ qiānzhèng",
+    "translation": "visto dos pais",
+    "category": "Documentos",
+    "note": "父母 + 签证 = pais + visto.",
+    "examples": [
+      "父母签证需要材料。"
+    ]
+  },
+  {
+    "text": "版权保护",
+    "pinyin": "bǎnquán bǎohù",
+    "translation": "proteção de copyright",
+    "category": "Direito",
+    "note": "版权 + 保护 = copyright + proteção.",
+    "examples": [
+      "版权保护很重要。"
+    ]
+  },
+  {
+    "text": "牙医诊所",
+    "pinyin": "yáyī zhěnsuǒ",
+    "translation": "clínica odontológica",
+    "category": "Saúde",
+    "note": "牙医 + 诊所 = dentista + clínica.",
+    "examples": [
+      "牙医诊所在哪里？"
+    ]
+  },
+  {
+    "text": "牛仔裤尺码",
+    "pinyin": "niúzǎikù chǐmǎ",
+    "translation": "tamanho do jeans",
+    "category": "Roupas",
+    "note": "牛仔裤 + 尺码 = jeans + tamanho.",
+    "examples": [
+      "牛仔裤尺码是多少？"
+    ]
+  },
+  {
+    "text": "牛奶咖啡",
+    "pinyin": "niúnǎi kāfēi",
+    "translation": "café com leite",
+    "category": "Restaurante",
+    "note": "牛奶 + 咖啡 = leite + café.",
+    "examples": [
+      "我要牛奶咖啡。"
+    ]
+  },
+  {
+    "text": "牢牢记住",
+    "pinyin": "láoláo jìzhù",
+    "translation": "lembrar firmemente",
+    "category": "Estudo",
+    "note": "牢牢 + 记住 = firmemente + lembrar.",
+    "examples": [
+      "请牢牢记住。"
+    ]
+  },
+  {
+    "text": "特别服务",
+    "pinyin": "tèbié fúwù",
+    "translation": "serviço especial",
+    "category": "Serviços",
+    "note": "特别 + 服务 = especial + serviço.",
+    "examples": [
+      "这里有特别服务。"
+    ]
+  },
+  {
+    "text": "特殊情况",
+    "pinyin": "tèshū qíngkuàng",
+    "translation": "situação especial",
+    "category": "Gestão",
+    "note": "特殊 + 情况 = especial + situação.",
+    "examples": [
+      "这是特殊情况。"
+    ]
+  },
+  {
+    "text": "犯罪记录",
+    "pinyin": "fànzuì jìlù",
+    "translation": "registro criminal",
+    "category": "Direito",
+    "note": "犯罪 + 记录 = crime + registro.",
+    "examples": [
+      "需要犯罪记录证明。"
+    ]
+  },
+  {
+    "text": "独立生活",
+    "pinyin": "dúlì shēnghuó",
+    "translation": "vida independente",
+    "category": "Vida",
+    "note": "独立 + 生活 = independente + vida.",
+    "examples": [
+      "我想独立生活。"
+    ]
+  },
+  {
+    "text": "独立站点",
+    "pinyin": "dúlì zhàndiǎn",
+    "translation": "site independente",
+    "category": "Tecnologia",
+    "note": "独立 + 站点 = independente + site.",
+    "examples": [
+      "这是独立站点。"
+    ]
+  },
+  {
+    "text": "猎头联系",
+    "pinyin": "liètóu liánxì",
+    "translation": "contato de headhunter",
+    "category": "Carreira",
+    "note": "猎头 + 联系 = headhunter + contato.",
+    "examples": [
+      "猎头联系了她。"
+    ]
+  },
+  {
+    "text": "猪肉价格",
+    "pinyin": "zhūròu jiàgé",
+    "translation": "preço da carne suína",
+    "category": "Comida",
+    "note": "猪肉 + 价格 = carne suína + preço.",
+    "examples": [
+      "猪肉价格上涨。"
+    ]
+  },
+  {
+    "text": "环境保护",
+    "pinyin": "huánjìng bǎohù",
+    "translation": "proteção ambiental",
+    "category": "Sustentabilidade",
+    "note": "环境 + 保护 = ambiente + proteção.",
+    "examples": [
+      "环境保护很重要。"
+    ]
+  },
+  {
+    "text": "环境卫生",
+    "pinyin": "huánjìng wèishēng",
+    "translation": "higiene ambiental",
+    "category": "Cidade e saúde",
+    "note": "环境 + 卫生 = ambiente + higiene.",
+    "examples": [
+      "环境卫生很重要。"
+    ]
+  },
+  {
+    "text": "现金支付",
+    "pinyin": "xiànjīn zhīfù",
+    "translation": "pagamento em dinheiro",
+    "category": "Finanças",
+    "note": "现金 + 支付 = dinheiro vivo + pagamento.",
+    "examples": [
+      "可以现金支付吗？"
+    ]
+  },
+  {
+    "text": "玻璃门入口",
+    "pinyin": "bōli mén rùkǒu",
+    "translation": "entrada com porta de vidro",
+    "category": "Cidade",
+    "note": "玻璃门 + 入口 = porta de vidro + entrada.",
+    "examples": [
+      "玻璃门入口在前面。"
+    ]
+  },
+  {
+    "text": "珍惜时间",
+    "pinyin": "zhēnxī shíjiān",
+    "translation": "valorizar o tempo",
+    "category": "Estudo e vida",
+    "note": "珍惜 + 时间 = valorizar + tempo.",
+    "examples": [
+      "请珍惜时间。"
+    ]
+  },
+  {
+    "text": "用户登录",
+    "pinyin": "yònghù dēnglù",
+    "translation": "login do usuário",
+    "category": "Tecnologia",
+    "note": "用户 + 登录 = usuário + login.",
+    "examples": [
+      "用户登录失败。"
+    ]
+  },
+  {
+    "text": "申请材料",
+    "pinyin": "shēnqǐng cáiliào",
+    "translation": "materiais de solicitação",
+    "category": "Documentos",
+    "note": "申请 + 材料 = solicitação + materiais.",
+    "examples": [
+      "请准备申请材料。"
+    ]
+  },
+  {
+    "text": "申请签证",
+    "pinyin": "shēnqǐng qiānzhèng",
+    "translation": "solicitar visto",
+    "category": "Documentos",
+    "note": "申请 + 签证 = solicitar + visto.",
+    "examples": [
+      "我要申请签证。"
+    ]
+  },
+  {
+    "text": "电子秤价格",
+    "pinyin": "diànzǐchèng jiàgé",
+    "translation": "preço da balança eletrônica",
+    "category": "Compras",
+    "note": "电子秤 + 价格 = balança eletrônica + preço.",
+    "examples": [
+      "电子秤价格是多少？"
+    ]
+  },
+  {
+    "text": "电影票价",
+    "pinyin": "diànyǐng piàojià",
+    "translation": "preço do ingresso de cinema",
+    "category": "Cultura",
+    "note": "电影 + 票价 = filme + preço do bilhete.",
+    "examples": [
+      "电影票价是多少？"
+    ]
+  },
+  {
+    "text": "电梯入口",
+    "pinyin": "diàntī rùkǒu",
+    "translation": "entrada do elevador",
+    "category": "Prédio",
+    "note": "电梯 + 入口 = elevador + entrada.",
+    "examples": [
+      "电梯入口在右边。"
+    ]
+  },
+  {
+    "text": "电梯楼层",
+    "pinyin": "diàntī lóucéng",
+    "translation": "andar do elevador",
+    "category": "Prédio",
+    "note": "电梯 + 楼层 = elevador + andar.",
+    "examples": [
+      "电梯楼层显示错误。"
+    ]
+  },
+  {
+    "text": "电脑维修",
+    "pinyin": "diànnǎo wéixiū",
+    "translation": "conserto de computador",
+    "category": "Tecnologia",
+    "note": "电脑 + 维修 = computador + reparo.",
+    "examples": [
+      "电脑维修在哪里？"
+    ]
+  },
+  {
+    "text": "留在上海",
+    "pinyin": "liú zài Shànghǎi",
+    "translation": "ficar em Shanghai",
+    "category": "Shanghai",
+    "note": "留在 + 上海 = permanecer + Shanghai.",
+    "examples": [
+      "我想留在上海。"
+    ]
+  },
+  {
+    "text": "疫情防控",
+    "pinyin": "yìqíng fángkòng",
+    "translation": "prevenção e controle epidêmico",
+    "category": "Saúde pública",
+    "note": "疫情 + 防控 = epidemia + prevenção/controle.",
+    "examples": [
+      "疫情防控很重要。"
+    ]
+  },
+  {
+    "text": "症状记录",
+    "pinyin": "zhèngzhuàng jìlù",
+    "translation": "registro de sintomas",
+    "category": "Saúde",
+    "note": "症状 + 记录 = sintomas + registro.",
+    "examples": [
+      "请填写症状记录。"
+    ]
+  },
+  {
+    "text": "登录账号",
+    "pinyin": "dēnglù zhànghào",
+    "translation": "fazer login na conta",
+    "category": "Tecnologia",
+    "note": "登录 + 账号 = entrar + conta.",
+    "examples": [
+      "请登录账号。"
+    ]
+  },
+  {
+    "text": "登机口",
+    "pinyin": "dēngjīkǒu",
+    "translation": "portão de embarque",
+    "category": "Aeroporto",
+    "note": "登 + 机 + 口 = embarcar + avião + entrada.",
+    "examples": [
+      "登机口在哪里？"
+    ]
+  },
+  {
+    "text": "白色衬衫",
+    "pinyin": "báisè chènshān",
+    "translation": "camisa branca",
+    "category": "Roupas",
+    "note": "白色 + 衬衫 = branco + camisa.",
+    "examples": [
+      "我买白色衬衫。"
+    ]
+  },
+  {
+    "text": "皮肤干燥",
+    "pinyin": "pífū gānzào",
+    "translation": "pele seca",
+    "category": "Saúde",
+    "note": "皮肤 + 干燥 = pele + seca.",
+    "examples": [
+      "皮肤很干燥。"
+    ]
+  },
+  {
+    "text": "皮肤护理",
+    "pinyin": "pífū hùlǐ",
+    "translation": "cuidados com a pele",
+    "category": "Saúde",
+    "note": "皮肤 + 护理 = pele + cuidados.",
+    "examples": [
+      "皮肤护理很重要。"
+    ]
+  },
+  {
+    "text": "盈利增长",
+    "pinyin": "yínglì zēngzhǎng",
+    "translation": "crescimento do lucro",
+    "category": "Negócios",
+    "note": "盈利 + 增长 = lucro + crescimento.",
+    "examples": [
+      "公司盈利增长。"
+    ]
+  },
+  {
+    "text": "监控视频",
+    "pinyin": "jiānkòng shìpín",
+    "translation": "vídeo de monitoramento",
+    "category": "Segurança",
+    "note": "监控 + 视频 = monitoramento + vídeo.",
+    "examples": [
+      "监控视频在哪里？"
+    ]
+  },
+  {
+    "text": "监狱管理",
+    "pinyin": "jiānyù guǎnlǐ",
+    "translation": "administração prisional",
+    "category": "Direito",
+    "note": "监狱 + 管理 = prisão + gestão.",
+    "examples": [
+      "监狱管理很严格。"
+    ]
+  },
+  {
+    "text": "目标明确",
+    "pinyin": "mùbiāo míngquè",
+    "translation": "objetivo claro",
+    "category": "Gestão",
+    "note": "目标 + 明确 = objetivo + claro.",
+    "examples": [
+      "目标很明确。"
+    ]
+  },
+  {
+    "text": "直走右转",
+    "pinyin": "zhí zǒu yòu zhuǎn",
+    "translation": "siga reto e vire à direita",
+    "category": "Orientação",
+    "note": "直走 + 右转 = siga reto + vire à direita.",
+    "examples": [
+      "请直走右转。"
+    ]
+  },
+  {
+    "text": "眼泪流下",
+    "pinyin": "yǎnlèi liú xià",
+    "translation": "lágrimas caem",
+    "category": "Emoções",
+    "note": "眼泪 + 流下 = lágrimas + fluir para baixo.",
+    "examples": [
+      "她眼泪流下。"
+    ]
+  },
+  {
+    "text": "睡眠质量",
+    "pinyin": "shuìmián zhìliàng",
+    "translation": "qualidade do sono",
+    "category": "Saúde",
+    "note": "睡眠 + 质量 = sono + qualidade.",
+    "examples": [
+      "睡眠质量很重要。"
+    ]
+  },
+  {
+    "text": "知识管理",
+    "pinyin": "zhīshi guǎnlǐ",
+    "translation": "gestão do conhecimento",
+    "category": "Gestão",
+    "note": "知识 + 管理 = conhecimento + gestão.",
+    "examples": [
+      "知识管理很重要。"
+    ]
+  },
+  {
+    "text": "研究报告",
+    "pinyin": "yánjiū bàogào",
+    "translation": "relatório de pesquisa",
+    "category": "Acadêmico",
+    "note": "研究 + 报告 = pesquisa + relatório.",
+    "examples": [
+      "研究报告完成了。"
+    ]
+  },
+  {
+    "text": "硬盘备份",
+    "pinyin": "yìngpán bèifèn",
+    "translation": "backup do disco rígido",
+    "category": "Tecnologia",
+    "note": "硬盘 + 备份 = disco rígido + backup.",
+    "examples": [
+      "请做硬盘备份。"
+    ]
+  },
+  {
+    "text": "确认信息",
+    "pinyin": "quèrèn xìnxī",
+    "translation": "confirmar informação",
+    "category": "Documentos",
+    "note": "确认 + 信息 = confirmar + informação.",
+    "examples": [
+      "请确认信息。"
+    ]
+  },
+  {
+    "text": "磁场强度",
+    "pinyin": "cíchǎng qiángdù",
+    "translation": "intensidade do campo magnético",
+    "category": "Ciência",
+    "note": "磁场 + 强度 = campo magnético + intensidade.",
+    "examples": [
+      "磁场强度很高。"
+    ]
+  },
+  {
+    "text": "禁止吸烟",
+    "pinyin": "jìnzhǐ xīyān",
+    "translation": "proibido fumar",
+    "category": "Placas",
+    "note": "禁止 + 吸烟 = proibir + fumar.",
+    "examples": [
+      "这里禁止吸烟。"
+    ]
+  },
+  {
+    "text": "禁止喧哗",
+    "pinyin": "jìnzhǐ xuānhuá",
+    "translation": "proibido fazer barulho",
+    "category": "Placas",
+    "note": "禁止 + 喧哗 = proibido + barulho.",
+    "examples": [
+      "图书馆禁止喧哗。"
+    ]
+  },
+  {
+    "text": "禁止抽烟",
+    "pinyin": "jìnzhǐ chōuyān",
+    "translation": "proibido fumar",
+    "category": "Placas",
+    "note": "禁止 + 抽烟 = proibir + fumar.",
+    "examples": [
+      "这里禁止抽烟。"
+    ]
+  },
+  {
+    "text": "禁止进入",
+    "pinyin": "jìnzhǐ jìnrù",
+    "translation": "entrada proibida",
+    "category": "Placas",
+    "note": "禁止 + 进入 = proibir + entrar.",
+    "examples": [
+      "这里禁止进入。"
+    ]
+  },
+  {
+    "text": "秋天旅行",
+    "pinyin": "qiūtiān lǚxíng",
+    "translation": "viagem no outono",
+    "category": "Viagem",
+    "note": "秋天 + 旅行 = outono + viagem.",
+    "examples": [
+      "秋天旅行很舒服。"
+    ]
+  },
+  {
+    "text": "科技公司",
+    "pinyin": "kējì gōngsī",
+    "translation": "empresa de tecnologia",
+    "category": "Trabalho",
+    "note": "科技 + 公司 = tecnologia + empresa.",
+    "examples": [
+      "这是一家科技公司。"
+    ]
+  },
+  {
+    "text": "秩序井然",
+    "pinyin": "zhìxù jǐngrán",
+    "translation": "em perfeita ordem",
+    "category": "Cidade e organização",
+    "note": "秩序 + 井然 = ordem + organizado.",
+    "examples": [
+      "现场秩序井然。"
+    ]
+  },
+  {
+    "text": "积极态度",
+    "pinyin": "jījí tàidù",
+    "translation": "atitude positiva",
+    "category": "Comportamento",
+    "note": "积极 + 态度 = positivo + atitude.",
+    "examples": [
+      "积极态度很重要。"
+    ]
+  },
+  {
+    "text": "移动文件",
+    "pinyin": "yídòng wénjiàn",
+    "translation": "mover arquivo",
+    "category": "Tecnologia",
+    "note": "移动 + 文件 = mover + arquivo.",
+    "examples": [
+      "请移动文件。"
+    ]
+  },
+  {
+    "text": "空位查询",
+    "pinyin": "kōngwèi cháxún",
+    "translation": "consulta de assentos vazios",
+    "category": "Transporte",
+    "note": "空位 + 查询 = assento vazio + consulta.",
+    "examples": [
+      "我要空位查询。"
+    ]
+  },
+  {
+    "text": "穿过马路",
+    "pinyin": "chuānguò mǎlù",
+    "translation": "atravessar a rua",
+    "category": "Cidade",
+    "note": "穿过 + 马路 = atravessar + rua.",
+    "examples": [
+      "请小心穿过马路。"
+    ]
+  },
+  {
+    "text": "突然下雨",
+    "pinyin": "tūrán xià yǔ",
+    "translation": "chover de repente",
+    "category": "Clima",
+    "note": "突然 + 下雨 = de repente + chover.",
+    "examples": [
+      "突然下雨了。"
+    ]
+  },
+  {
+    "text": "窗口服务",
+    "pinyin": "chuāngkǒu fúwù",
+    "translation": "serviço de guichê",
+    "category": "Serviços",
+    "note": "窗口 + 服务 = guichê + serviço.",
+    "examples": [
+      "窗口服务很快。"
+    ]
+  },
+  {
+    "text": "窗帘尺寸",
+    "pinyin": "chuānglián chǐcùn",
+    "translation": "medida da cortina",
+    "category": "Casa",
+    "note": "窗帘 + 尺寸 = cortina + medida.",
+    "examples": [
+      "窗帘尺寸是多少？"
+    ]
+  },
+  {
+    "text": "竹林公园",
+    "pinyin": "zhúlín gōngyuán",
+    "translation": "parque de bambuzal",
+    "category": "Turismo",
+    "note": "竹林 + 公园 = bambuzal + parque.",
+    "examples": [
+      "竹林公园很安静。"
+    ]
+  },
+  {
+    "text": "第一步骤",
+    "pinyin": "dì yī bùzhòu",
+    "translation": "primeira etapa",
+    "category": "Método",
+    "note": "第一 + 步骤 = primeira + etapa.",
+    "examples": [
+      "第一步骤很简单。"
+    ]
+  },
+  {
+    "text": "等待时间",
+    "pinyin": "děngdài shíjiān",
+    "translation": "tempo de espera",
+    "category": "Serviços",
+    "note": "等待 + 时间 = espera + tempo.",
+    "examples": [
+      "等待时间很长。"
+    ]
+  },
+  {
+    "text": "筛选数据",
+    "pinyin": "shāixuǎn shùjù",
+    "translation": "filtrar dados",
+    "category": "Dados",
+    "note": "筛选 + 数据 = filtrar + dados.",
+    "examples": [
+      "请筛选数据。"
+    ]
+  },
+  {
+    "text": "筹备活动",
+    "pinyin": "chóubèi huódòng",
+    "translation": "preparar evento",
+    "category": "Gestão",
+    "note": "筹备 + 活动 = preparar + evento.",
+    "examples": [
+      "我们筹备活动。"
+    ]
+  },
+  {
+    "text": "签署协议",
+    "pinyin": "qiānshǔ xiéyì",
+    "translation": "assinar acordo",
+    "category": "Documentos",
+    "note": "签署 + 协议 = assinar + acordo.",
+    "examples": [
+      "双方签署协议。"
+    ]
+  },
+  {
+    "text": "签证中心",
+    "pinyin": "qiānzhèng zhōngxīn",
+    "translation": "centro de vistos",
+    "category": "Documentos",
+    "note": "签证 + 中心 = visto + centro.",
+    "examples": [
+      "签证中心在哪里？"
+    ]
+  },
+  {
+    "text": "管理理论",
+    "pinyin": "guǎnlǐ lǐlùn",
+    "translation": "teoria de gestão",
+    "category": "Administração",
+    "note": "管理 + 理论 = gestão + teoria.",
+    "examples": [
+      "管理理论很有用。"
+    ]
+  },
+  {
+    "text": "米饭套餐",
+    "pinyin": "mǐfàn tàocān",
+    "translation": "combo/refeição com arroz",
+    "category": "Restaurante",
+    "note": "米饭 + 套餐 = arroz + combo.",
+    "examples": [
+      "我要米饭套餐。"
+    ]
+  },
+  {
+    "text": "类别筛选",
+    "pinyin": "lèibié shāixuǎn",
+    "translation": "filtro por categoria",
+    "category": "Dados",
+    "note": "类别 + 筛选 = categoria + filtrar.",
+    "examples": [
+      "请按类别筛选。"
+    ]
+  },
+  {
+    "text": "系统崩溃",
+    "pinyin": "xìtǒng bēngkuì",
+    "translation": "sistema caiu",
+    "category": "Tecnologia",
+    "note": "系统 + 崩溃 = sistema + colapso.",
+    "examples": [
+      "系统崩溃了。"
+    ]
+  },
+  {
+    "text": "系统性能",
+    "pinyin": "xìtǒng xìngnéng",
+    "translation": "desempenho do sistema",
+    "category": "Tecnologia",
+    "note": "系统 + 性能 = sistema + desempenho.",
+    "examples": [
+      "系统性能很好。"
+    ]
+  },
+  {
+    "text": "系统故障",
+    "pinyin": "xìtǒng gùzhàng",
+    "translation": "falha do sistema",
+    "category": "Tecnologia",
+    "note": "系统 + 故障 = sistema + falha.",
+    "examples": [
+      "系统故障了。"
+    ]
+  },
+  {
+    "text": "系统稳定",
+    "pinyin": "xìtǒng wěndìng",
+    "translation": "sistema estável",
+    "category": "Tecnologia",
+    "note": "系统 + 稳定 = sistema + estável.",
+    "examples": [
+      "系统很稳定。"
+    ]
+  },
+  {
+    "text": "系统维护",
+    "pinyin": "xìtǒng wéihù",
+    "translation": "manutenção do sistema",
+    "category": "Tecnologia",
+    "note": "系统 + 维护 = sistema + manutenção.",
+    "examples": [
+      "系统需要维护。"
+    ]
+  },
+  {
+    "text": "素食菜单",
+    "pinyin": "sùshí càidān",
+    "translation": "cardápio vegetariano",
+    "category": "Restaurante",
+    "note": "素食 + 菜单 = comida vegetariana + cardápio.",
+    "examples": [
+      "有素食菜单吗？"
+    ]
+  },
+  {
+    "text": "紧急出口",
+    "pinyin": "jǐnjí chūkǒu",
+    "translation": "saída de emergência",
+    "category": "Segurança",
+    "note": "紧急 + 出口 = emergência + saída.",
+    "examples": [
+      "紧急出口在右边。"
+    ]
+  },
+  {
+    "text": "紧急情况",
+    "pinyin": "jǐnjí qíngkuàng",
+    "translation": "situação urgente",
+    "category": "Emergência",
+    "note": "紧急 + 情况 = urgente + situação.",
+    "examples": [
+      "这是紧急情况。"
+    ]
+  },
+  {
+    "text": "红绿灯路口",
+    "pinyin": "hónglǜdēng lùkǒu",
+    "translation": "cruzamento com semáforo",
+    "category": "Cidade",
+    "note": "红绿灯 + 路口 = semáforo + cruzamento.",
+    "examples": [
+      "红绿灯路口很忙。"
+    ]
+  },
+  {
+    "text": "纪律要求",
+    "pinyin": "jìlǜ yāoqiú",
+    "translation": "exigência disciplinar",
+    "category": "Organização",
+    "note": "纪律 + 要求 = disciplina + exigência.",
+    "examples": [
+      "纪律要求很严格。"
+    ]
+  },
+  {
+    "text": "纪念碑广场",
+    "pinyin": "jìniànbēi guǎngchǎng",
+    "translation": "praça do monumento",
+    "category": "Cidade",
+    "note": "纪念碑 + 广场 = monumento + praça.",
+    "examples": [
+      "纪念碑广场在哪里？"
+    ]
+  },
+  {
+    "text": "纸质文件",
+    "pinyin": "zhǐzhì wénjiàn",
+    "translation": "documento em papel",
+    "category": "Documentos",
+    "note": "纸质 + 文件 = papel + documento.",
+    "examples": [
+      "需要纸质文件。"
+    ]
+  },
+  {
+    "text": "纺织行业",
+    "pinyin": "fǎngzhī hángyè",
+    "translation": "indústria têxtil",
+    "category": "Moda e indústria",
+    "note": "纺织 + 行业 = têxtil + setor.",
+    "examples": [
+      "纺织行业很重要。"
+    ]
+  },
+  {
+    "text": "组织结构",
+    "pinyin": "zǔzhī jiégòu",
+    "translation": "estrutura organizacional",
+    "category": "Gestão",
+    "note": "组织 + 结构 = organização + estrutura.",
+    "examples": [
+      "组织结构很清晰。"
+    ]
+  },
+  {
+    "text": "终端设备",
+    "pinyin": "zhōngduān shèbèi",
+    "translation": "dispositivo terminal",
+    "category": "Tecnologia",
+    "note": "终端 + 设备 = terminal + equipamento.",
+    "examples": [
+      "终端设备在哪里？"
+    ]
+  },
+  {
+    "text": "经济数据",
+    "pinyin": "jīngjì shùjù",
+    "translation": "dados econômicos",
+    "category": "Dados e economia",
+    "note": "经济 + 数据 = economia + dados.",
+    "examples": [
+      "经济数据很重要。"
+    ]
+  },
+  {
+    "text": "结束会议",
+    "pinyin": "jiéshù huìyì",
+    "translation": "encerrar reunião",
+    "category": "Trabalho",
+    "note": "结束 + 会议 = terminar + reunião.",
+    "examples": [
+      "会议结束了。"
+    ]
+  },
+  {
+    "text": "结构分析",
+    "pinyin": "jiégòu fēnxī",
+    "translation": "análise estrutural",
+    "category": "Dados e engenharia",
+    "note": "结构 + 分析 = estrutura + análise.",
+    "examples": [
+      "结构分析很清晰。"
+    ]
+  },
+  {
+    "text": "继续学习",
+    "pinyin": "jìxù xuéxí",
+    "translation": "continuar estudando",
+    "category": "Estudo",
+    "note": "继续 + 学习 = continuar + estudar.",
+    "examples": [
+      "请继续学习。"
+    ]
+  },
+  {
+    "text": "维护电脑",
+    "pinyin": "wéihù diànnǎo",
+    "translation": "manutenção do computador",
+    "category": "Tecnologia",
+    "note": "维护 + 电脑 = manutenção + computador.",
+    "examples": [
+      "我要维护电脑。"
+    ]
+  },
+  {
+    "text": "综合分析",
+    "pinyin": "zōnghé fēnxī",
+    "translation": "análise abrangente",
+    "category": "Dados",
+    "note": "综合 + 分析 = abrangente + análise.",
+    "examples": [
+      "这是综合分析。"
+    ]
+  },
+  {
+    "text": "绿色出行",
+    "pinyin": "lǜsè chūxíng",
+    "translation": "mobilidade verde",
+    "category": "Sustentabilidade",
+    "note": "绿色 + 出行 = verde + deslocamento.",
+    "examples": [
+      "绿色出行很重要。"
+    ]
+  },
+  {
+    "text": "缴费窗口",
+    "pinyin": "jiǎofèi chuāngkǒu",
+    "translation": "guichê de pagamento",
+    "category": "Serviços",
+    "note": "缴费 + 窗口 = pagar taxa + guichê.",
+    "examples": [
+      "缴费窗口在哪里？"
+    ]
+  },
+  {
+    "text": "缺乏资料",
+    "pinyin": "quēfá zīliào",
+    "translation": "falta de materiais/dados",
+    "category": "Documentos",
+    "note": "缺乏 + 资料 = falta + materiais.",
+    "examples": [
+      "这里缺乏资料。"
+    ]
+  },
+  {
+    "text": "网络梗",
+    "pinyin": "wǎngluò gěng",
+    "translation": "meme da internet",
+    "category": "Internet",
+    "note": "网络 + 梗 = rede/internet + meme.",
+    "examples": [
+      "这是网络梗。"
+    ]
+  },
+  {
+    "text": "网络设置",
+    "pinyin": "wǎngluò shèzhì",
+    "translation": "configuração de internet",
+    "category": "Tecnologia",
+    "note": "网络 + 设置 = rede + configuração.",
+    "examples": [
+      "网络设置在哪里？"
+    ]
+  },
+  {
+    "text": "网络连接",
+    "pinyin": "wǎngluò liánjiē",
+    "translation": "conexão de internet",
+    "category": "Tecnologia",
+    "note": "网络 + 连接 = rede + conexão.",
+    "examples": [
+      "网络连接失败。"
+    ]
+  },
+  {
+    "text": "网页首页",
+    "pinyin": "wǎngyè shǒuyè",
+    "translation": "página inicial do site",
+    "category": "Tecnologia",
+    "note": "网页 + 首页 = webpage + home.",
+    "examples": [
+      "网页首页很清楚。"
+    ]
+  },
+  {
+    "text": "罚款通知",
+    "pinyin": "fákuǎn tōngzhī",
+    "translation": "notificação de multa",
+    "category": "Direito e cidade",
+    "note": "罚款 + 通知 = multa + aviso.",
+    "examples": [
+      "我收到罚款通知。"
+    ]
+  },
+  {
+    "text": "羽毛球馆",
+    "pinyin": "yǔmáoqiú guǎn",
+    "translation": "quadra/ginásio de badminton",
+    "category": "Esporte",
+    "note": "羽毛球 + 馆 = badminton + local.",
+    "examples": [
+      "羽毛球馆在哪里？"
+    ]
+  },
+  {
+    "text": "翻译文件",
+    "pinyin": "fānyì wénjiàn",
+    "translation": "traduzir documento",
+    "category": "Idiomas",
+    "note": "翻译 + 文件 = traduzir + documento.",
+    "examples": [
+      "请翻译文件。"
+    ]
+  },
+  {
+    "text": "翻译服务",
+    "pinyin": "fānyì fúwù",
+    "translation": "serviço de tradução",
+    "category": "Idiomas",
+    "note": "翻译 + 服务 = tradução + serviço.",
+    "examples": [
+      "这里有翻译服务吗？"
+    ]
+  },
+  {
+    "text": "耐心等待",
+    "pinyin": "nàixīn děngdài",
+    "translation": "esperar com paciência",
+    "category": "Serviços",
+    "note": "耐心 + 等待 = paciência + esperar.",
+    "examples": [
+      "请耐心等待。"
+    ]
+  },
+  {
+    "text": "耳机连接",
+    "pinyin": "ěrjī liánjiē",
+    "translation": "conexão do fone",
+    "category": "Tecnologia",
+    "note": "耳机 + 连接 = fone + conexão.",
+    "examples": [
+      "耳机连接失败。"
+    ]
+  },
+  {
+    "text": "聊天记录",
+    "pinyin": "liáotiān jìlù",
+    "translation": "histórico de conversa",
+    "category": "Comunicação",
+    "note": "聊天 + 记录 = conversa + registro.",
+    "examples": [
+      "聊天记录在哪里？"
+    ]
+  },
+  {
+    "text": "聊天谈判",
+    "pinyin": "liáotiān tánpàn",
+    "translation": "conversa e negociação",
+    "category": "Comunicação",
+    "note": "聊天 + 谈判 = conversa + negociação.",
+    "examples": [
+      "聊天谈判要清楚。"
+    ]
+  },
+  {
+    "text": "职位申请",
+    "pinyin": "zhíwèi shēnqǐng",
+    "translation": "candidatura a vaga",
+    "category": "Trabalho",
+    "note": "职位 + 申请 = cargo + solicitação.",
+    "examples": [
+      "职位申请已提交。"
+    ]
+  },
+  {
+    "text": "联系方式",
+    "pinyin": "liánxì fāngshì",
+    "translation": "forma de contato",
+    "category": "Comunicação",
+    "note": "联系 + 方式 = contato + método.",
+    "examples": [
+      "请留下联系方式。"
+    ]
+  },
+  {
+    "text": "聚会时间",
+    "pinyin": "jùhuì shíjiān",
+    "translation": "horário do encontro",
+    "category": "Social",
+    "note": "聚会 + 时间 = encontro + horário.",
+    "examples": [
+      "聚会时间是几点？"
+    ]
+  },
+  {
+    "text": "聪明办法",
+    "pinyin": "cōngmíng bànfǎ",
+    "translation": "solução inteligente",
+    "category": "Cognição",
+    "note": "聪明 + 办法 = inteligente + método.",
+    "examples": [
+      "这是聪明办法。"
+    ]
+  },
+  {
+    "text": "肃静提示",
+    "pinyin": "sùjìng tíshì",
+    "translation": "aviso de silêncio respeitoso",
+    "category": "Placas",
+    "note": "肃静 + 提示 = silêncio + aviso.",
+    "examples": [
+      "请看肃静提示。"
+    ]
+  },
+  {
+    "text": "肌肉松弛",
+    "pinyin": "jīròu sōngchí",
+    "translation": "músculo relaxado",
+    "category": "Saúde",
+    "note": "肌肉 + 松弛 = músculo + relaxado.",
+    "examples": [
+      "肌肉松弛了。"
+    ]
+  },
+  {
+    "text": "肌肉训练",
+    "pinyin": "jīròu xùnliàn",
+    "translation": "treino muscular",
+    "category": "Saúde e esporte",
+    "note": "肌肉 + 训练 = músculo + treino.",
+    "examples": [
+      "肌肉训练很重要。"
+    ]
+  },
+  {
+    "text": "股票价格",
+    "pinyin": "gǔpiào jiàgé",
+    "translation": "preço das ações",
+    "category": "Finanças",
+    "note": "股票 + 价格 = ações + preço.",
+    "examples": [
+      "股票价格上涨。"
+    ]
+  },
+  {
+    "text": "肥皂洗手",
+    "pinyin": "féizào xǐshǒu",
+    "translation": "lavar as mãos com sabão",
+    "category": "Higiene",
+    "note": "肥皂 + 洗手 = sabão + lavar mãos.",
+    "examples": [
+      "请用肥皂洗手。"
+    ]
+  },
+  {
+    "text": "背景资料",
+    "pinyin": "bèijǐng zīliào",
+    "translation": "informação de contexto",
+    "category": "Documentos",
+    "note": "背景 + 资料 = contexto + material.",
+    "examples": [
+      "请提供背景资料。"
+    ]
+  },
+  {
+    "text": "能力提升",
+    "pinyin": "nénglì tíshēng",
+    "translation": "melhoria de capacidade",
+    "category": "Carreira",
+    "note": "能力 + 提升 = capacidade + melhoria.",
+    "examples": [
+      "能力提升很重要。"
+    ]
+  },
+  {
+    "text": "腰围测量",
+    "pinyin": "yāowéi cèliáng",
+    "translation": "medição da cintura",
+    "category": "Saúde",
+    "note": "腰围 + 测量 = cintura + medição.",
+    "examples": [
+      "请测量腰围。"
+    ]
+  },
+  {
+    "text": "自己学习",
+    "pinyin": "zìjǐ xuéxí",
+    "translation": "estudar sozinho",
+    "category": "Estudo",
+    "note": "自己 + 学习 = si mesmo + estudar.",
+    "examples": [
+      "我自己学习中文。"
+    ]
+  },
+  {
+    "text": "至少一天",
+    "pinyin": "zhìshǎo yì tiān",
+    "translation": "pelo menos um dia",
+    "category": "Tempo",
+    "note": "至少 + 一天 = pelo menos + um dia.",
+    "examples": [
+      "至少需要一天。"
+    ]
+  },
+  {
+    "text": "航班信息",
+    "pinyin": "hángbān xìnxī",
+    "translation": "informação do voo",
+    "category": "Aeroporto",
+    "note": "航班 + 信息 = voo + informação.",
+    "examples": [
+      "航班信息在哪里？"
+    ]
+  },
+  {
+    "text": "航班延迟",
+    "pinyin": "hángbān yánchí",
+    "translation": "voo atrasado",
+    "category": "Aeroporto",
+    "note": "航班 + 延迟 = voo + atraso.",
+    "examples": [
+      "航班延迟了。"
+    ]
+  },
+  {
+    "text": "船票价格",
+    "pinyin": "chuánpiào jiàgé",
+    "translation": "preço da passagem de barco",
+    "category": "Transporte",
+    "note": "船票 + 价格 = passagem de barco + preço.",
+    "examples": [
+      "船票价格是多少？"
+    ]
+  },
+  {
+    "text": "艺术展览",
+    "pinyin": "yìshù zhǎnlǎn",
+    "translation": "exposição de arte",
+    "category": "Cultura",
+    "note": "艺术 + 展览 = arte + exposição.",
+    "examples": [
+      "艺术展览在哪里？"
+    ]
+  },
+  {
+    "text": "节省时间",
+    "pinyin": "jiéshěng shíjiān",
+    "translation": "economizar tempo",
+    "category": "Produtividade",
+    "note": "节省 + 时间 = economizar + tempo.",
+    "examples": [
+      "这样可以节省时间。"
+    ]
+  },
+  {
+    "text": "芒果果汁",
+    "pinyin": "mángguǒ guǒzhī",
+    "translation": "suco de manga",
+    "category": "Restaurante",
+    "note": "芒果 + 果汁 = manga + suco.",
+    "examples": [
+      "我要芒果果汁。"
+    ]
+  },
+  {
+    "text": "苏州园林",
+    "pinyin": "Sūzhōu yuánlín",
+    "translation": "jardins de Suzhou",
+    "category": "Cultura e turismo",
+    "note": "苏州 + 园林 = Suzhou + jardins.",
+    "examples": [
+      "苏州园林很美。"
+    ]
+  },
+  {
+    "text": "草稿文件",
+    "pinyin": "cǎogǎo wénjiàn",
+    "translation": "arquivo de rascunho",
+    "category": "Documentos",
+    "note": "草稿 + 文件 = rascunho + arquivo.",
+    "examples": [
+      "草稿文件在哪里？"
+    ]
+  },
+  {
+    "text": "药店地址",
+    "pinyin": "yàodiàn dìzhǐ",
+    "translation": "endereço da farmácia",
+    "category": "Saúde",
+    "note": "药店 + 地址 = farmácia + endereço.",
+    "examples": [
+      "药店地址在哪里？"
+    ]
+  },
+  {
+    "text": "蓝牙连接",
+    "pinyin": "lányá liánjiē",
+    "translation": "conexão Bluetooth",
+    "category": "Tecnologia",
+    "note": "蓝牙 + 连接 = Bluetooth + conexão.",
+    "examples": [
+      "蓝牙连接失败。"
+    ]
+  },
+  {
+    "text": "蔬菜市场",
+    "pinyin": "shūcài shìchǎng",
+    "translation": "mercado de vegetais",
+    "category": "Cidade e comida",
+    "note": "蔬菜 + 市场 = vegetais + mercado.",
+    "examples": [
+      "蔬菜市场在哪里？"
+    ]
+  },
+  {
+    "text": "薪水增长",
+    "pinyin": "xīnshuǐ zēngzhǎng",
+    "translation": "crescimento salarial",
+    "category": "Trabalho",
+    "note": "薪水 + 增长 = salário + crescimento.",
+    "examples": [
+      "薪水增长了。"
+    ]
+  },
+  {
+    "text": "虚拟现实",
+    "pinyin": "xūnǐ xiànshí",
+    "translation": "realidade virtual",
+    "category": "Tecnologia",
+    "note": "虚拟 + 现实 = virtual + realidade.",
+    "examples": [
+      "虚拟现实很有趣。"
+    ]
+  },
+  {
+    "text": "虹桥火车站",
+    "pinyin": "Hóngqiáo Huǒchēzhàn",
+    "translation": "Estação Hongqiao",
+    "category": "Transporte",
+    "note": "虹桥 + 火车站 = Hongqiao + estação de trem.",
+    "examples": [
+      "虹桥火车站很大。"
+    ]
+  },
+  {
+    "text": "蜂蜜柠檬",
+    "pinyin": "fēngmì níngméng",
+    "translation": "mel com limão",
+    "category": "Comida e bebida",
+    "note": "蜂蜜 + 柠檬 = mel + limão.",
+    "examples": [
+      "我要蜂蜜柠檬茶。"
+    ]
+  },
+  {
+    "text": "螃蟹价格",
+    "pinyin": "pángxiè jiàgé",
+    "translation": "preço do caranguejo",
+    "category": "Comida",
+    "note": "螃蟹 + 价格 = caranguejo + preço.",
+    "examples": [
+      "螃蟹价格很高。"
+    ]
+  },
+  {
+    "text": "螺丝工具",
+    "pinyin": "luósī gōngjù",
+    "translation": "ferramenta para parafuso",
+    "category": "Objetos",
+    "note": "螺丝 + 工具 = parafuso + ferramenta.",
+    "examples": [
+      "螺丝工具在哪里？"
+    ]
+  },
+  {
+    "text": "行李托运",
+    "pinyin": "xíngli tuōyùn",
+    "translation": "despacho de bagagem",
+    "category": "Aeroporto",
+    "note": "行李 + 托运 = bagagem + despachar.",
+    "examples": [
+      "行李托运在哪里？"
+    ]
+  },
+  {
+    "text": "行李提取",
+    "pinyin": "xíngli tíqǔ",
+    "translation": "retirada de bagagem",
+    "category": "Aeroporto",
+    "note": "行李 + 提取 = bagagem + retirar.",
+    "examples": [
+      "行李提取在哪里？"
+    ]
+  },
+  {
+    "text": "行李箱号码",
+    "pinyin": "xínglǐxiāng hàomǎ",
+    "translation": "número da mala",
+    "category": "Aeroporto",
+    "note": "行李箱 + 号码 = mala + número.",
+    "examples": [
+      "行李箱号码是多少？"
+    ]
+  },
+  {
+    "text": "表彰员工",
+    "pinyin": "biǎozhāng yuángōng",
+    "translation": "reconhecer funcionários",
+    "category": "Trabalho",
+    "note": "表彰 + 员工 = elogiar/reconhecer + funcionário.",
+    "examples": [
+      "公司表彰员工。"
+    ]
+  },
+  {
+    "text": "西安旅行",
+    "pinyin": "Xī'ān lǚxíng",
+    "translation": "viagem a Xi'an",
+    "category": "Viagem",
+    "note": "西安 + 旅行 = Xi'an + viagem.",
+    "examples": [
+      "西安旅行很有趣。"
+    ]
+  },
+  {
+    "text": "西湖风景",
+    "pinyin": "Xīhú fēngjǐng",
+    "translation": "paisagem do Lago Oeste",
+    "category": "Turismo",
+    "note": "西湖 + 风景 = Lago Oeste + paisagem.",
+    "examples": [
+      "西湖风景很美。"
+    ]
+  },
+  {
+    "text": "观察数据",
+    "pinyin": "guānchá shùjù",
+    "translation": "observar dados",
+    "category": "Dados",
+    "note": "观察 + 数据 = observar + dados.",
+    "examples": [
+      "我们观察数据。"
+    ]
+  },
+  {
+    "text": "观点分析",
+    "pinyin": "guāndiǎn fēnxī",
+    "translation": "análise de ponto de vista",
+    "category": "Estudo",
+    "note": "观点 + 分析 = ponto de vista + análise.",
+    "examples": [
+      "观点分析很清楚。"
+    ]
+  },
+  {
+    "text": "规则说明",
+    "pinyin": "guīzé shuōmíng",
+    "translation": "explicação das regras",
+    "category": "Documentos",
+    "note": "规则 + 说明 = regra + explicação.",
+    "examples": [
+      "请看规则说明。"
+    ]
+  },
+  {
+    "text": "解决方案",
+    "pinyin": "jiějué fāng'àn",
+    "translation": "solução",
+    "category": "Trabalho",
+    "note": "解决 + 方案 = resolver + plano.",
+    "examples": [
+      "这是解决方案。"
+    ]
+  },
+  {
+    "text": "触摸屏幕",
+    "pinyin": "chùmō píngmù",
+    "translation": "tocar na tela",
+    "category": "Tecnologia",
+    "note": "触摸 + 屏幕 = tocar + tela.",
+    "examples": [
+      "请触摸屏幕。"
+    ]
+  },
+  {
+    "text": "警察巡逻",
+    "pinyin": "jǐngchá xúnluó",
+    "translation": "patrulha policial",
+    "category": "Segurança",
+    "note": "警察 + 巡逻 = polícia + patrulhar.",
+    "examples": [
+      "警察在巡逻。"
+    ]
+  },
+  {
+    "text": "记录信息",
+    "pinyin": "jìlù xìnxī",
+    "translation": "registrar informação",
+    "category": "Dados",
+    "note": "记录 + 信息 = registrar + informação.",
+    "examples": [
+      "请记录信息。"
+    ]
+  },
+  {
+    "text": "证件号码",
+    "pinyin": "zhèngjiàn hàomǎ",
+    "translation": "número do documento",
+    "category": "Documentos",
+    "note": "证件 + 号码 = documento + número.",
+    "examples": [
+      "证件号码是多少？"
+    ]
+  },
+  {
+    "text": "评价系统",
+    "pinyin": "píngjià xìtǒng",
+    "translation": "sistema de avaliação",
+    "category": "Tecnologia",
+    "note": "评价 + 系统 = avaliar + sistema.",
+    "examples": [
+      "评价系统很好用。"
+    ]
+  },
+  {
+    "text": "评估成本",
+    "pinyin": "pínggū chéngběn",
+    "translation": "avaliar custo",
+    "category": "Finanças",
+    "note": "评估 + 成本 = avaliação + custo.",
+    "examples": [
+      "请评估成本。"
+    ]
+  },
+  {
+    "text": "诊所地址",
+    "pinyin": "zhěnsuǒ dìzhǐ",
+    "translation": "endereço da clínica",
+    "category": "Saúde",
+    "note": "诊所 + 地址 = clínica + endereço.",
+    "examples": [
+      "诊所地址在哪里？"
+    ]
+  },
+  {
+    "text": "详细地址",
+    "pinyin": "xiángxì dìzhǐ",
+    "translation": "endereço detalhado",
+    "category": "Documentos",
+    "note": "详细 + 地址 = detalhado + endereço.",
+    "examples": [
+      "请写详细地址。"
+    ]
+  },
+  {
+    "text": "详细说明",
+    "pinyin": "xiángxì shuōmíng",
+    "translation": "explicação detalhada",
+    "category": "Documentos",
+    "note": "详细 + 说明 = detalhado + explicação.",
+    "examples": [
+      "请详细说明。"
+    ]
+  },
+  {
+    "text": "请勿吸烟",
+    "pinyin": "qǐng wù xīyān",
+    "translation": "por favor, não fume",
+    "category": "Placas",
+    "note": "请勿 + 吸烟 = por favor não + fumar.",
+    "examples": [
+      "这里请勿吸烟。"
+    ]
+  },
+  {
+    "text": "请勿进入",
+    "pinyin": "qǐng wù jìnrù",
+    "translation": "por favor, não entre",
+    "category": "Placas",
+    "note": "请 + 勿 + 进入 = por favor + não + entrar.",
+    "examples": [
+      "请勿进入。"
+    ]
+  },
+  {
+    "text": "请往前走",
+    "pinyin": "qǐng wǎng qián zǒu",
+    "translation": "siga em frente, por favor",
+    "category": "Placas e direção",
+    "note": "请 + 往前走 = por favor + siga em frente.",
+    "examples": [
+      "请往前走。"
+    ]
+  },
+  {
+    "text": "课程安排",
+    "pinyin": "kèchéng ānpái",
+    "translation": "organização do curso",
+    "category": "Educação",
+    "note": "课程 + 安排 = curso + arranjo.",
+    "examples": [
+      "课程安排很好。"
+    ]
+  },
+  {
+    "text": "调整音量",
+    "pinyin": "tiáozhěng yīnliàng",
+    "translation": "ajustar volume",
+    "category": "Tecnologia",
+    "note": "调整 + 音量 = ajustar + volume.",
+    "examples": [
+      "请调整音量。"
+    ]
+  },
+  {
+    "text": "谈判僵局",
+    "pinyin": "tánpàn jiāngjú",
+    "translation": "impasse de negociação",
+    "category": "Negociação",
+    "note": "谈判 + 僵局 = negociação + impasse.",
+    "examples": [
+      "谈判陷入僵局。"
+    ]
+  },
+  {
+    "text": "谨慎选择",
+    "pinyin": "jǐnshèn xuǎnzé",
+    "translation": "escolher com cautela",
+    "category": "Decisão",
+    "note": "谨慎 + 选择 = cauteloso + escolher.",
+    "examples": [
+      "请谨慎选择。"
+    ]
+  },
+  {
+    "text": "豫园",
+    "pinyin": "Yùyuán",
+    "translation": "Jardim Yu",
+    "category": "Shanghai",
+    "note": "豫 + 园 = nome próprio + jardim.",
+    "examples": [
+      "豫园很有名。"
+    ]
+  },
+  {
+    "text": "财务报告",
+    "pinyin": "cáiwù bàogào",
+    "translation": "relatório financeiro",
+    "category": "Finanças",
+    "note": "财务 + 报告 = financeiro + relatório.",
+    "examples": [
+      "财务报告完成了。"
+    ]
+  },
+  {
+    "text": "账号登录",
+    "pinyin": "zhànghào dēnglù",
+    "translation": "login por conta",
+    "category": "Tecnologia",
+    "note": "账号 + 登录 = conta + entrar.",
+    "examples": [
+      "账号登录失败。"
+    ]
+  },
+  {
+    "text": "账户验证",
+    "pinyin": "zhànghù yànzhèng",
+    "translation": "verificação de conta",
+    "category": "Tecnologia e segurança",
+    "note": "账户 + 验证 = conta + verificação.",
+    "examples": [
+      "账户验证完成了。"
+    ]
+  },
+  {
+    "text": "账簿记录",
+    "pinyin": "zhàngbù jìlù",
+    "translation": "registro contábil",
+    "category": "Contabilidade",
+    "note": "账簿 + 记录 = livro contábil + registro.",
+    "examples": [
+      "账簿记录需要更新。"
+    ]
+  },
+  {
+    "text": "质量检查",
+    "pinyin": "zhìliàng jiǎnchá",
+    "translation": "controle de qualidade",
+    "category": "Gestão",
+    "note": "质量 + 检查 = qualidade + inspeção.",
+    "examples": [
+      "质量检查很严格。"
+    ]
+  },
+  {
+    "text": "贷款申请",
+    "pinyin": "dàikuǎn shēnqǐng",
+    "translation": "solicitação de empréstimo",
+    "category": "Finanças",
+    "note": "贷款 + 申请 = empréstimo + solicitação.",
+    "examples": [
+      "贷款申请提交了。"
+    ]
+  },
+  {
+    "text": "贸易公司",
+    "pinyin": "màoyì gōngsī",
+    "translation": "empresa de comércio",
+    "category": "Negócios",
+    "note": "贸易 + 公司 = comércio + empresa.",
+    "examples": [
+      "这是贸易公司。"
+    ]
+  },
+  {
+    "text": "费用清单",
+    "pinyin": "fèiyòng qīngdān",
+    "translation": "lista de custos",
+    "category": "Finanças",
+    "note": "费用 + 清单 = custo + lista.",
+    "examples": [
+      "费用清单在哪里？"
+    ]
+  },
+  {
+    "text": "资料材料",
+    "pinyin": "zīliào cáiliào",
+    "translation": "materiais/documentos",
+    "category": "Estudo e trabalho",
+    "note": "资料 + 材料 = dados/materiais + materiais.",
+    "examples": [
+      "资料材料准备好了。"
+    ]
+  },
+  {
+    "text": "资料齐全",
+    "pinyin": "zīliào qíquán",
+    "translation": "materiais completos",
+    "category": "Documentos",
+    "note": "资料 + 齐全 = materiais + completo.",
+    "examples": [
+      "资料齐全了。"
+    ]
+  },
+  {
+    "text": "赔偿方案",
+    "pinyin": "péicháng fāng'àn",
+    "translation": "plano de indenização",
+    "category": "Direito e finanças",
+    "note": "赔偿 + 方案 = indenização + plano.",
+    "examples": [
+      "赔偿方案出来了。"
+    ]
+  },
+  {
+    "text": "走廊尽头",
+    "pinyin": "zǒuláng jìntóu",
+    "translation": "fim do corredor",
+    "category": "Orientação",
+    "note": "走廊 + 尽头 = corredor + final.",
+    "examples": [
+      "厕所在走廊尽头。"
+    ]
+  },
+  {
+    "text": "超市入口",
+    "pinyin": "chāoshì rùkǒu",
+    "translation": "entrada do supermercado",
+    "category": "Cidade",
+    "note": "超市 + 入口 = supermercado + entrada.",
+    "examples": [
+      "超市入口在哪里？"
+    ]
+  },
+  {
+    "text": "趋势分析",
+    "pinyin": "qūshì fēnxī",
+    "translation": "análise de tendência",
+    "category": "Dados",
+    "note": "趋势 + 分析 = tendência + análise.",
+    "examples": [
+      "趋势分析很清楚。"
+    ]
+  },
+  {
+    "text": "足球比赛",
+    "pinyin": "zúqiú bǐsài",
+    "translation": "jogo de futebol",
+    "category": "Esporte",
+    "note": "足球 + 比赛 = futebol + competição.",
+    "examples": [
+      "足球比赛开始了。"
+    ]
+  },
+  {
+    "text": "足球训练",
+    "pinyin": "zúqiú xùnliàn",
+    "translation": "treino de futebol",
+    "category": "Esporte",
+    "note": "足球 + 训练 = futebol + treino.",
+    "examples": [
+      "足球训练开始了。"
+    ]
+  },
+  {
+    "text": "路线距离",
+    "pinyin": "lùxiàn jùlí",
+    "translation": "distância da rota",
+    "category": "Transporte",
+    "note": "路线 + 距离 = rota + distância.",
+    "examples": [
+      "路线距离很远。"
+    ]
+  },
+  {
+    "text": "身份证号",
+    "pinyin": "shēnfènzhèng hào",
+    "translation": "número do documento de identidade",
+    "category": "Documentos",
+    "note": "身份证 + 号 = identidade + número.",
+    "examples": [
+      "身份证号是多少？"
+    ]
+  },
+  {
+    "text": "车票价格",
+    "pinyin": "chēpiào jiàgé",
+    "translation": "preço da passagem",
+    "category": "Transporte",
+    "note": "车票 + 价格 = passagem + preço.",
+    "examples": [
+      "车票价格是多少？"
+    ]
+  },
+  {
+    "text": "软件下载",
+    "pinyin": "ruǎnjiàn xiàzài",
+    "translation": "download de software",
+    "category": "Tecnologia",
+    "note": "软件 + 下载 = software + download.",
+    "examples": [
+      "软件下载很慢。"
+    ]
+  },
+  {
+    "text": "输入密码",
+    "pinyin": "shūrù mìmǎ",
+    "translation": "digitar senha",
+    "category": "Tecnologia",
+    "note": "输入 + 密码 = inserir + senha.",
+    "examples": [
+      "请输入密码。"
+    ]
+  },
+  {
+    "text": "迅速处理",
+    "pinyin": "xùnsù chǔlǐ",
+    "translation": "resolver rapidamente",
+    "category": "Trabalho",
+    "note": "迅速 + 处理 = rápido + resolver.",
+    "examples": [
+      "请迅速处理。"
+    ]
+  },
+  {
+    "text": "过渡阶段",
+    "pinyin": "guòdù jiēduàn",
+    "translation": "fase de transição",
+    "category": "Gestão",
+    "note": "过渡 + 阶段 = transição + fase.",
+    "examples": [
+      "这是过渡阶段。"
+    ]
+  },
+  {
+    "text": "过滤数据",
+    "pinyin": "guòlǜ shùjù",
+    "translation": "filtrar dados",
+    "category": "Dados",
+    "note": "过滤 + 数据 = filtrar + dados.",
+    "examples": [
+      "请过滤数据。"
+    ]
+  },
+  {
+    "text": "运动鞋尺码",
+    "pinyin": "yùndòngxié chǐmǎ",
+    "translation": "tamanho do tênis",
+    "category": "Roupas",
+    "note": "运动鞋 + 尺码 = tênis + tamanho.",
+    "examples": [
+      "运动鞋尺码是多少？"
+    ]
+  },
+  {
+    "text": "返回酒店",
+    "pinyin": "fǎnhuí jiǔdiàn",
+    "translation": "voltar ao hotel",
+    "category": "Viagem",
+    "note": "返回 + 酒店 = retornar + hotel.",
+    "examples": [
+      "我要返回酒店。"
+    ]
+  },
+  {
+    "text": "退烧药片",
+    "pinyin": "tuìshāo yàopiàn",
+    "translation": "comprimido para febre",
+    "category": "Saúde",
+    "note": "退烧 + 药片 = baixar febre + comprimido.",
+    "examples": [
+      "我需要退烧药片。"
+    ]
+  },
+  {
+    "text": "退税窗口",
+    "pinyin": "tuìshuì chuāngkǒu",
+    "translation": "guichê de reembolso de imposto",
+    "category": "Aeroporto e finanças",
+    "note": "退税 + 窗口 = reembolso de imposto + guichê.",
+    "examples": [
+      "退税窗口在哪里？"
+    ]
+  },
+  {
+    "text": "逃生通道",
+    "pinyin": "táoshēng tōngdào",
+    "translation": "rota de escape",
+    "category": "Segurança",
+    "note": "逃生 + 通道 = escapar + passagem.",
+    "examples": [
+      "逃生通道在哪里？"
+    ]
+  },
+  {
+    "text": "通货膨胀",
+    "pinyin": "tōnghuò péngzhàng",
+    "translation": "inflação",
+    "category": "Economia",
+    "note": "通货 + 膨胀 = moeda/circulação + expansão.",
+    "examples": [
+      "通货膨胀很高。"
+    ]
+  },
+  {
+    "text": "遵守规则",
+    "pinyin": "zūnshǒu guīzé",
+    "translation": "cumprir regras",
+    "category": "Placas e normas",
+    "note": "遵守 + 规则 = cumprir + regras.",
+    "examples": [
+      "请遵守规则。"
+    ]
+  },
+  {
+    "text": "邀请参加",
+    "pinyin": "yāoqǐng cānjiā",
+    "translation": "convidar para participar",
+    "category": "Social",
+    "note": "邀请 + 参加 = convidar + participar.",
+    "examples": [
+      "我邀请你参加。"
+    ]
+  },
+  {
+    "text": "邮局地址",
+    "pinyin": "yóujú dìzhǐ",
+    "translation": "endereço dos correios",
+    "category": "Cidade",
+    "note": "邮局 + 地址 = correios + endereço.",
+    "examples": [
+      "邮局地址在哪里？"
+    ]
+  },
+  {
+    "text": "邮局服务",
+    "pinyin": "yóujú fúwù",
+    "translation": "serviço dos correios",
+    "category": "Cidade",
+    "note": "邮局 + 服务 = correio + serviço.",
+    "examples": [
+      "邮局服务很好。"
+    ]
+  },
+  {
+    "text": "郊区房租",
+    "pinyin": "jiāoqū fángzū",
+    "translation": "aluguel no subúrbio",
+    "category": "Moradia",
+    "note": "郊区 + 房租 = subúrbio + aluguel.",
+    "examples": [
+      "郊区房租比较低。"
+    ]
+  },
+  {
+    "text": "部门负责人",
+    "pinyin": "bùmén fùzérén",
+    "translation": "responsável do departamento",
+    "category": "Trabalho",
+    "note": "部门 + 负责人 = departamento + responsável.",
+    "examples": [
+      "部门负责人是谁？"
+    ]
+  },
+  {
+    "text": "配送服务",
+    "pinyin": "pèisòng fúwù",
+    "translation": "serviço de entrega",
+    "category": "Logística",
+    "note": "配送 + 服务 = entrega + serviço.",
+    "examples": [
+      "配送服务很快。"
+    ]
+  },
+  {
+    "text": "酱油价格",
+    "pinyin": "jiàngyóu jiàgé",
+    "translation": "preço do molho de soja",
+    "category": "Compras",
+    "note": "酱油 + 价格 = molho de soja + preço.",
+    "examples": [
+      "酱油价格是多少？"
+    ]
+  },
+  {
+    "text": "采购材料",
+    "pinyin": "cǎigòu cáiliào",
+    "translation": "comprar/adquirir materiais",
+    "category": "Compras",
+    "note": "采购 + 材料 = aquisição + materiais.",
+    "examples": [
+      "我要采购材料。"
+    ]
+  },
+  {
+    "text": "重量测量",
+    "pinyin": "zhòngliàng cèliáng",
+    "translation": "medição de peso",
+    "category": "Medidas",
+    "note": "重量 + 测量 = peso + medição.",
+    "examples": [
+      "重量测量很准确。"
+    ]
+  },
+  {
+    "text": "金融科技",
+    "pinyin": "jīnróng kējì",
+    "translation": "fintech/tecnologia financeira",
+    "category": "Finanças e tecnologia",
+    "note": "金融 + 科技 = finanças + tecnologia.",
+    "examples": [
+      "金融科技发展很快。"
+    ]
+  },
+  {
+    "text": "金融资料",
+    "pinyin": "jīnróng zīliào",
+    "translation": "materiais financeiros",
+    "category": "Finanças",
+    "note": "金融 + 资料 = finanças + materiais.",
+    "examples": [
+      "金融资料准备好了。"
+    ]
+  },
+  {
+    "text": "金额大写",
+    "pinyin": "jīn'é dàxiě",
+    "translation": "valor por extenso",
+    "category": "Finanças",
+    "note": "金额 + 大写 = valor + escrita formal.",
+    "examples": [
+      "请填写金额大写。"
+    ]
+  },
+  {
+    "text": "金额确认",
+    "pinyin": "jīn'é quèrèn",
+    "translation": "confirmação do valor",
+    "category": "Finanças",
+    "note": "金额 + 确认 = valor + confirmação.",
+    "examples": [
+      "请确认金额。"
+    ]
+  },
+  {
+    "text": "钢琴课程",
+    "pinyin": "gāngqín kèchéng",
+    "translation": "curso de piano",
+    "category": "Educação",
+    "note": "钢琴 + 课程 = piano + curso.",
+    "examples": [
+      "钢琴课程几点？"
+    ]
+  },
+  {
+    "text": "钢铁行业",
+    "pinyin": "gāngtiě hángyè",
+    "translation": "indústria siderúrgica",
+    "category": "Indústria",
+    "note": "钢铁 + 行业 = aço/ferro + setor.",
+    "examples": [
+      "钢铁行业很重要。"
+    ]
+  },
+  {
+    "text": "钱包丢了",
+    "pinyin": "qiánbāo diū le",
+    "translation": "a carteira foi perdida",
+    "category": "Viagem",
+    "note": "钱包 + 丢了 = carteira + perdeu.",
+    "examples": [
+      "我的钱包丢了。"
+    ]
+  },
+  {
+    "text": "银行卡号",
+    "pinyin": "yínháng kǎhào",
+    "translation": "número do cartão bancário",
+    "category": "Finanças",
+    "note": "银行 + 卡号 = banco + número do cartão.",
+    "examples": [
+      "银行卡号是多少？"
+    ]
+  },
+  {
+    "text": "银行账户",
+    "pinyin": "yínháng zhànghù",
+    "translation": "conta bancária",
+    "category": "Finanças",
+    "note": "银行 + 账户 = banco + conta.",
+    "examples": [
+      "银行账户怎么开？"
+    ]
+  },
+  {
+    "text": "销售数据",
+    "pinyin": "xiāoshòu shùjù",
+    "translation": "dados de vendas",
+    "category": "Dados e vendas",
+    "note": "销售 + 数据 = vendas + dados.",
+    "examples": [
+      "销售数据很好。"
+    ]
+  },
+  {
+    "text": "销售渠道",
+    "pinyin": "xiāoshòu qúdào",
+    "translation": "canal de vendas",
+    "category": "Negócios",
+    "note": "销售 + 渠道 = vendas + canal.",
+    "examples": [
+      "销售渠道很重要。"
+    ]
+  },
+  {
+    "text": "键盘输入",
+    "pinyin": "jiànpán shūrù",
+    "translation": "entrada pelo teclado",
+    "category": "Tecnologia",
+    "note": "键盘 + 输入 = teclado + entrada.",
+    "examples": [
+      "键盘输入有问题。"
+    ]
+  },
+  {
+    "text": "长期战略",
+    "pinyin": "chángqī zhànlüè",
+    "translation": "estratégia de longo prazo",
+    "category": "Gestão",
+    "note": "长期 + 战略 = longo prazo + estratégia.",
+    "examples": [
+      "这是长期战略。"
+    ]
+  },
+  {
+    "text": "长期计划",
+    "pinyin": "chángqī jìhuà",
+    "translation": "plano de longo prazo",
+    "category": "Gestão",
+    "note": "长期 + 计划 = longo prazo + plano.",
+    "examples": [
+      "这是长期计划。"
+    ]
+  },
+  {
+    "text": "长江大桥",
+    "pinyin": "Chángjiāng dàqiáo",
+    "translation": "Ponte do Yangtzé",
+    "category": "Geografia",
+    "note": "长江 + 大桥 = Yangtzé + ponte.",
+    "examples": [
+      "长江大桥很壮观。"
+    ]
+  },
+  {
+    "text": "问询窗口",
+    "pinyin": "wènxún chuāngkǒu",
+    "translation": "guichê de informações",
+    "category": "Serviços",
+    "note": "问询 + 窗口 = perguntar/consultar + guichê.",
+    "examples": [
+      "问询窗口在哪里？"
+    ]
+  },
+  {
+    "text": "阅读材料",
+    "pinyin": "yuèdú cáiliào",
+    "translation": "material de leitura",
+    "category": "Educação",
+    "note": "阅读 + 材料 = leitura + material.",
+    "examples": [
+      "阅读材料准备好了。"
+    ]
+  },
+  {
+    "text": "防火墙设置",
+    "pinyin": "fánghuǒqiáng shèzhì",
+    "translation": "configuração de firewall",
+    "category": "Tecnologia e segurança",
+    "note": "防火墙 + 设置 = firewall + configuração.",
+    "examples": [
+      "防火墙设置完成了。"
+    ]
+  },
+  {
+    "text": "附近医院",
+    "pinyin": "fùjìn yīyuàn",
+    "translation": "hospital próximo",
+    "category": "Saúde e cidade",
+    "note": "附近 + 医院 = próximo + hospital.",
+    "examples": [
+      "附近医院在哪里？"
+    ]
+  },
+  {
+    "text": "陆家嘴",
+    "pinyin": "Lùjiāzuǐ",
+    "translation": "Lujiazui",
+    "category": "Shanghai",
+    "note": "陆 + 家 + 嘴 = nome de área famosa em Shanghai.",
+    "examples": [
+      "陆家嘴很现代。"
+    ]
+  },
+  {
+    "text": "非常抱歉",
+    "pinyin": "fēicháng bàoqiàn",
+    "translation": "sinto muito",
+    "category": "Conversação",
+    "note": "非常 + 抱歉 = muito + desculpa.",
+    "examples": [
+      "非常抱歉。"
+    ]
+  },
+  {
+    "text": "非常重要",
+    "pinyin": "fēicháng zhòngyào",
+    "translation": "muito importante",
+    "category": "Ênfase",
+    "note": "非常 + 重要 = muito + importante.",
+    "examples": [
+      "这个非常重要。"
+    ]
+  },
+  {
+    "text": "靠拢排队",
+    "pinyin": "kàolǒng páiduì",
+    "translation": "aproximar-se na fila",
+    "category": "Cidade",
+    "note": "靠拢 + 排队 = aproximar + formar fila.",
+    "examples": [
+      "请靠拢排队。"
+    ]
+  },
+  {
+    "text": "音乐课程",
+    "pinyin": "yīnyuè kèchéng",
+    "translation": "curso de música",
+    "category": "Educação",
+    "note": "音乐 + 课程 = música + curso.",
+    "examples": [
+      "音乐课程开始了。"
+    ]
+  },
+  {
+    "text": "项目选项",
+    "pinyin": "xiàngmù xuǎnxiàng",
+    "translation": "opção do projeto",
+    "category": "Gestão",
+    "note": "项目 + 选项 = projeto + opção.",
+    "examples": [
+      "请选择项目选项。"
+    ]
+  },
+  {
+    "text": "顾客满意",
+    "pinyin": "gùkè mǎnyì",
+    "translation": "satisfação do cliente",
+    "category": "Negócios",
+    "note": "顾客 + 满意 = cliente + satisfeito.",
+    "examples": [
+      "顾客满意很重要。"
+    ]
+  },
+  {
+    "text": "预算管理",
+    "pinyin": "yùsuàn guǎnlǐ",
+    "translation": "gestão orçamentária",
+    "category": "Finanças",
+    "note": "预算 + 管理 = orçamento + gestão.",
+    "examples": [
+      "预算管理很重要。"
+    ]
+  },
+  {
+    "text": "预约服务",
+    "pinyin": "yùyuē fúwù",
+    "translation": "serviço de agendamento",
+    "category": "Serviços",
+    "note": "预约 + 服务 = agendamento + serviço.",
+    "examples": [
+      "我需要预约服务。"
+    ]
+  },
+  {
+    "text": "预订酒店",
+    "pinyin": "yùdìng jiǔdiàn",
+    "translation": "reservar hotel",
+    "category": "Viagem",
+    "note": "预订 + 酒店 = reservar + hotel.",
+    "examples": [
+      "我要预订酒店。"
+    ]
+  },
+  {
+    "text": "颜色选择",
+    "pinyin": "yánsè xuǎnzé",
+    "translation": "escolha de cor",
+    "category": "Design",
+    "note": "颜色 + 选择 = cor + escolha.",
+    "examples": [
+      "颜色选择很多。"
+    ]
+  },
+  {
+    "text": "风扇开关",
+    "pinyin": "fēngshàn kāiguān",
+    "translation": "interruptor do ventilador",
+    "category": "Casa",
+    "note": "风扇 + 开关 = ventilador + interruptor.",
+    "examples": [
+      "风扇开关在哪里？"
+    ]
+  },
+  {
+    "text": "风格设计",
+    "pinyin": "fēnggé shèjì",
+    "translation": "design de estilo",
+    "category": "Design",
+    "note": "风格 + 设计 = estilo + design.",
+    "examples": [
+      "风格设计很好。"
+    ]
+  },
+  {
+    "text": "风险保障",
+    "pinyin": "fēngxiǎn bǎozhàng",
+    "translation": "garantia contra risco",
+    "category": "Finanças e segurança",
+    "note": "风险 + 保障 = risco + garantia.",
+    "examples": [
+      "风险保障很重要。"
+    ]
+  },
+  {
+    "text": "飞机起飞",
+    "pinyin": "fēijī qǐfēi",
+    "translation": "avião decolar",
+    "category": "Aeroporto",
+    "note": "飞机 + 起飞 = avião + decolar.",
+    "examples": [
+      "飞机几点起飞？"
+    ]
+  },
+  {
+    "text": "饮料菜单",
+    "pinyin": "yǐnliào càidān",
+    "translation": "cardápio de bebidas",
+    "category": "Restaurante",
+    "note": "饮料 + 菜单 = bebida + cardápio.",
+    "examples": [
+      "饮料菜单在哪里？"
+    ]
+  },
+  {
+    "text": "首都机场",
+    "pinyin": "shǒudū jīchǎng",
+    "translation": "aeroporto da capital",
+    "category": "Transporte",
+    "note": "首都 + 机场 = capital + aeroporto.",
+    "examples": [
+      "首都机场很大。"
+    ]
+  },
+  {
+    "text": "香港旅行",
+    "pinyin": "Xiānggǎng lǚxíng",
+    "translation": "viagem a Hong Kong",
+    "category": "Viagem",
+    "note": "香港 + 旅行 = Hong Kong + viagem.",
+    "examples": [
+      "香港旅行很有趣。"
+    ]
+  },
+  {
+    "text": "马上就到",
+    "pinyin": "mǎshàng jiù dào",
+    "translation": "chega já",
+    "category": "Conversação",
+    "note": "马上 + 就 + 到 = imediatamente + então + chegar.",
+    "examples": [
+      "我马上就到。"
+    ]
+  },
+  {
+    "text": "驾驶执照",
+    "pinyin": "jiàshǐ zhízhào",
+    "translation": "carteira de motorista",
+    "category": "Transporte",
+    "note": "驾驶 + 执照 = dirigir + licença.",
+    "examples": [
+      "你有驾驶执照吗？"
+    ]
+  },
+  {
+    "text": "验证码",
+    "pinyin": "yànzhèngmǎ",
+    "translation": "código de verificação",
+    "category": "Tecnologia",
+    "note": "验 + 证 + 码 = verificar + provar + código.",
+    "examples": [
+      "请输入验证码。"
+    ]
+  },
+  {
+    "text": "验证身份",
+    "pinyin": "yànzhèng shēnfèn",
+    "translation": "verificar identidade",
+    "category": "Segurança",
+    "note": "验证 + 身份 = verificar + identidade.",
+    "examples": [
+      "请验证身份。"
+    ]
+  },
+  {
+    "text": "骑自行车",
+    "pinyin": "qí zìxíngchē",
+    "translation": "andar de bicicleta",
+    "category": "Transporte",
+    "note": "骑 + 自行车 = montar/andar + bicicleta.",
+    "examples": [
+      "我骑自行车上班。"
+    ]
+  },
+  {
+    "text": "骨折检查",
+    "pinyin": "gǔzhé jiǎnchá",
+    "translation": "exame de fratura",
+    "category": "Saúde",
+    "note": "骨折 + 检查 = fratura + exame.",
+    "examples": [
+      "需要骨折检查。"
+    ]
+  },
+  {
+    "text": "高峰时间",
+    "pinyin": "gāofēng shíjiān",
+    "translation": "horário de pico",
+    "category": "Transporte",
+    "note": "高峰 + 时间 = pico + tempo.",
+    "examples": [
+      "现在是高峰时间。"
+    ]
+  },
+  {
+    "text": "魔术表演",
+    "pinyin": "móshù biǎoyǎn",
+    "translation": "apresentação de mágica",
+    "category": "Cultura",
+    "note": "魔术 + 表演 = mágica + apresentação.",
+    "examples": [
+      "魔术表演开始了。"
+    ]
+  },
+  {
+    "text": "鸟巢体育场",
+    "pinyin": "Niǎocháo Tǐyùchǎng",
+    "translation": "Estádio Ninho de Pássaro",
+    "category": "Cultura e turismo",
+    "note": "鸟巢 + 体育场 = ninho de pássaro + estádio.",
+    "examples": [
+      "鸟巢体育场很有名。"
+    ]
+  },
+  {
+    "text": "黄浦江夜景",
+    "pinyin": "Huángpǔ Jiāng yèjǐng",
+    "translation": "vista noturna do Rio Huangpu",
+    "category": "Shanghai",
+    "note": "黄浦江 + 夜景 = Rio Huangpu + vista noturna.",
+    "examples": [
+      "黄浦江夜景很美。"
+    ]
+  },
+  {
+    "text": "黄金价格",
+    "pinyin": "huángjīn jiàgé",
+    "translation": "preço do ouro",
+    "category": "Finanças",
+    "note": "黄金 + 价格 = ouro + preço.",
+    "examples": [
+      "黄金价格上涨。"
+    ]
+  },
+  {
+    "text": "默认设置",
+    "pinyin": "mòrèn shèzhì",
+    "translation": "configuração padrão",
+    "category": "Tecnologia",
+    "note": "默认 + 设置 = padrão + configuração.",
+    "examples": [
+      "默认设置很好。"
+    ]
+  },
+  {
+    "text": "鼠标连接",
+    "pinyin": "shǔbiāo liánjiē",
+    "translation": "conexão do mouse",
+    "category": "Tecnologia",
+    "note": "鼠标 + 连接 = mouse + conexão.",
+    "examples": [
+      "鼠标连接失败。"
+    ]
+  },
+  {
+    "text": "鼻音练习",
+    "pinyin": "bíyīn liànxí",
+    "translation": "exercício de som nasal",
+    "category": "Fonética",
+    "note": "鼻音 + 练习 = nasal + prática.",
+    "examples": [
+      "鼻音练习很重要。"
+    ]
+  },
+  {
+    "text": "龙舟比赛",
+    "pinyin": "lóngzhōu bǐsài",
+    "translation": "corrida de barco-dragão",
+    "category": "Cultura",
+    "note": "龙舟 + 比赛 = barco-dragão + competição.",
+    "examples": [
+      "龙舟比赛很热闹。"
+    ]
+  }
+]

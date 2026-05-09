@@ -1,7 +1,7 @@
 {
   "name": "HanVerse VS",
   "short_name": "HanVerse",
-  "description": "HanVerse VS com ícones PWA na raiz do repositório, sem necessidade de pasta icons.",
+  "description": "HanVerse VS v3.9.6 com nova onda de população via JSON na raiz.",
   "lang": "pt-BR",
   "dir": "ltr",
   "start_url": "./index.html",

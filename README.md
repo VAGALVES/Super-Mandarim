@@ -438,3 +438,146 @@ Ajuste para uso no celular:
 - loader atualizado para buscar `characters-hsk-1.json` diretamente na raiz;
 - service worker atualizado para cachear os JSON da raiz;
 - ideal para upload manual pelo GitHub mobile.
+
+
+## v3.8.4 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 99 novos ideogramas;
+- adicionadas 35 novas combinações;
+- total aproximado de ideogramas: 1885;
+- total de combinações: 394;
+- foco em radicais 火/灬, 爪, 父, 片, 牙, 牛/牜, 犬/犭 e 王.
+
+
+## v3.8.5 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 90 novos ideogramas;
+- adicionadas 28 novas combinações;
+- total aproximado de ideogramas: 1975;
+- total de combinações: 420;
+- foco em radicais 田, 疒, 白, 皮, 皿, 目, 矢 e 石.
+
+
+## v3.8.6 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 75 novos ideogramas;
+- adicionadas 35 novas combinações;
+- total aproximado de ideogramas: 2050;
+- total de combinações: 454;
+- foco em radicais 示/礻, 禾, 穴, 立 e 竹.
+
+
+## v3.8.7 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 88 novos ideogramas;
+- adicionadas 30 novas combinações;
+- total aproximado de ideogramas: 2138;
+- total de combinações: 484;
+- foco em radicais 米, 糸/纟, 缶, 网/罒, 羊, 羽, 老, 而, 耳 e 聿.
+
+
+## v3.8.8 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 134 novos ideogramas;
+- adicionadas 28 novas combinações;
+- total aproximado de ideogramas: 2272;
+- total de combinações: 511;
+- foco em radicais 肉/月, 自, 臣, 至, 臼, 舌, 舟, 艮, 色, 艹, 虍 e 虫.
+
+
+## v3.8.9 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 90 novos ideogramas;
+- adicionadas 32 novas combinações;
+- total aproximado de ideogramas: 2362;
+- total de combinações: 542;
+- foco em radicais 衣/衤, 西/覀, 見/见, 角, 言/讠, 谷, 豆, 豕, 貝/贝, 赤, 走 e 足.
+
+
+## v3.9.0 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 119 novos ideogramas;
+- adicionadas 37 novas combinações;
+- total aproximado de ideogramas: 2481;
+- total de combinações: 577;
+- foco em radicais 車/车, 辛, 辰, 辶, 邑/阝, 酉, 釆/里, 金/钅, 長/长 e 門/门.
+
+
+## v3.9.1 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 69 novos ideogramas;
+- adicionadas 30 novas combinações;
+- total aproximado de ideogramas: 2550;
+- total de combinações: 604;
+- foco em radicais 雨, 青, 非, 面, 革, 音, 頁/页, 風/风, 飛/飞, 食/饣, 首, 香, 馬/马, 骨, 高, 鬼, 魚/鱼 e 鳥/鸟.
+
+
+## v3.9.2 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 33 novos ideogramas;
+- adicionadas 24 novas combinações;
+- total aproximado de ideogramas: 2583;
+- total de combinações: 628;
+- foco em caracteres-base, componentes humanos 亻 e radical 儿.
+
+
+## v3.9.3 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 8 novos ideogramas;
+- adicionadas 26 novas combinações;
+- total aproximado de ideogramas: 2591;
+- total de combinações: 653;
+- foco em radicais 刀/刂, 力, 勹, 匚/匸, 十, 卜, 卩, 厂, 厶 e 又.
+
+
+## v3.9.4 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 79 novos ideogramas;
+- adicionadas 28 novas combinações;
+- total aproximado de ideogramas: 2670;
+- total de combinações: 675;
+- foco em radicais 口, 囗, 土, 士, 夂, 夕, 大, 女 e 子.
+
+
+## v3.9.5 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 49 novos ideogramas;
+- adicionadas 26 novas combinações;
+- total aproximado de ideogramas: 2719;
+- total de combinações: 692;
+- foco em radicais 宀, 寸, 小, 尢, 尸, 山, 川/巛, 工, 己, 巾, 干, 幺 e 广.
+
+
+## v3.9.6 · Root JSON Population Wave
+
+População via JSON na raiz:
+
+- adicionados 81 novos ideogramas;
+- adicionadas 24 novas combinações;
+- total aproximado de ideogramas: 2800;
+- total de combinações: 709;
+- foco em radicais 廴, 廾, 弋, 弓, 彐, 彡, 彳, 心/忄, 戈 e 户.

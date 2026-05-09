@@ -4,8 +4,8 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="theme-color" content="#7F1D1D" id="meta-theme" />
-<title>HanVerse VS · MVP 3.8.3 Root Data Architecture</title>
-<!-- v3.8.3: arquitetura com dados JSON na raiz para upload mobile -->
+<title>HanVerse VS · MVP 3.9.6 Root JSON Population Wave</title>
+<!-- v3.9.6: população incremental via JSON na raiz -->
 <link rel="manifest" href="./manifest.webmanifest" />
 <link rel="icon" type="image/png" sizes="32x32" href="./icon-32.png" />
 <link rel="icon" type="image/png" sizes="192x192" href="./icon-192.png" />
@@ -2911,7 +2911,7 @@ html[data-theme="parchment"] .v376-board{
 <body>
 <div class="app">
 <header class="topbar">
-  <a class="brand" href="#inicio"><div class="seal"><span>汉</span></div><div><strong>HanVerse VS</strong><small>Mandarim visual, sonoro e estrutural · v3.8.3</small></div></a>
+  <a class="brand" href="#inicio"><div class="seal"><span>汉</span></div><div><strong>HanVerse VS</strong><small>Mandarim visual, sonoro e estrutural · v3.9.6</small></div></a>
   <div class="actions">
     <button class="btn" id="theme">Tema claro/escuro</button>
     <button class="btn" id="focus">Ativar modo claro</button>
@@ -2922,7 +2922,7 @@ html[data-theme="parchment"] .v376-board{
 <main>
 <section class="hero" id="inicio">
   <div class="panel hero-main">
-    <span class="kicker">VS Mandarin Learning Stack</span><span class="version">Evolução 3.8.3</span>
+    <span class="kicker">VS Mandarin Learning Stack</span><span class="version">Evolução 3.9.6</span>
     <h1>Aprenda chinês vendo, ouvindo, escrevendo e decompondo.</h1>
     <p>Um app educacional para brasileiros aprenderem mandarim por camadas: ideograma, pinyin, tom, significado, radical, traços, evolução visual, combinações e uso real em frases.</p>
     <div class="hero-actions"><a class="btn primary" href="#ideogramas">Explorar ideogramas</a><a class="btn" href="#tons">Treinar tons</a><a class="btn" href="#gramatica">Ver gramática</a></div>
@@ -10133,7 +10133,7 @@ setTimeout(safeBootV356, 2500);
 /* v3.8.2 · External Data Architecture
    Loads characters and combinations from /*.json and keeps embedded data as fallback. */
 (function(){
-  const DATA_VERSION = "3.8.2";
+  const DATA_VERSION = "3.9.6";
   const HSK_FILES = [
     "characters-hsk-1.json",
     "characters-hsk-2.json",
