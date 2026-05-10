@@ -1,5 +1,5 @@
-const CACHE_NAME = "hanverse-vs-v3-9-6-root-json-population-core";
-const RUNTIME_CACHE = "hanverse-vs-v3-9-6-root-json-population-runtime";
+const CACHE_NAME = "hanverse-vs-v4-0-1-complete-normalized-audio-core";
+const RUNTIME_CACHE = "hanverse-vs-v4-0-1-complete-normalized-audio-runtime";
 const CORE_ASSETS = [
   "./",
   "./index.html",

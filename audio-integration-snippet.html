@@ -1,0 +1,300 @@
+<!--
+  HanVerse VS — Audio Integration Snippet
+  =========================================
+  Como integrar audio-module.js no index.html existente.
+
+  Este arquivo NÃO substitui o index.html. Ele mostra o que adicionar.
+-->
+
+<!-- ===================================================================
+     1. CSS PARA BOTÕES DE ÁUDIO
+     Adicione ao <style> existente do index.html
+     =================================================================== -->
+<style>
+  /* Botão de play universal — funciona dark/light theme */
+  .hv-audio-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    padding: 0;
+    margin: 0 4px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.05);
+    color: inherit;
+    font-size: 14px;
+    cursor: pointer;
+    transition: transform 0.15s ease, background 0.15s ease;
+    user-select: none;
+  }
+  .hv-audio-btn:hover {
+    background: rgba(255, 255, 255, 0.12);
+    transform: scale(1.08);
+  }
+  .hv-audio-btn:active {
+    transform: scale(0.95);
+  }
+  .hv-audio-btn.playing {
+    animation: hv-pulse 1.2s ease-in-out infinite;
+    background: rgba(99, 102, 241, 0.25);
+    border-color: rgba(99, 102, 241, 0.5);
+  }
+  .hv-audio-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+  @keyframes hv-pulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.4); }
+    50%      { box-shadow: 0 0 0 8px rgba(99, 102, 241, 0); }
+  }
+
+  /* Botão grande, para o caractere principal do card */
+  .hv-audio-btn-lg {
+    width: 48px;
+    height: 48px;
+    font-size: 20px;
+  }
+
+  /* Aviso quando TTS chinês indisponível */
+  .hv-audio-warning {
+    font-size: 12px;
+    padding: 8px 12px;
+    background: rgba(234, 179, 8, 0.1);
+    border-left: 3px solid rgba(234, 179, 8, 0.6);
+    color: rgba(234, 179, 8, 0.9);
+    border-radius: 4px;
+    margin: 12px 0;
+  }
+</style>
+
+
+<!-- ===================================================================
+     2. INCLUIR O MÓDULO
+     Coloque ANTES do script principal do app
+     =================================================================== -->
+<script src="audio-module.js"></script>
+
+
+<!-- ===================================================================
+     3. INICIALIZAÇÃO + STATUS CHECK
+     Coloque no DOMContentLoaded ou no startup do app
+     =================================================================== -->
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    // Verifica disponibilidade e mostra aviso se necessário
+    setTimeout(() => {
+      const status = HanVerseAudio.getStatus();
+      console.log('[HanVerseAudio] Status:', status);
+
+      if (!status.available) {
+        showAudioWarning('Seu navegador não suporta áudio. Use Chrome/Edge/Safari moderno.');
+      } else if (!status.chineseAvailable) {
+        showAudioWarning(
+          'Voz em chinês não detectada no seu sistema. ' +
+          'Áudio de pinyin e tradução continua funcionando.'
+        );
+      }
+    }, 500); // espera vozes carregarem
+  });
+
+  function showAudioWarning(msg) {
+    const div = document.createElement('div');
+    div.className = 'hv-audio-warning';
+    div.textContent = '⚠️ ' + msg;
+    document.body.prepend(div);
+    setTimeout(() => div.remove(), 8000);
+  }
+</script>
+
+
+<!-- ===================================================================
+     4. INJEÇÃO NOS CARDS DE CARACTERE
+     Você terá uma função tipo `renderCharacterCard(charObj)`. Dentro dela,
+     adicione os botões de play após renderizar o caractere/pinyin/exemplo.
+     =================================================================== -->
+<script>
+  // ----- EXEMPLO de uso dentro do renderizador de card existente -----
+  function injectAudioControls(cardElement, charData) {
+    // Botão grande no caractere principal
+    const charContainer = cardElement.querySelector('.character-display');
+    // ↑ AJUSTE: use o seletor real do seu app
+    if (charContainer) {
+      const btn = HanVerseAudio.createPlayButton(charData.char, 'chinese', '🔊');
+      btn.classList.add('hv-audio-btn-lg');
+      charContainer.appendChild(btn);
+    }
+
+    // Botão pequeno ao lado do pinyin
+    const pinyinEl = cardElement.querySelector('.pinyin-display');
+    if (pinyinEl && charData.char) {
+      pinyinEl.appendChild(
+        HanVerseAudio.createPlayButton(charData.char, 'chinese', '🔊')
+      );
+    }
+
+    // Botão "ouvir tudo em sequência" (caractere → pinyin → tradução)
+    const sequenceBtn = document.createElement('button');
+    sequenceBtn.className = 'hv-audio-btn hv-audio-btn-lg';
+    sequenceBtn.textContent = '▶';
+    sequenceBtn.setAttribute('aria-label', 'Ouvir sequência completa');
+    sequenceBtn.addEventListener('click', () => {
+      sequenceBtn.classList.add('playing');
+      HanVerseAudio.speakSequence(
+        charData.char,
+        charData.pinyin,
+        charData.translation
+      ).finally(() => sequenceBtn.classList.remove('playing'));
+    });
+    cardElement.appendChild(sequenceBtn);
+
+    // Para cada combinação (一个, 一天...), botão individual
+    cardElement.querySelectorAll('.combination-item').forEach((el) => {
+      const text = el.dataset.zh || el.textContent.split('·')[0].trim();
+      el.appendChild(HanVerseAudio.createPlayButton(text, 'chinese'));
+    });
+
+    // Para cada exemplo (frase completa)
+    cardElement.querySelectorAll('.example-item').forEach((el) => {
+      const zh = el.dataset.zh;
+      const pt = el.dataset.pt;
+      if (!zh) return;
+      const btn = document.createElement('button');
+      btn.className = 'hv-audio-btn';
+      btn.textContent = '🔊';
+      btn.addEventListener('click', () => {
+        btn.classList.add('playing');
+        HanVerseAudio.speakExample(zh, null, pt)
+          .finally(() => btn.classList.remove('playing'));
+      });
+      el.appendChild(btn);
+    });
+  }
+</script>
+
+
+<!-- ===================================================================
+     5. INTEGRAÇÃO NO QUIZ
+     No quiz, áudio é didático: tocar a pergunta para treinar listening
+     =================================================================== -->
+<script>
+  function setupQuizAudio(quizCardElement, currentChar) {
+    const audioBtn = quizCardElement.querySelector('.quiz-audio-trigger');
+    if (!audioBtn) return;
+
+    audioBtn.addEventListener('click', () => {
+      audioBtn.classList.add('playing');
+      HanVerseAudio.speakChinese(currentChar.char, { rate: 0.7 })
+        .finally(() => audioBtn.classList.remove('playing'));
+    });
+
+    // Modo "listening": só áudio, sem mostrar caractere
+    const listeningModeBtn = quizCardElement.querySelector('.listening-mode-btn');
+    if (listeningModeBtn) {
+      listeningModeBtn.addEventListener('click', () => {
+        // esconde o caractere, mostra só opções, toca áudio
+        quizCardElement.querySelector('.character-display').style.visibility = 'hidden';
+        HanVerseAudio.speakChinese(currentChar.char);
+      });
+    }
+  }
+</script>
+
+
+<!-- ===================================================================
+     6. INTEGRAÇÃO NO LABORATÓRIO TONAL
+     Cada um dos 4 tons + neutro: botão para escutar
+     =================================================================== -->
+<script>
+  function setupTonalLab() {
+    const toneExamples = {
+      1: { char: '妈', pinyin: 'mā', desc: 'Tom alto, plano' },
+      2: { char: '麻', pinyin: 'má', desc: 'Tom ascendente' },
+      3: { char: '马', pinyin: 'mǎ', desc: 'Tom descendente-ascendente' },
+      4: { char: '骂', pinyin: 'mà', desc: 'Tom descendente curto' },
+      5: { char: '吗', pinyin: 'ma', desc: 'Tom neutro' }
+    };
+    const lab = document.querySelector('.tonal-lab');
+    if (!lab) return;
+
+    Object.entries(toneExamples).forEach(([tone, data]) => {
+      const card = lab.querySelector(`[data-tone="${tone}"]`);
+      if (!card) return;
+      const btn = HanVerseAudio.createPlayButton(data.char, 'chinese', '▶');
+      btn.classList.add('hv-audio-btn-lg');
+      card.appendChild(btn);
+
+      // Modo "ouvir 3x devagar" — fundamental para iniciantes
+      const slowBtn = document.createElement('button');
+      slowBtn.className = 'hv-audio-btn';
+      slowBtn.textContent = '🐢';
+      slowBtn.setAttribute('aria-label', 'Ouvir devagar 3 vezes');
+      slowBtn.addEventListener('click', async () => {
+        slowBtn.classList.add('playing');
+        for (let i = 0; i < 3; i++) {
+          await HanVerseAudio.speakChinese(data.char, { rate: 0.5 });
+          await new Promise(r => setTimeout(r, 400));
+        }
+        slowBtn.classList.remove('playing');
+      });
+      card.appendChild(slowBtn);
+    });
+  }
+</script>
+
+
+<!-- ===================================================================
+     7. CONFIGURAÇÕES AVANÇADAS (opcional, em modal de settings)
+     Permite usuário escolher voz e velocidade
+     =================================================================== -->
+<script>
+  function buildAudioSettingsUI(container) {
+    const zhVoices = HanVerseAudio.listVoices('zh');
+    const ptVoices = HanVerseAudio.listVoices('pt');
+
+    container.innerHTML = `
+      <h3>🔊 Áudio</h3>
+      <label>
+        Voz em chinês:
+        <select id="hv-voice-zh">
+          <option value="">Automático (recomendado)</option>
+          ${zhVoices.map(v => `<option value="${v.name}">${v.name} (${v.lang})</option>`).join('')}
+        </select>
+      </label>
+      <label>
+        Velocidade caractere:
+        <input type="range" id="hv-rate-zh" min="0.5" max="1.2" step="0.05" value="${HanVerseAudio.config.rate.chinese}">
+        <span id="hv-rate-zh-val">${HanVerseAudio.config.rate.chinese}</span>
+      </label>
+      <button id="hv-test">Testar (你好)</button>
+    `;
+
+    container.querySelector('#hv-voice-zh').addEventListener('change', (e) => {
+      HanVerseAudio.config.preferredVoice.zh = e.target.value || null;
+    });
+    container.querySelector('#hv-rate-zh').addEventListener('input', (e) => {
+      HanVerseAudio.config.rate.chinese = parseFloat(e.target.value);
+      container.querySelector('#hv-rate-zh-val').textContent = e.target.value;
+    });
+    container.querySelector('#hv-test').addEventListener('click', () => {
+      HanVerseAudio.speakChinese('你好');
+    });
+  }
+</script>
+
+
+<!-- ===================================================================
+     OBSERVAÇÕES IMPORTANTES
+     ===================================================================
+     • Web Speech API exige interação do usuário (click) na primeira vez
+       em alguns browsers (Safari/iOS). Sempre dispare via evento, nunca
+       no load.
+     • iOS Safari tem cota de tempo de fala — para frases longas,
+       considere quebrar em chunks.
+     • Vozes chinesas no Android: dependem do "Google TTS" instalado.
+       No iOS: Tingting/Siri Chinese funcionam. No Windows: Huihui (Edge).
+       No macOS: Tingting, Sin-ji.
+     • Para PWA offline: vozes locais (localService=true) funcionam sem
+       rede. Vozes "premium" do Google podem precisar conexão.
+     =================================================================== -->

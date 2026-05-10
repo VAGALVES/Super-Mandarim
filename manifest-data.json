@@ -1,7 +1,7 @@
 {
-  "version": "3.9.6",
+  "version": "4.0.1",
   "generated_from": "HanVerse VS v3.8.1",
-  "characters_total": 2800,
+  "characters_total": 2801,
   "combinations_total": 709,
   "files": [
     "characters-hsk-1.json",
@@ -15,7 +15,7 @@
     "characters-hsk-9.json",
     "combinations.json"
   ],
-  "note": "Arquitetura externa com JSON na raiz para facilitar upload pelo celular.",
+  "note": "Build completo com os 9 JSONs normalizados, módulo de áudio e seed de candidatos faltantes preservado para revisão.",
   "layout": "root-json-files",
   "last_population_wave": {
     "version": "3.9.6",
@@ -33,5 +33,25 @@
       "戈",
       "户"
     ]
+  },
+  "normalization": {
+    "enabled": true,
+    "canonical_categories": 25,
+    "audio_module": "audio-module.js",
+    "source_report": "CHANGES_REPORT.md",
+    "provided_hsk_files_replaced": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missing_seed_file": "missing_characters_seed.json",
+    "missing_seed_count": 40,
+    "missing_seed_new_candidates_not_in_base": 40
   }
 }

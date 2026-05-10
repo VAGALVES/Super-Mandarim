@@ -8,13 +8,13 @@
     "radical": "乙",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "Cultura clássica",
+    "category": "Cultura",
     "note": "Caractere de alta utilidade em Cultura clássica, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "乾 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "乾 carrega o sentido de 'céu; seco em tradicional/contexto clássico' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 乾.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 乾 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "乾隆 · Qianlong",
@@ -30,7 +30,13 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "classico"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "亏",
@@ -41,7 +47,7 @@
     "radical": "二",
     "strokes": 3,
     "level": "HSK 8",
-    "category": "Economia e finanças",
+    "category": "Trabalho",
     "note": "Prejuízo/perda.",
     "evolution": "亏 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -64,7 +70,9 @@
           "亏损 = prejuízo"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_quality_score": 100
   },
   {
     "char": "仟",
@@ -75,13 +83,13 @@
     "radical": "亻",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "Finanças",
+    "category": "Trabalho",
     "note": "Caractere de alta utilidade em Finanças, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "仟 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "仟 carrega o sentido de 'mil em documentos financeiros' e está categorizado em Trabalho. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 仟.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 仟 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "仟元 · mil yuans"
@@ -96,7 +104,11 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "佃",
@@ -107,13 +119,13 @@
     "radical": "亻",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "História e campo",
+    "category": "Cultura",
     "note": "Caractere de alta utilidade em História e campo, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "佃 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "佃 carrega o sentido de 'cultivar terra arrendada' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 佃.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 佃 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "佃户 · arrendatário rural"
@@ -128,7 +140,14 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "lugares",
+      "historia"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "佈",
@@ -139,13 +158,13 @@
     "radical": "亻",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "Tradicional",
+    "category": "Cultura",
     "note": "Caractere de alta utilidade em Tradicional, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "佈 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "佈 carrega o sentido de 'forma tradicional de 布' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 佈.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 佈 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "佈置 · arranjar (trad.)"
@@ -160,7 +179,11 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "侥",
@@ -171,13 +194,13 @@
     "radical": "亻",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "Abstratos",
+    "category": "Descrição",
     "note": "Caractere de alta utilidade em Abstratos, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "侥 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "侥 carrega o sentido de 'por sorte em composição' e está categorizado em Descrição. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 侥.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 侥 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "侥幸 · por sorte"
@@ -192,7 +215,13 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "abstrato"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "傀",
@@ -205,11 +234,11 @@
     "level": "HSK 8",
     "category": "Cultura",
     "note": "Caractere de alta utilidade em Cultura, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "傀 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "傀 carrega o sentido de 'fantoche em composição' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 傀.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 傀 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "傀儡 · fantoche"
@@ -224,7 +253,11 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "儡",
@@ -237,11 +270,11 @@
     "level": "HSK 8",
     "category": "Cultura",
     "note": "Caractere de alta utilidade em Cultura, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "儡 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "儡 carrega o sentido de 'fantoche em composição' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 儡.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 儡 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "傀儡 · fantoche"
@@ -256,7 +289,11 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "兀",
@@ -267,13 +304,13 @@
     "radical": "儿",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "Literário",
+    "category": "Cultura",
     "note": "Caractere de alta utilidade em Literário, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "兀 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "兀 carrega o sentido de 'alto e plano; abrupto' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 兀.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 兀 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "突兀 · abrupto"
@@ -288,7 +325,14 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "literatura",
+      "literario"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "剿",
@@ -299,13 +343,13 @@
     "radical": "刂",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "História",
+    "category": "Cultura",
     "note": "Caractere de alta utilidade em História, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "剿 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "剿 carrega o sentido de 'aniquilar' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 剿.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 剿 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "围剿 · cerco/aniquilação"
@@ -320,7 +364,13 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "historia"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "吁",
@@ -331,13 +381,13 @@
     "radical": "口",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "Comunicação formal",
+    "category": "Comunicação",
     "note": "Caractere útil em Comunicação formal, adicionado para ampliar leitura, vocabulário prático e reconhecimento visual.",
-    "evolution": "吁 será aprofundado em ciclos futuros com evolução gráfica, decomposição histórica e exemplos adicionais.",
+    "evolution": "吁 carrega o sentido de 'suspirar; apelar' e está categorizado em Comunicação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 吁.",
-      "Acompanhe a ordem dos traços na animação.",
-      "Memorize o caractere dentro de palavras compostas."
+      "Estude a estrutura de 吁 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "呼吁 · apelar/chamar"
@@ -352,7 +402,14 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "formal",
+      "visual"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "哉",
@@ -363,13 +420,13 @@
     "radical": "口",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "Cultura clássica",
+    "category": "Cultura",
     "note": "Caractere útil em Cultura clássica, adicionado para ampliar leitura, vocabulário prático e reconhecimento visual.",
-    "evolution": "哉 será aprofundado em ciclos futuros com evolução gráfica, decomposição histórica e exemplos adicionais.",
+    "evolution": "哉 carrega o sentido de 'partícula clássica' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 哉.",
-      "Acompanhe a ordem dos traços na animação.",
-      "Memorize o caractere dentro de palavras compostas."
+      "Estude a estrutura de 哉 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "善哉 · excelente em estilo clássico"
@@ -384,7 +441,15 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "particula",
+      "classico",
+      "visual"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "哲",
@@ -395,7 +460,7 @@
     "radical": "口",
     "strokes": 10,
     "level": "HSK 8",
-    "category": "Filosofia",
+    "category": "Cultura",
     "note": "Base de 哲学, filosofia.",
     "evolution": "哲 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -418,7 +483,11 @@
           "哲学 = filosofia"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "filosofia"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "壬",
@@ -429,13 +498,13 @@
     "radical": "士",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "Cultura clássica",
+    "category": "Cultura",
     "note": "Caractere útil em Cultura clássica, adicionado para ampliar leitura, vocabulário prático e reconhecimento visual.",
-    "evolution": "壬 será aprofundado em ciclos futuros com evolução gráfica, decomposição histórica e exemplos adicionais.",
+    "evolution": "壬 carrega o sentido de 'tronco celeste' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 壬.",
-      "Acompanhe a ordem dos traços na animação.",
-      "Memorize o caractere dentro de palavras compostas."
+      "Estude a estrutura de 壬 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "壬寅 · ano renyin"
@@ -450,7 +519,14 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "classico",
+      "visual"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "夷",
@@ -461,13 +537,13 @@
     "radical": "大",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "História",
+    "category": "Cultura",
     "note": "Caractere útil em História, adicionado para ampliar leitura, vocabulário prático e reconhecimento visual.",
-    "evolution": "夷 será aprofundado em ciclos futuros com evolução gráfica, decomposição histórica e exemplos adicionais.",
+    "evolution": "夷 carrega o sentido de 'antigo termo étnico; plano' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 夷.",
-      "Acompanhe a ordem dos traços na animação.",
-      "Memorize o caractere dentro de palavras compostas."
+      "Estude a estrutura de 夷 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "夷为平地 · arrasar"
@@ -482,7 +558,15 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "historia",
+      "classico",
+      "visual"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "徵",
@@ -493,9 +577,9 @@
     "radical": "彳",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "Cultura clássica",
+    "category": "Cultura",
     "note": "Caractere útil em Cultura clássica, adicionado na expansão v3.7.7.",
-    "evolution": "徵 será aprofundado em ciclos futuros com evolução gráfica e decomposição etimológica.",
+    "evolution": "徵 carrega o sentido de 'nota musical; variante tradicional' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
       "Observe a estrutura de 徵 dentro da grade.",
       "Acompanhe o equilíbrio entre esquerda, centro e direita.",
@@ -514,7 +598,13 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "musica",
+      "classico"
+    ],
+    "_evolution_generated": true,
+    "_quality_score": 90
   },
   {
     "char": "悟",
@@ -525,7 +615,7 @@
     "radical": "忄",
     "strokes": 10,
     "level": "HSK 8",
-    "category": "Filosofia",
+    "category": "Cultura",
     "note": "Perceber/compreender profundamente.",
     "evolution": "悟 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -549,7 +639,11 @@
           "了 = conclusão"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "filosofia"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "慧",
@@ -560,7 +654,7 @@
     "radical": "心",
     "strokes": 15,
     "level": "HSK 8",
-    "category": "Filosofia",
+    "category": "Cultura",
     "note": "Sabedoria/inteligência profunda.",
     "evolution": "慧 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -583,7 +677,12 @@
           "学习 = estudo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "filosofia",
+      "ia"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "盈",
@@ -594,7 +693,7 @@
     "radical": "皿",
     "strokes": 9,
     "level": "HSK 8",
-    "category": "Economia e finanças",
+    "category": "Trabalho",
     "note": "Lucro/ganho em contextos financeiros.",
     "evolution": "盈 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -617,7 +716,9 @@
           "盈利 = lucrar"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_quality_score": 100
   },
   {
     "char": "矩",
@@ -628,7 +729,7 @@
     "radical": "矢",
     "strokes": 9,
     "level": "HSK 8",
-    "category": "Ciência e dados",
+    "category": "Estudo",
     "note": "Regra/forma; usado em 矩阵.",
     "evolution": "矩 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -651,7 +752,12 @@
           "数据分析 = análise de dados"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "tecnologia",
+      "dados"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "籍",
@@ -662,7 +768,7 @@
     "radical": "竹",
     "strokes": 20,
     "level": "HSK 8",
-    "category": "Linguagem formal",
+    "category": "Estudo",
     "note": "Livros/registros.",
     "evolution": "籍 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -684,7 +790,11 @@
           "很重要 = importantes"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "formal"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "维",
@@ -695,7 +805,7 @@
     "radical": "纟",
     "strokes": 11,
     "level": "HSK 8",
-    "category": "Ciência e dados",
+    "category": "Estudo",
     "note": "Dimensão/manutenção.",
     "evolution": "维 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -718,7 +828,12 @@
           "很多维度 = muitas dimensões"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "tecnologia",
+      "dados"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "豫",
@@ -729,13 +844,13 @@
     "radical": "豕",
     "strokes": "auto",
     "level": "HSK 8",
-    "category": "Shanghai",
+    "category": "Cultura",
     "note": "Caractere útil para leitura urbana em Shanghai: placas, mapas, transporte, aeroportos, metrô, ruas e serviços públicos.",
     "evolution": "豫 será aprofundado em rodadas futuras com decomposição urbana, exemplos de placas e vocabulário visual.",
     "steps": [
-      "Observe a estrutura geral de 豫.",
-      "Use a animação fiel para estudar a ordem real dos traços.",
-      "Clique nos números dos traços para revisar cada traço individualmente."
+      "Estude a estrutura de 豫 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "豫园 · Yù Yuán · Jardim Yu"
@@ -750,7 +865,12 @@
           "在上海 = em Shanghai"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "shanghai"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "辟",
@@ -761,7 +881,7 @@
     "radical": "辛",
     "strokes": 13,
     "level": "HSK 8",
-    "category": "Argumentação",
+    "category": "Natureza",
     "note": "Aparece em 批判/辟谣 etc.; útil em leitura formal.",
     "evolution": "辟 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -784,7 +904,11 @@
           "新的领域 = nova área"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "formal"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "释",
@@ -795,7 +919,7 @@
     "radical": "采",
     "strokes": 12,
     "level": "HSK 8",
-    "category": "Abstratos avançados",
+    "category": "Descrição",
     "note": "Explicar/interpretar.",
     "evolution": "释 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -818,7 +942,11 @@
           "这个概念 = este conceito"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "abstrato"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "阵",
@@ -829,7 +957,7 @@
     "radical": "阝",
     "strokes": 6,
     "level": "HSK 8",
-    "category": "Ciência e dados",
+    "category": "Estudo",
     "note": "Formação; parte de 矩阵.",
     "evolution": "阵 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -851,7 +979,12 @@
           "很大 = grande"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "tecnologia",
+      "dados"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "频",
@@ -862,7 +995,7 @@
     "radical": "页",
     "strokes": 13,
     "level": "HSK 8",
-    "category": "Ciência e dados",
+    "category": "Estudo",
     "note": "Frequência.",
     "evolution": "频 fortalece o repertório de HSK 8, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -885,6 +1018,11 @@
           "很高 = alta"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "tecnologia",
+      "dados"
+    ],
+    "_quality_score": 100
   }
 ]

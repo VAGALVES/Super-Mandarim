@@ -1,59 +1,5 @@
 [
   {
-    "char": "业",
-    "traditional": "业",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 业 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "个",
-    "traditional": "个",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 个 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "为",
-    "traditional": "为",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 为 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
     "char": "乩",
     "traditional": "乩",
     "pinyin": "jī",
@@ -64,11 +10,11 @@
     "level": "HSK 9",
     "category": "Cultura",
     "note": "Caractere de alta utilidade em Cultura, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "乩 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "乩 carrega o sentido de 'adivinhação antiga' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 乩.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 乩 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "扶乩 · prática divinatória"
@@ -83,25 +29,13 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
-  },
-  {
-    "char": "买",
-    "traditional": "买",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 买 dentro da grade."
     ],
-    "combinations": [],
-    "examples": []
+    "tags": [
+      "classico"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "亘",
@@ -112,13 +46,13 @@
     "radical": "二",
     "strokes": "auto",
     "level": "HSK 9",
-    "category": "Literário",
+    "category": "Cultura",
     "note": "Caractere de alta utilidade em Literário, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "亘 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "亘 carrega o sentido de 'estender-se através' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 亘.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 亘 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "横亘 · estender-se"
@@ -133,457 +67,14 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
-  },
-  {
-    "char": "什么",
-    "traditional": "什么",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 什么 dentro da grade."
     ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "他",
-    "traditional": "他",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 他 dentro da grade."
+    "tags": [
+      "literatura",
+      "literario"
     ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "们",
-    "traditional": "们",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 们 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "但",
-    "traditional": "但",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 但 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "作",
-    "traditional": "作",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 作 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "几",
-    "traditional": "几",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 几 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "去",
-    "traditional": "去",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 去 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "友",
-    "traditional": "友",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 友 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "名",
-    "traditional": "名",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 名 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "听",
-    "traditional": "听",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 听 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "咖",
-    "traditional": "咖",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 咖 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "哪",
-    "traditional": "哪",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 哪 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "啡",
-    "traditional": "啡",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 啡 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "喜",
-    "traditional": "喜",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 喜 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "因",
-    "traditional": "因",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 因 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "在",
-    "traditional": "在",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 在 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "多",
-    "traditional": "多",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 多 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "大",
-    "traditional": "大",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 大 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "天",
-    "traditional": "天",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 天 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "她",
-    "traditional": "她",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 她 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "字",
-    "traditional": "字",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 字 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "容",
-    "traditional": "容",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 容 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "小",
-    "traditional": "小",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 小 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "少",
-    "traditional": "少",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 少 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "展",
-    "traditional": "展",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 展 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "嵌",
@@ -594,7 +85,7 @@
     "radical": "山",
     "strokes": 12,
     "level": "HSK 9",
-    "category": "Tecnologia e abstração",
+    "category": "Tecnologia",
     "note": "Encaixar/incrustar.",
     "evolution": "嵌 fortalece o repertório de HSK 9, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -617,385 +108,9 @@
           "嵌入式系统 = sistema embarcado"
         ]
       }
-    ]
-  },
-  {
-    "char": "工",
-    "traditional": "工",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 工 dentro da grade."
     ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "年",
-    "traditional": "年",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 年 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "应",
-    "traditional": "应",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 应 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "店",
-    "traditional": "店",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 店 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "建",
-    "traditional": "建",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 建 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "得",
-    "traditional": "得",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 得 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "快",
-    "traditional": "快",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 快 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "想",
-    "traditional": "想",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 想 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "慢",
-    "traditional": "慢",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 慢 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "日",
-    "traditional": "日",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 日 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "昨",
-    "traditional": "昨",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 昨 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "月",
-    "traditional": "月",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 月 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "有",
-    "traditional": "有",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 有 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "朋",
-    "traditional": "朋",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 朋 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "来",
-    "traditional": "来",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 来 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "校",
-    "traditional": "校",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 校 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "次",
-    "traditional": "次",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 次 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "欢",
-    "traditional": "欢",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 欢 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "比",
-    "traditional": "比",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 比 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "求",
-    "traditional": "求",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 求 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "汉",
-    "traditional": "汉",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 汉 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
+    "tags": [],
+    "_quality_score": 100
   },
   {
     "char": "涵",
@@ -1006,7 +121,7 @@
     "radical": "氵",
     "strokes": 11,
     "level": "HSK 9",
-    "category": "Abstratos avançados",
+    "category": "Descrição",
     "note": "Abranger/conter sentido.",
     "evolution": "涵 fortalece o repertório de HSK 9, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -1029,7 +144,11 @@
           "深层涵义 = significado profundo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "abstrato"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "熵",
@@ -1040,7 +159,7 @@
     "radical": "火",
     "strokes": 15,
     "level": "HSK 9",
-    "category": "Ciência e dados",
+    "category": "Estudo",
     "note": "Entropia, conceito usado em física, informação e dados.",
     "evolution": "熵 fortalece o repertório de HSK 9, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -1063,25 +182,12 @@
           "重要概念 = conceito importante"
         ]
       }
-    ]
-  },
-  {
-    "char": "看",
-    "traditional": "看",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 看 dentro da grade."
     ],
-    "combinations": [],
-    "examples": []
+    "tags": [
+      "tecnologia",
+      "dados"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "耦",
@@ -1092,7 +198,7 @@
     "radical": "耒",
     "strokes": 15,
     "level": "HSK 9",
-    "category": "Tecnologia e abstração",
+    "category": "Tecnologia",
     "note": "Acoplamento/ligação técnica.",
     "evolution": "耦 fortalece o repertório de HSK 9, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -1115,25 +221,9 @@
           "低耦合 = baixo acoplamento"
         ]
       }
-    ]
-  },
-  {
-    "char": "茶",
-    "traditional": "茶",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 茶 dentro da grade."
     ],
-    "combinations": [],
-    "examples": []
+    "tags": [],
+    "_quality_score": 100
   },
   {
     "char": "蕴",
@@ -1144,7 +234,7 @@
     "radical": "艹",
     "strokes": 15,
     "level": "HSK 9",
-    "category": "Abstratos avançados",
+    "category": "Descrição",
     "note": "Usado em textos mais cultos para ideia de conter sentido profundo.",
     "evolution": "蕴 fortalece o repertório de HSK 9, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -1167,79 +257,11 @@
           "文化 = cultura"
         ]
       }
-    ]
-  },
-  {
-    "char": "衡",
-    "traditional": "衡",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 衡 dentro da grade."
     ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "要",
-    "traditional": "要",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 要 dentro da grade."
+    "tags": [
+      "abstrato"
     ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "觉",
-    "traditional": "觉",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 觉 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "议",
-    "traditional": "议",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 议 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
+    "_quality_score": 100
   },
   {
     "char": "诠",
@@ -1250,7 +272,7 @@
     "radical": "讠",
     "strokes": 8,
     "level": "HSK 9",
-    "category": "Abstratos avançados",
+    "category": "Descrição",
     "note": "Interpretar/explicar completamente.",
     "evolution": "诠 fortalece o repertório de HSK 9, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -1273,205 +295,11 @@
           "这个概念 = este conceito"
         ]
       }
-    ]
-  },
-  {
-    "char": "该",
-    "traditional": "该",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 该 dentro da grade."
     ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "语",
-    "traditional": "语",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 语 dentro da grade."
+    "tags": [
+      "abstrato"
     ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "说",
-    "traditional": "说",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 说 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "谁",
-    "traditional": "谁",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 谁 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "过",
-    "traditional": "过",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 过 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "这",
-    "traditional": "这",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 这 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "逻",
-    "traditional": "逻",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 逻 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "那",
-    "traditional": "那",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 那 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "量",
-    "traditional": "量",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 量 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "钱",
-    "traditional": "钱",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 钱 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "问",
-    "traditional": "问",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 问 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
+    "_quality_score": 100
   },
   {
     "char": "阐",
@@ -1482,7 +310,7 @@
     "radical": "门",
     "strokes": 11,
     "level": "HSK 9",
-    "category": "Abstratos avançados",
+    "category": "Descrição",
     "note": "Explicar/expor ideias complexas.",
     "evolution": "阐 fortalece o repertório de HSK 9, especialmente para leitura, análise, debate e compreensão de textos mais densos.",
     "steps": [
@@ -1505,114 +333,10 @@
           "你的观点 = seu ponto de vista"
         ]
       }
-    ]
-  },
-  {
-    "char": "院",
-    "traditional": "院",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 院 dentro da grade."
     ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "难",
-    "traditional": "难",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 难 dentro da grade."
+    "tags": [
+      "abstrato"
     ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "需",
-    "traditional": "需",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 需 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "题",
-    "traditional": "题",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 题 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "饭",
-    "traditional": "饭",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 饭 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
-  },
-  {
-    "char": "高",
-    "traditional": "高",
-    "pinyin": "",
-    "tone": 5,
-    "translation": "",
-    "radical": "",
-    "strokes": "auto",
-    "level": "HSK 9",
-    "category": "Migrado",
-    "note": "Registro migrado automaticamente para a arquitetura externa.",
-    "evolution": "Será aprofundado em ciclos futuros.",
-    "steps": [
-      "Observe a estrutura de 高 dentro da grade."
-    ],
-    "combinations": [],
-    "examples": []
+    "_quality_score": 100
   }
 ]

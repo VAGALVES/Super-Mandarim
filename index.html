@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="theme-color" content="#7F1D1D" id="meta-theme" />
-<title>HanVerse VS · MVP 3.9.6 Root JSON Population Wave</title>
+<title>HanVerse VS · MVP 4.0.1 Complete Normalized Audio Build</title>
 <!-- v3.9.6: população incremental via JSON na raiz -->
 <link rel="manifest" href="./manifest.webmanifest" />
 <link rel="icon" type="image/png" sizes="32x32" href="./icon-32.png" />
@@ -2905,13 +2905,17 @@ html[data-theme="parchment"] .v376-board{
   border-color:rgba(129,76,0,.28) !important;
 }
 
+
+/* HanVerse VS · Audio UI v4.0.0 */
+.hv-audio-btn{display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;padding:0;margin:0 4px;border:1px solid rgba(148,163,184,.35);border-radius:999px;background:rgba(148,163,184,.10);color:inherit;font-size:14px;cursor:pointer;transition:transform .15s ease,background .15s ease,border-color .15s ease;user-select:none;vertical-align:middle}.hv-audio-btn:hover{background:rgba(148,163,184,.20);transform:scale(1.06)}.hv-audio-btn:active{transform:scale(.96)}.hv-audio-btn.playing{animation:hv-pulse 1.2s ease-in-out infinite;background:rgba(99,102,241,.24);border-color:rgba(99,102,241,.55)}.hv-audio-btn-lg{width:44px;height:44px;font-size:19px}.hv-audio-warning{position:fixed;left:16px;right:16px;bottom:16px;z-index:9999;max-width:720px;margin:0 auto;padding:12px 14px;border-radius:14px;background:rgba(234,179,8,.14);border:1px solid rgba(234,179,8,.45);color:inherit;box-shadow:0 18px 50px rgba(0,0,0,.20);backdrop-filter:blur(12px);font-size:13px}@keyframes hv-pulse{0%,100%{box-shadow:0 0 0 0 rgba(99,102,241,.36)}50%{box-shadow:0 0 0 8px rgba(99,102,241,0)}}
+
 </style>
 <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.7/dist/hanzi-writer.min.js"></script>
 </head>
 <body>
 <div class="app">
 <header class="topbar">
-  <a class="brand" href="#inicio"><div class="seal"><span>汉</span></div><div><strong>HanVerse VS</strong><small>Mandarim visual, sonoro e estrutural · v3.9.6</small></div></a>
+  <a class="brand" href="#inicio"><div class="seal"><span>汉</span></div><div><strong>HanVerse VS</strong><small>Mandarim visual, sonoro e estrutural · v4.0.1</small></div></a>
   <div class="actions">
     <button class="btn" id="theme">Tema claro/escuro</button>
     <button class="btn" id="focus">Ativar modo claro</button>
@@ -2922,7 +2926,7 @@ html[data-theme="parchment"] .v376-board{
 <main>
 <section class="hero" id="inicio">
   <div class="panel hero-main">
-    <span class="kicker">VS Mandarin Learning Stack</span><span class="version">Evolução 3.9.6</span>
+    <span class="kicker">VS Mandarin Learning Stack</span><span class="version">Evolução 4.0.1</span>
     <h1>Aprenda chinês vendo, ouvindo, escrevendo e decompondo.</h1>
     <p>Um app educacional para brasileiros aprenderem mandarim por camadas: ideograma, pinyin, tom, significado, radical, traços, evolução visual, combinações e uso real em frases.</p>
     <div class="hero-actions"><a class="btn primary" href="#ideogramas">Explorar ideogramas</a><a class="btn" href="#tons">Treinar tons</a><a class="btn" href="#gramatica">Ver gramática</a></div>
@@ -10133,7 +10137,7 @@ setTimeout(safeBootV356, 2500);
 /* v3.8.2 · External Data Architecture
    Loads characters and combinations from /*.json and keeps embedded data as fallback. */
 (function(){
-  const DATA_VERSION = "3.9.6";
+  const DATA_VERSION = "4.0.1";
   const HSK_FILES = [
     "characters-hsk-1.json",
     "characters-hsk-2.json",
@@ -10250,6 +10254,23 @@ setTimeout(safeBootV356, 2500);
     loadExternalData();
   }
 })();
+</script>
+
+<script src="audio-module.js"></script>
+
+<script>
+/* HanVerse VS · Audio Integration v4.0.0 */
+(function(){'use strict';
+function A(){return window.HanVerseAudio&&HanVerseAudio.isAvailable&&HanVerseAudio.isAvailable()}
+function C(s){return /[一-鿿]/.test(s||'')}
+function H(s){var m=String(s||'').match(/[一-鿿]+/);return m?m[0]:''}
+function T(e){return (e&&e.textContent?e.textContent:'').trim()}
+function warn(msg){if(document.querySelector('.hv-audio-warning'))return;var d=document.createElement('div');d.className='hv-audio-warning';d.textContent='⚠️ '+msg;document.body.appendChild(d);setTimeout(function(){d.remove()},8000)}
+function btn(text,label,large){if(!A()||!text)return null;var b=HanVerseAudio.createPlayButton(text,'chinese',label||'🔊');if(large)b.classList.add('hv-audio-btn-lg');return b}
+function inject(card){if(!card||card.dataset.hvAudioReady==='1'||!A())return;var char=H(card.getAttribute('data-char')||T(card.querySelector('[data-char]'))||T(card.querySelector('.character-display'))||T(card.querySelector('.hanzi'))||T(card.querySelector('.char'))||T(card.querySelector('.character'))||T(card.querySelector('h2'))||T(card.querySelector('h3')));if(!char||!C(char))return;var target=card.querySelector('.character-display')||card.querySelector('.hanzi')||card.querySelector('.char')||card.querySelector('.character')||card.querySelector('h2')||card.querySelector('h3');if(target&&!target.querySelector('.hv-audio-btn')){var b=btn(char,'🔊',true);if(b)target.appendChild(b)}var py=card.querySelector('.pinyin-display,.pinyin,[data-pinyin]');var tr=card.querySelector('.translation,[data-translation]');if(py&&!py.querySelector('.hv-audio-sequence')){var s=document.createElement('button');s.type='button';s.className='hv-audio-btn hv-audio-sequence';s.textContent='▶';s.setAttribute('aria-label','Ouvir sequência completa');s.onclick=function(e){e.preventDefault();e.stopPropagation();s.classList.add('playing');HanVerseAudio.speakSequence(char,T(py).replace('▶','').replace('🔊','').trim(),T(tr)).finally(function(){s.classList.remove('playing')})};py.appendChild(s)}card.querySelectorAll('.combination-item,.combo,[data-combination]').forEach(function(el){if(el.querySelector('.hv-audio-btn'))return;var z=el.getAttribute('data-zh')||H(T(el));var b=btn(z);if(b)el.appendChild(b)});card.querySelectorAll('.example-item,.example,[data-example]').forEach(function(el){if(el.querySelector('.hv-audio-btn'))return;var z=el.getAttribute('data-zh')||H(T(el));if(!z)return;var b=document.createElement('button');b.type='button';b.className='hv-audio-btn';b.textContent='🔊';b.onclick=function(e){e.preventDefault();e.stopPropagation();b.classList.add('playing');HanVerseAudio.speakExample(z,null,el.getAttribute('data-pt')||'').finally(function(){b.classList.remove('playing')})};el.appendChild(b)});card.dataset.hvAudioReady='1'}
+function tones(){if(!A())return;var ex={'1':'妈','2':'麻','3':'马','4':'骂','5':'吗'};Object.keys(ex).forEach(function(t){var c=document.querySelector('[data-tone="'+t+'"],.tone-'+t);if(!c||c.dataset.hvToneAudio==='1')return;var b=btn(ex[t],'▶',true);if(b)c.appendChild(b);var slow=document.createElement('button');slow.type='button';slow.className='hv-audio-btn';slow.textContent='🐢';slow.onclick=async function(e){e.preventDefault();e.stopPropagation();slow.classList.add('playing');try{for(let i=0;i<3;i++){await HanVerseAudio.speakChinese(ex[t],{rate:.5});await new Promise(r=>setTimeout(r,350))}}finally{slow.classList.remove('playing')}};c.appendChild(slow);c.dataset.hvToneAudio='1'})}
+function enhance(){if(!A())return;document.querySelectorAll('.character-card,.char-card,.hanzi-card,[data-character-card],.card').forEach(inject);tones()}
+document.addEventListener('DOMContentLoaded',function(){setTimeout(function(){if(!A()){warn('Seu navegador não suporta áudio via Web Speech API.');return}var st=HanVerseAudio.getStatus();if(!st.chineseAvailable)warn('Voz em chinês não detectada. Ative/instale uma voz zh-CN para melhor experiência.');enhance();new MutationObserver(function(){requestAnimationFrame(enhance)}).observe(document.body,{childList:true,subtree:true});window.HanVerseEnhanceAudio=enhance},650)})})();
 </script>
 
 </body>

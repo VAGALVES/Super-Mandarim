@@ -581,3 +581,28 @@ População via JSON na raiz:
 - total aproximado de ideogramas: 2800;
 - total de combinações: 709;
 - foco em radicais 廴, 廾, 弋, 弓, 彐, 彡, 彳, 心/忄, 戈 e 户.
+
+
+## v4.0.0 · Normalized Audio Build
+
+- JSONs normalizados substituídos na raiz: HSK 1, 2, 3, 4, 5, 6 e 8.
+- HSK 7 e HSK 9 preservados do build anterior por não terem sido enviados.
+- `audio-module.js` adicionado na raiz.
+- Integração não invasiva de áudio adicionada ao `index.html`.
+- CSS dos botões de áudio adicionado sem alterar o system design principal.
+- Total detectado de caracteres: 2874.
+- Total detectado de combinações: 709.
+
+
+## v4.0.1 · Complete Normalized Audio Build
+
+Implementações aplicadas:
+
+- Substituídos os 9 JSONs normalizados: HSK 1 a HSK 9.
+- Incorporado `missing_characters_seed.json` como arquivo de candidatos para revisão.
+- Mantido `audio-module.js` na raiz.
+- Mantida integração de áudio por Web Speech API.
+- Total detectado de caracteres nos JSONs HSK: 2801.
+- Total detectado de combinações: 709.
+- Candidatos no seed: 40.
+- Candidatos do seed ainda não presentes na base: 40.

@@ -1,5 +1,27 @@
 # Changelog · HanVerse VS
 
+## v4.0.1 · Complete Normalized Audio Build
+
+- Substituídos os JSONs HSK 7 e HSK 9 enviados.
+- Todos os HSK 1-9 agora usam os arquivos normalizados enviados.
+- Incorporado `missing_characters_seed.json` como seed de revisão.
+- Total detectado de caracteres: 2801.
+- Total de combinações detectado: 709.
+- Candidatos no seed: 40.
+- Candidatos do seed ainda não presentes na base: 40.
+
+
+## v4.0.0 · Normalized Audio Build
+
+- Substituídos os JSONs HSK enviados pelo usuário: 1, 2, 3, 4, 5, 6 e 8.
+- Mantidos HSK 7 e HSK 9 do build anterior.
+- Adicionado módulo `audio-module.js`.
+- Integrado áudio por Web Speech API no `index.html`.
+- Mantida a mecânica principal do app.
+- Total de caracteres detectado: 2874.
+- Total de combinações detectado: 709.
+
+
 ## v3.9.6 · Root JSON Population Wave
 
 - Nova onda de população diretamente nos JSON da raiz.

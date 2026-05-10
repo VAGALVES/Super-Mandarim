@@ -1,7 +1,7 @@
 {
   "name": "HanVerse VS",
   "short_name": "HanVerse",
-  "description": "HanVerse VS v3.9.6 com nova onda de população via JSON na raiz.",
+  "description": "HanVerse VS v4.0.1 com todos os HSK normalizados, áudio Web Speech API e seed de caracteres faltantes.",
   "lang": "pt-BR",
   "dir": "ltr",
   "start_url": "./index.html",
@@ -35,5 +35,6 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ]
+  ],
+  "version": "4.0.1"
 }

@@ -10,11 +10,11 @@
     "level": "HSK 1",
     "category": "Números",
     "note": "Número básico e traço fundamental da escrita chinesa.",
-    "evolution": "一 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "一 carrega o sentido de 'um' e está categorizado em Números. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 一 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "一 tem 1 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "一个 · yí ge · um",
@@ -32,7 +32,11 @@
           "一本书 = um livro"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "七",
@@ -45,11 +49,11 @@
     "level": "HSK 1",
     "category": "Números",
     "note": "Número sete. Treina o som q do pinyin.",
-    "evolution": "七 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "七 carrega o sentido de 'sete' e está categorizado em Números. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 七 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "七 tem 2 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "七月 · qī yuè · julho",
@@ -67,7 +71,13 @@
           "学校 = escola"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "som"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "三",
@@ -80,11 +90,11 @@
     "level": "HSK 1",
     "category": "Números",
     "note": "Número três. Estrutura visual simples com três traços horizontais.",
-    "evolution": "三 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "三 carrega o sentido de 'três' e está categorizado em Números. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 三 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "三 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "三个人 · sān ge rén · três pessoas",
@@ -102,7 +112,13 @@
           "三个人 = três pessoas"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "visual"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "上",
@@ -113,13 +129,13 @@
     "radical": "一",
     "strokes": 3,
     "level": "HSK 1",
-    "category": "Direção e tempo",
+    "category": "Tempo",
     "note": "Indica cima, anterioridade e ação de ir/subir.",
-    "evolution": "上 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "上 carrega o sentido de 'cima; anterior; subir' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 上 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "上 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "上午 · shàngwǔ · manhã",
@@ -137,7 +153,13 @@
           "上课 = ter aula"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "tempo"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "下",
@@ -148,13 +170,13 @@
     "radical": "一",
     "strokes": 3,
     "level": "HSK 1",
-    "category": "Direção e tempo",
+    "category": "Tempo",
     "note": "Indica baixo, próximo período e movimento para baixo.",
-    "evolution": "下 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "下 carrega o sentido de 'baixo; próximo; descer' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 下 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "下 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "下午 · xiàwǔ · tarde",
@@ -172,7 +194,14 @@
           "工作 = trabalhar"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "tempo",
+      "movimento"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "不",
@@ -209,7 +238,11 @@
           "老师 = professor"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "negacao"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "中",
@@ -220,7 +253,7 @@
     "radical": "丨",
     "strokes": 4,
     "level": "HSK 1",
-    "category": "Lugares e cultura",
+    "category": "Lugares",
     "note": "Ideia de centro/meio. Aparece em 中国.",
     "evolution": "Algo atravessando o centro de uma forma delimitada.",
     "steps": [
@@ -244,7 +277,11 @@
           "中国 = China"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "cultura"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "九",
@@ -257,11 +294,11 @@
     "level": "HSK 1",
     "category": "Números",
     "note": "Número nove. Treina j do pinyin e terceiro tom.",
-    "evolution": "九 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "九 carrega o sentido de 'nove' e está categorizado em Números. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 九 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "九 tem 2 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "九月 · jiǔ yuè · setembro",
@@ -277,7 +314,11 @@
           "九点 = nove horas"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "也",
@@ -292,9 +333,9 @@
     "note": "Advérbio usado para adicionar informação semelhante.",
     "evolution": "也 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 也 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "也 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "我也 · wǒ yě · eu também",
@@ -312,7 +353,10 @@
           "中文 = chinês"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "习",
@@ -327,9 +371,9 @@
     "note": "Parte de 学习.",
     "evolution": "习 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 习 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "习 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "学习 · xuéxí · estudar",
@@ -346,7 +390,10 @@
           "学习 = estudar"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "书",
@@ -357,7 +404,7 @@
     "radical": "乛",
     "strokes": 4,
     "level": "HSK 1",
-    "category": "Estudo e trabalho",
+    "category": "Estudo",
     "note": "Caractere essencial para estudo e leitura.",
     "evolution": "A forma tradicional 書 preserva associação com escrita/documento.",
     "steps": [
@@ -382,7 +429,11 @@
           "书 = livro"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "trabalho"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "了",
@@ -397,9 +448,9 @@
     "note": "Indica mudança de estado ou conclusão de uma ação, dependendo do contexto.",
     "evolution": "了 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 了 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "了 tem 2 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "好了 · hǎo le · ficou bom/pronto",
@@ -417,7 +468,12 @@
           "了 = mudança/conclusão"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "particula"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "二",
@@ -430,11 +486,11 @@
     "level": "HSK 1",
     "category": "Números",
     "note": "Número dois. Muito frequente em datas, quantidade e contagem.",
-    "evolution": "二 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "二 carrega o sentido de 'dois' e está categorizado em Números. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 二 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "二 tem 2 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "二月 · èr yuè · fevereiro",
@@ -453,7 +509,13 @@
           "块钱 = dinheiro/kuai"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "dados"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "五",
@@ -466,11 +528,11 @@
     "level": "HSK 1",
     "category": "Números",
     "note": "Número cinco. Atenção ao terceiro tom.",
-    "evolution": "五 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "五 carrega o sentido de 'cinco' e está categorizado em Números. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 五 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "五 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "五月 · wǔ yuè · maio",
@@ -487,7 +549,11 @@
           "五日 = dia cinco"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "京",
@@ -500,11 +566,11 @@
     "level": "HSK 1",
     "category": "Lugares",
     "note": "Aparece em 北京.",
-    "evolution": "京 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "京 carrega o sentido de 'capital' e está categorizado em Lugares. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 京 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 京 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "北京 · Běijīng · Pequim",
@@ -521,7 +587,11 @@
           "北京 = Pequim"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "人",
@@ -555,7 +625,9 @@
           "中国人 = chinês"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_quality_score": 100
   },
   {
     "char": "会",
@@ -566,13 +638,13 @@
     "radical": "人",
     "strokes": 6,
     "level": "HSK 1",
-    "category": "Verbos modais",
+    "category": "Pessoas",
     "note": "Expressa habilidade aprendida.",
-    "evolution": "会 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "会 carrega o sentido de 'saber; reunião; poder' e está categorizado em Pessoas. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 会 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 会 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "会说 · huì shuō · saber falar",
@@ -589,7 +661,13 @@
           "说中文 = falar chinês"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "roupa"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "你",
@@ -623,7 +701,11 @@
           "吗 = pergunta"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "pronome"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "做",
@@ -636,11 +718,11 @@
     "level": "HSK 1",
     "category": "Ação",
     "note": "Caractere de alta utilidade em Ação, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "做 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "做 carrega o sentido de 'fazer' e está categorizado em Ação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 做.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 做 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "做饭 · cozinhar",
@@ -656,7 +738,11 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "儿",
@@ -669,11 +755,11 @@
     "level": "HSK 1",
     "category": "Família",
     "note": "Aparece em 儿子.",
-    "evolution": "儿 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "儿 carrega o sentido de 'filho; criança' e está categorizado em Família. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 儿 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "儿 tem 2 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "儿子 · érzi · filho",
@@ -690,7 +776,11 @@
           "一个儿子 = um filho"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "元",
@@ -705,9 +795,9 @@
     "note": "Unidade monetária formal da China.",
     "evolution": "元 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 元 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "元 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "十元 · shí yuán · dez yuan",
@@ -723,7 +813,12 @@
           "十元 = dez yuan"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "formal"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "先",
@@ -736,11 +831,11 @@
     "level": "HSK 1",
     "category": "Tempo",
     "note": "Caractere de alta utilidade em Tempo, adicionado na expansão acelerada rumo aos 3.000 caracteres.",
-    "evolution": "先 será aprofundado em ciclos futuros com decomposição etimológica, evolução gráfica e mais exemplos.",
+    "evolution": "先 carrega o sentido de 'primeiro; antes' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a estrutura geral de 先.",
-      "Use a animação fiel para estudar a ordem dos traços.",
-      "Revise o caractere dentro de combinações frequentes."
+      "Estude a estrutura de 先 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "先生 · senhor/professor",
@@ -756,7 +851,11 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "八",
@@ -769,11 +868,11 @@
     "level": "HSK 1",
     "category": "Números",
     "note": "Número oito. Som b não aspirado no pinyin.",
-    "evolution": "八 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "八 carrega o sentido de 'oito' e está categorizado em Números. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 八 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "八 tem 2 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "八月 · bā yuè · agosto",
@@ -789,7 +888,13 @@
           "很热 = muito quente"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "som"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "六",
@@ -802,11 +907,11 @@
     "level": "HSK 1",
     "category": "Números",
     "note": "Número seis. Pronúncia curta com quarto tom.",
-    "evolution": "六 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "六 carrega o sentido de 'seis' e está categorizado em Números. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 六 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "六 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "六月 · liù yuè · junho",
@@ -822,7 +927,11 @@
           "六点 = seis horas"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "再",
@@ -837,9 +946,9 @@
     "note": "Usado em 再见 e para repetição.",
     "evolution": "再 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 再 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 再 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "再见 · zàijiàn · até logo",
@@ -855,7 +964,10 @@
           "再见 = até logo"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "写",
@@ -866,13 +978,13 @@
     "radical": "冖",
     "strokes": 5,
     "level": "HSK 1",
-    "category": "Ações e estudo",
+    "category": "Estudo",
     "note": "Verbo essencial para escrita.",
-    "evolution": "写 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "写 carrega o sentido de 'escrever' e está categorizado em Estudo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 写 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "写 tem 5 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "写字 · xiě zì · escrever caracteres",
@@ -889,7 +1001,13 @@
           "汉字 = caracteres chineses"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "estudo"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "分",
@@ -900,13 +1018,13 @@
     "radical": "刀",
     "strokes": 4,
     "level": "HSK 1",
-    "category": "Análise e estudo",
+    "category": "Estudo",
     "note": "Também aparece em 分析, 分钟, 分数.",
     "evolution": "分 foi adicionado para fortalecer leitura e vocabulário funcional do HSK 1, com foco em palavras compostas e frases úteis.",
     "steps": [
-      "Observe a estrutura geral de 分.",
-      "Identifique radical, componente semântico e possível componente fonético.",
-      "Escreva mantendo proporção, ordem visual e equilíbrio entre as partes."
+      "分 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "分析 · fēnxī · análise",
@@ -924,7 +1042,10 @@
           "数据 = dados"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "北",
@@ -937,11 +1058,11 @@
     "level": "HSK 1",
     "category": "Lugares",
     "note": "Direção norte. Aparece em 北京.",
-    "evolution": "北 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "北 carrega o sentido de 'norte' e está categorizado em Lugares. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 北 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "北 tem 5 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "北京 · Běijīng · Pequim",
@@ -957,7 +1078,11 @@
           "很大 = grande"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "十",
@@ -970,11 +1095,11 @@
     "level": "HSK 1",
     "category": "Números",
     "note": "Número dez. Muito produtivo para formar dezenas.",
-    "evolution": "十 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "十 carrega o sentido de 'dez' e está categorizado em Números. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 十 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "十 tem 2 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "十月 · shí yuè · outubro",
@@ -992,7 +1117,11 @@
           "十本书 = dez livros"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "午",
@@ -1005,11 +1134,11 @@
     "level": "HSK 1",
     "category": "Tempo",
     "note": "Usado em 上午, 中午, 下午.",
-    "evolution": "午 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "午 carrega o sentido de 'meio-dia' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 午 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "午 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "上午 · shàngwǔ · manhã",
@@ -1027,7 +1156,11 @@
           "吃饭 = comer"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "口",
@@ -1038,13 +1171,13 @@
     "radical": "口",
     "strokes": 3,
     "level": "HSK 1",
-    "category": "Corpo e lugar",
+    "category": "Corpo",
     "note": "Boca; também entrada/abertura.",
-    "evolution": "口 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "口 carrega o sentido de 'boca; entrada' e está categorizado em Corpo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 口 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "口 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "门口 · ménkǒu · entrada",
@@ -1061,7 +1194,14 @@
           "人 = pessoa"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "lugares",
+      "cor"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "叫",
@@ -1072,13 +1212,13 @@
     "radical": "口",
     "strokes": 5,
     "level": "HSK 1",
-    "category": "Identidade",
+    "category": "Pessoas",
     "note": "Usado para dizer o nome.",
     "evolution": "叫 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 叫 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "叫 tem 5 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "叫什么 · jiào shénme · chamar-se o quê",
@@ -1095,7 +1235,10 @@
           "Vagner = nome"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "吃",
@@ -1106,7 +1249,7 @@
     "radical": "口",
     "strokes": 6,
     "level": "HSK 1",
-    "category": "Comida e bebida",
+    "category": "Comida",
     "note": "Verbo essencial do cotidiano. O radical 口 indica boca.",
     "evolution": "Composição ligada à boca.",
     "steps": [
@@ -1129,7 +1272,11 @@
           "吃饭 = comer/refeição"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "bebida"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "同",
@@ -1144,9 +1291,9 @@
     "note": "Aparece em 同学, colega de estudo.",
     "evolution": "同 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 同 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 同 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "同学 · tóngxué · colega/aluno",
@@ -1164,7 +1311,10 @@
           "同学 = colega"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "吗",
@@ -1199,7 +1349,12 @@
           "吗 = pergunta"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "particula",
+      "interrogativo"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "呢",
@@ -1214,9 +1369,9 @@
     "note": "Usada para devolver uma pergunta ou marcar tópico em perguntas simples.",
     "evolution": "呢 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 呢 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 呢 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "你呢 · nǐ ne · e você?",
@@ -1233,7 +1388,13 @@
           "你呢 = e você?"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "particula",
+      "interrogativo"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "和",
@@ -1244,13 +1405,13 @@
     "radical": "口",
     "strokes": 8,
     "level": "HSK 1",
-    "category": "Conectores",
+    "category": "Gramática",
     "note": "Conecta substantivos ou nomes. Também pode significar 'com' em alguns contextos.",
     "evolution": "和 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 和 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 和 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "我和你 · wǒ hé nǐ · eu e você",
@@ -1267,7 +1428,12 @@
           "中文 = chinês"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "conector"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "喂",
@@ -1282,9 +1448,9 @@
     "note": "Usado ao atender telefone: alô.",
     "evolution": "喂 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 喂 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "喂 tem 12 traços — divida em blocos visuais (cima/baixo ou esquerda/direita).",
+      "Pratique cada bloco separadamente antes de uni-los.",
+      "Use as combinações como contexto: caracteres complexos fixam melhor em palavras reais."
     ],
     "combinations": [
       "喂，你好 · wèi, nǐ hǎo · alô, olá",
@@ -1300,7 +1466,10 @@
           "你好 = olá"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "喝",
@@ -1311,7 +1480,7 @@
     "radical": "口",
     "strokes": 12,
     "level": "HSK 1",
-    "category": "Comida e bebida",
+    "category": "Comida",
     "note": "Verbo usado para líquidos.",
     "evolution": "O radical de boca indica ação oral.",
     "steps": [
@@ -1336,7 +1505,11 @@
           "吗 = pergunta"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "bebida"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "四",
@@ -1349,11 +1522,11 @@
     "level": "HSK 1",
     "category": "Números",
     "note": "Número quatro. Atenção ao quarto tom descendente.",
-    "evolution": "四 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "四 carrega o sentido de 'quatro' e está categorizado em Números. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 四 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "四 tem 5 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "四月 · sì yuè · abril",
@@ -1370,7 +1543,11 @@
           "四本书 = quatro livros"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "国",
@@ -1381,7 +1558,7 @@
     "radical": "囗",
     "strokes": 8,
     "level": "HSK 1",
-    "category": "Lugares e cultura",
+    "category": "Lugares",
     "note": "Usado em nomes de países.",
     "evolution": "A forma tradicional indica território protegido.",
     "steps": [
@@ -1405,7 +1582,11 @@
           "大 = grande"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "cultura"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "坐",
@@ -1416,13 +1597,13 @@
     "radical": "土",
     "strokes": 7,
     "level": "HSK 1",
-    "category": "Ações",
+    "category": "Ação",
     "note": "Verbo básico de postura.",
-    "evolution": "坐 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "坐 carrega o sentido de 'sentar' e está categorizado em Ação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 坐 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 坐 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "坐下 · zuò xià · sentar-se",
@@ -1438,7 +1619,11 @@
           "坐 = sentar"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "块",
@@ -1453,9 +1638,9 @@
     "note": "Unidade informal de dinheiro chinês e classificador.",
     "evolution": "块 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 块 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 块 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "十块钱 · shí kuài qián · dez kuai",
@@ -1471,7 +1656,13 @@
           "十块钱 = dez kuai"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "classificador",
+      "informal"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "太",
@@ -1486,9 +1677,9 @@
     "note": "Indica intensidade excessiva ou enfática.",
     "evolution": "太 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 太 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "太 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "太好了 · tài hǎo le · ótimo",
@@ -1507,7 +1698,10 @@
           "了 = mudança/ênfase"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "女",
@@ -1518,13 +1712,13 @@
     "radical": "女",
     "strokes": 3,
     "level": "HSK 1",
-    "category": "Família e pessoas",
+    "category": "Família",
     "note": "Caractere importante para feminino e relações familiares.",
-    "evolution": "女 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "女 carrega o sentido de 'mulher; feminino' e está categorizado em Família. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 女 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "女 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "女儿 · nǚ'ér · filha",
@@ -1543,7 +1737,13 @@
           "女儿 = filha"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "pessoas"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "好",
@@ -1554,7 +1754,7 @@
     "radical": "女",
     "strokes": 6,
     "level": "HSK 1",
-    "category": "Estados e qualidades",
+    "category": "Descrição",
     "note": "Une 女 e 子. Significa bom, bem, adequado.",
     "evolution": "Composição antiga envolvendo mulher e criança.",
     "steps": [
@@ -1578,7 +1778,9 @@
           "好 = bem"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_quality_score": 100
   },
   {
     "char": "妈",
@@ -1591,11 +1793,11 @@
     "level": "HSK 1",
     "category": "Família",
     "note": "Forma familiar para mãe.",
-    "evolution": "妈 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "妈 carrega o sentido de 'mãe' e está categorizado em Família. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 妈 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 妈 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "妈妈 · māma · mãe",
@@ -1611,7 +1813,11 @@
           "在家 = em casa"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "姓",
@@ -1622,13 +1828,13 @@
     "radical": "女",
     "strokes": 8,
     "level": "HSK 1",
-    "category": "Identidade",
+    "category": "Pessoas",
     "note": "Usado para perguntar sobrenome.",
     "evolution": "姓 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 姓 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 姓 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "你姓什么 · nǐ xìng shénme · qual é seu sobrenome",
@@ -1645,7 +1851,12 @@
           "什么 = o quê"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "interrogativo"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "子",
@@ -1656,13 +1867,13 @@
     "radical": "子",
     "strokes": 3,
     "level": "HSK 1",
-    "category": "Família e objetos",
+    "category": "Família",
     "note": "Componente muito produtivo em palavras.",
-    "evolution": "子 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "子 carrega o sentido de 'filho; sufixo nominal' e está categorizado em Família. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 子 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "子 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "儿子 · érzi · filho",
@@ -1681,7 +1892,13 @@
           "儿子 = filho"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "objetos"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "学",
@@ -1692,7 +1909,7 @@
     "radical": "子",
     "strokes": 8,
     "level": "HSK 1",
-    "category": "Estudo e trabalho",
+    "category": "Estudo",
     "note": "Base de palavras ligadas a estudo.",
     "evolution": "A forma tradicional sugere estrutura de aprendizado.",
     "steps": [
@@ -1716,7 +1933,11 @@
           "中文 = chinês"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "trabalho"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "它",
@@ -1727,9 +1948,9 @@
     "radical": "宀",
     "strokes": "auto",
     "level": "HSK 1",
-    "category": "Pronomes",
+    "category": "Pessoas",
     "note": "Caractere útil em Pronomes, adicionado na expansão v3.6.2.",
-    "evolution": "它 será aprofundado em ciclos futuros com evolução gráfica e decomposição etimológica.",
+    "evolution": "它 carrega o sentido de 'ele/ela para coisas/animais' e está categorizado em Pessoas. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
       "Observe a estrutura de 它.",
       "Acompanhe a ordem dos traços.",
@@ -1749,7 +1970,12 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "pronome"
+    ],
+    "_evolution_generated": true,
+    "_quality_score": 90
   },
   {
     "char": "家",
@@ -1760,13 +1986,13 @@
     "radical": "宀",
     "strokes": 10,
     "level": "HSK 1",
-    "category": "Educação e trabalho",
+    "category": "Estudo",
     "note": "Também forma palavras como 专家, especialista.",
     "evolution": "家 foi adicionado para fortalecer leitura e vocabulário funcional do HSK 1, com foco em palavras compostas e frases úteis.",
     "steps": [
-      "Observe a estrutura geral de 家.",
-      "Identifique radical, componente semântico e possível componente fonético.",
-      "Escreva mantendo proporção, ordem visual e equilíbrio entre as partes."
+      "Decomponha 家 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "专家 · zhuānjiā · especialista",
@@ -1784,7 +2010,12 @@
           "专家 = especialista"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "trabalho"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "山",
@@ -1799,9 +2030,9 @@
     "note": "Montanha; também aparece em nomes de lugares.",
     "evolution": "山 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 山 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "山 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "火山 · huǒshān · vulcão",
@@ -1818,7 +2049,10 @@
           "山 = montanha"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "师",
@@ -1829,13 +2063,13 @@
     "radical": "巾",
     "strokes": 6,
     "level": "HSK 1",
-    "category": "Estudo e trabalho",
+    "category": "Estudo",
     "note": "Parte de 老师.",
     "evolution": "师 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 师 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 师 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "老师 · lǎoshī · professor",
@@ -1852,7 +2086,12 @@
           "老师 = professora"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "trabalho"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "很",
@@ -1867,9 +2106,9 @@
     "note": "Frequentemente aparece antes de adjetivos. Nem sempre deve ser traduzido literalmente como 'muito'.",
     "evolution": "很 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 很 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 很 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "很好 · hěn hǎo · muito bem/bom",
@@ -1887,7 +2126,10 @@
           "好 = bom"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "您",
@@ -1898,13 +2140,13 @@
     "radical": "心",
     "strokes": "auto",
     "level": "HSK 1",
-    "category": "Cortesia",
+    "category": "Descrição",
     "note": "Caractere útil em Cortesia, adicionado na expansão v3.9.6.",
-    "evolution": "您 será aprofundado em ciclos futuros com evolução gráfica, composição e exemplos contextualizados.",
+    "evolution": "您 carrega o sentido de 'você formal' e está categorizado em Descrição. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 您 dentro da grade.",
-      "Identifique o radical ou componente dominante.",
-      "Revise o caractere dentro de palavras compostas e frases reais."
+      "Estude a estrutura de 您 observando seus componentes principais.",
+      "Pratique a ordem dos traços usando a animação no app.",
+      "Repita o caractere em contexto através das combinações."
     ],
     "combinations": [
       "您好 · olá formal",
@@ -1920,7 +2162,14 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "cor",
+      "formal"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "我",
@@ -1954,7 +2203,11 @@
           "巴西人 = brasileiro"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "pronome"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "手",
@@ -1967,11 +2220,11 @@
     "level": "HSK 1",
     "category": "Corpo",
     "note": "Caractere essencial para corpo e ações manuais.",
-    "evolution": "手 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "手 carrega o sentido de 'mão' e está categorizado em Corpo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 手 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "手 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "手机 · shǒujī · celular",
@@ -1988,7 +2241,13 @@
           "很好 = bem"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "cor"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "打",
@@ -2001,7 +2260,7 @@
     "level": "HSK 1",
     "category": "Ação",
     "note": "Caractere útil em Ação, adicionado na expansão v3.7.7.",
-    "evolution": "打 será aprofundado em ciclos futuros com evolução gráfica e decomposição etimológica.",
+    "evolution": "打 carrega o sentido de 'bater; fazer; ligar' e está categorizado em Ação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
       "Observe a estrutura de 打 dentro da grade.",
       "Acompanhe o equilíbrio entre esquerda, centro e direita.",
@@ -2022,7 +2281,10 @@
           "例句 = frase de exemplo"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_evolution_generated": true,
+    "_quality_score": 90
   },
   {
     "char": "文",
@@ -2033,7 +2295,7 @@
     "radical": "文",
     "strokes": 4,
     "level": "HSK 1",
-    "category": "Tecnologia e linguagem",
+    "category": "Tecnologia",
     "note": "Também aparece em 文件.",
     "evolution": "文 amplia o repertório do HSK 1, conectando reconhecimento visual, uso em palavras compostas e aplicação em frases reais.",
     "steps": [
@@ -2055,7 +2317,11 @@
           "很重要 = importante"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "estudo"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "早",
@@ -2068,11 +2334,11 @@
     "level": "HSK 1",
     "category": "Tempo",
     "note": "Usado em 早上 e 早安.",
-    "evolution": "早 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "早 carrega o sentido de 'cedo; manhã' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 早 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 早 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "早上 · zǎoshang · manhã",
@@ -2088,7 +2354,11 @@
           "好 = bom"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "时",
@@ -2101,11 +2371,11 @@
     "level": "HSK 1",
     "category": "Tempo",
     "note": "Caractere central para tempo.",
-    "evolution": "时 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "时 carrega o sentido de 'tempo; hora' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 时 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 时 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "时间 · shíjiān · tempo",
@@ -2122,7 +2392,11 @@
           "时间 = tempo"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "明",
@@ -2133,13 +2407,13 @@
     "radical": "日",
     "strokes": 8,
     "level": "HSK 1",
-    "category": "Análise e estudo",
+    "category": "Estudo",
     "note": "Também aparece em 证明, 明白.",
     "evolution": "明 foi adicionado para fortalecer leitura e vocabulário funcional do HSK 1, com foco em palavras compostas e frases úteis.",
     "steps": [
-      "Observe a estrutura geral de 明.",
-      "Identifique radical, componente semântico e possível componente fonético.",
-      "Escreva mantendo proporção, ordem visual e equilíbrio entre as partes."
+      "Decomponha 明 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "明白 · míngbai · entender",
@@ -2157,7 +2431,10 @@
           "了 = conclusão"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "是",
@@ -2168,7 +2445,7 @@
     "radical": "日",
     "strokes": 9,
     "level": "HSK 1",
-    "category": "Verbos essenciais",
+    "category": "Ação",
     "note": "Verbo usado para identificação.",
     "evolution": "Função central em frases de identidade.",
     "steps": [
@@ -2191,7 +2468,9 @@
           "老师 = professor"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_quality_score": 100
   },
   {
     "char": "晚",
@@ -2204,11 +2483,11 @@
     "level": "HSK 1",
     "category": "Tempo",
     "note": "Usado em 晚上, noite.",
-    "evolution": "晚 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "晚 carrega o sentido de 'tarde; noite' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 晚 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "晚 tem 11 traços — divida em blocos visuais (cima/baixo ou esquerda/direita).",
+      "Pratique cada bloco separadamente antes de uni-los.",
+      "Use as combinações como contexto: caracteres complexos fixam melhor em palavras reais."
     ],
     "combinations": [
       "晚上 · wǎnshang · noite",
@@ -2225,7 +2504,11 @@
           "看书 = ler"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "本",
@@ -2236,13 +2519,13 @@
     "radical": "木",
     "strokes": 5,
     "level": "HSK 1",
-    "category": "Negócios e estudo",
+    "category": "Trabalho",
     "note": "Também aparece em 成本.",
     "evolution": "本 foi adicionado para fortalecer leitura e vocabulário funcional do HSK 1, com foco em palavras compostas e frases úteis.",
     "steps": [
-      "Observe a estrutura geral de 本.",
-      "Identifique radical, componente semântico e possível componente fonético.",
-      "Escreva mantendo proporção, ordem visual e equilíbrio entre as partes."
+      "本 tem 5 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "成本 · chéngběn · custo",
@@ -2259,7 +2542,13 @@
           "很高 = alto"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "estudo",
+      "classificador"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "果",
@@ -2270,7 +2559,7 @@
     "radical": "木",
     "strokes": 8,
     "level": "HSK 1",
-    "category": "Conectores e comida",
+    "category": "Gramática",
     "note": "Também parte de 如果.",
     "evolution": "果 amplia o repertório do HSK 1, conectando reconhecimento visual, uso em palavras compostas e aplicação em frases reais.",
     "steps": [
@@ -2294,7 +2583,13 @@
           "我不去 = eu não vou"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "comida",
+      "fruta",
+      "conector"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "气",
@@ -2305,13 +2600,13 @@
     "radical": "气",
     "strokes": 4,
     "level": "HSK 1",
-    "category": "Natureza e clima",
+    "category": "Natureza",
     "note": "Aparece em 天气.",
     "evolution": "气 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 气 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "气 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "天气 · tiānqì · clima",
@@ -2328,7 +2623,12 @@
           "很好 = bom"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "clima"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "水",
@@ -2363,7 +2663,9 @@
           "水 = água"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_quality_score": 100
   },
   {
     "char": "没",
@@ -2378,9 +2680,9 @@
     "note": "Usado para negar 有 e muitas ações concluídas no passado.",
     "evolution": "没 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 没 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 没 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "没有 · méiyǒu · não ter/não haver",
@@ -2398,7 +2700,12 @@
           "钱 = dinheiro"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "negacao"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "火",
@@ -2434,7 +2741,9 @@
           "快 = rápido"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_quality_score": 100
   },
   {
     "char": "点",
@@ -2445,13 +2754,13 @@
     "radical": "灬",
     "strokes": 9,
     "level": "HSK 1",
-    "category": "Qualidade",
+    "category": "Descrição",
     "note": "Também parte de 缺点, defeito/ponto fraco.",
     "evolution": "点 foi adicionado para fortalecer leitura e vocabulário funcional do HSK 1, com foco em palavras compostas e frases úteis.",
     "steps": [
-      "Observe a estrutura geral de 点.",
-      "Identifique radical, componente semântico e possível componente fonético.",
-      "Escreva mantendo proporção, ordem visual e equilíbrio entre as partes."
+      "Decomponha 点 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "缺点 · quēdiǎn · defeito",
@@ -2469,7 +2778,10 @@
           "优点 = pontos fortes"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "爱",
@@ -2504,7 +2816,9 @@
           "家人 = familiares"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_quality_score": 100
   },
   {
     "char": "爸",
@@ -2517,11 +2831,11 @@
     "level": "HSK 1",
     "category": "Família",
     "note": "Forma familiar para pai.",
-    "evolution": "爸 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "爸 carrega o sentido de 'pai' e está categorizado em Família. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 爸 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 爸 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "爸爸 · bàba · pai",
@@ -2537,7 +2851,11 @@
           "很好 = muito bom"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "现",
@@ -2550,11 +2868,11 @@
     "level": "HSK 1",
     "category": "Tempo",
     "note": "Aparece em 现在, agora.",
-    "evolution": "现 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "现 carrega o sentido de 'aparecer; atual' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 现 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 现 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "现在 · xiànzài · agora",
@@ -2571,7 +2889,11 @@
           "学习 = estudar"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "生",
@@ -2582,7 +2904,7 @@
     "radical": "生",
     "strokes": 5,
     "level": "HSK 1",
-    "category": "Estudo e trabalho",
+    "category": "Estudo",
     "note": "Aparece em 学生, estudante.",
     "evolution": "Associado à imagem de uma planta brotando.",
     "steps": [
@@ -2606,7 +2928,11 @@
           "学生 = estudante"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "trabalho"
+    ],
+    "_quality_score": 100
   },
   {
     "char": "电",
@@ -2642,7 +2968,9 @@
           "电脑 = computador"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_quality_score": 100
   },
   {
     "char": "男",
@@ -2653,13 +2981,13 @@
     "radical": "田",
     "strokes": 7,
     "level": "HSK 1",
-    "category": "Família e pessoas",
+    "category": "Família",
     "note": "Indica masculino/homem.",
-    "evolution": "男 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "男 carrega o sentido de 'homem; masculino' e está categorizado em Família. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 男 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 男 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "男人 · nánrén · homem",
@@ -2676,7 +3004,13 @@
           "男生 = aluno/menino"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "pessoas"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "的",
@@ -2691,9 +3025,9 @@
     "note": "Uma das partículas mais frequentes do mandarim. Liga possuidor, qualidade ou descrição ao substantivo.",
     "evolution": "的 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 的 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 的 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "我的 · wǒ de · meu/minha",
@@ -2712,7 +3046,12 @@
           "书 = livro"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "particula"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "米",
@@ -2723,13 +3062,13 @@
     "radical": "米",
     "strokes": 6,
     "level": "HSK 1",
-    "category": "Comida e bebida",
+    "category": "Comida",
     "note": "Arroz cru ou metro, conforme contexto.",
     "evolution": "米 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 米 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 米 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "米饭 · mǐfàn · arroz cozido",
@@ -2746,7 +3085,12 @@
           "米饭 = arroz"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "bebida"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "老",
@@ -2757,13 +3101,13 @@
     "radical": "老",
     "strokes": 6,
     "level": "HSK 1",
-    "category": "Pessoas e qualidades",
+    "category": "Pessoas",
     "note": "Usado em 老师 e para idade/experiência.",
-    "evolution": "老 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "老 carrega o sentido de 'velho; experiente' e está categorizado em Pessoas. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 老 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 老 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "老师 · lǎoshī · professor",
@@ -2780,7 +3124,13 @@
           "老师 = professor"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "descricao"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "脑",
@@ -2791,13 +3141,13 @@
     "radical": "月",
     "strokes": 10,
     "level": "HSK 1",
-    "category": "Corpo e tecnologia",
+    "category": "Corpo",
     "note": "Forma 电脑, computador.",
-    "evolution": "脑 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "脑 carrega o sentido de 'cérebro' e está categorizado em Corpo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 脑 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 脑 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "电脑 · diànnǎo · computador",
@@ -2814,7 +3164,14 @@
           "电脑 = computador"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "tecnologia",
+      "cor"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "菜",
@@ -2825,13 +3182,13 @@
     "radical": "艹",
     "strokes": 11,
     "level": "HSK 1",
-    "category": "Comida e bebida",
+    "category": "Comida",
     "note": "Usado para pratos, culinária e verduras.",
     "evolution": "菜 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 菜 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "菜 tem 11 traços — divida em blocos visuais (cima/baixo ou esquerda/direita).",
+      "Pratique cada bloco separadamente antes de uni-los.",
+      "Use as combinações como contexto: caracteres complexos fixam melhor em palavras reais."
     ],
     "combinations": [
       "中国菜 · Zhōngguó cài · comida chinesa",
@@ -2848,7 +3205,12 @@
           "中国菜 = comida chinesa"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "bebida"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "见",
@@ -2863,9 +3225,9 @@
     "note": "Ver/encontrar. Parte de 再见.",
     "evolution": "见 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 见 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "见 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "再见 · zàijiàn · até logo",
@@ -2882,7 +3244,10 @@
           "老师 = professor"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "话",
@@ -2893,13 +3258,13 @@
     "radical": "讠",
     "strokes": 8,
     "level": "HSK 1",
-    "category": "Linguagem",
+    "category": "Estudo",
     "note": "Aparece em 说话 e 电话.",
     "evolution": "话 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 话 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 话 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "说话 · shuōhuà · falar",
@@ -2916,7 +3281,10 @@
           "很慢 = devagar"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "请",
@@ -2931,9 +3299,9 @@
     "note": "Palavra de cortesia para pedidos e convites.",
     "evolution": "请 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 请 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 请 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "请坐 · qǐng zuò · por favor, sente-se",
@@ -2949,7 +3317,12 @@
           "你好吗 = você está bem?"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "cor"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "读",
@@ -2960,13 +3333,13 @@
     "radical": "讠",
     "strokes": 10,
     "level": "HSK 1",
-    "category": "Ações e estudo",
+    "category": "Estudo",
     "note": "Verbo para ler e estudar.",
-    "evolution": "读 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "读 carrega o sentido de 'ler; estudar' e está categorizado em Estudo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 读 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 读 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "读书 · dúshū · estudar/ler",
@@ -2983,7 +3356,13 @@
           "中文 = chinês"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "estudo"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "课",
@@ -2998,9 +3377,9 @@
     "note": "Usado para aula, lição ou matéria.",
     "evolution": "课 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 课 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 课 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "上课 · shàngkè · ter aula",
@@ -3017,7 +3396,10 @@
           "上课 = ter aula"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "谢",
@@ -3032,9 +3414,9 @@
     "note": "Usado em 谢谢, obrigado.",
     "evolution": "谢 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 谢 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "谢 tem 12 traços — divida em blocos visuais (cima/baixo ou esquerda/direita).",
+      "Pratique cada bloco separadamente antes de uni-los.",
+      "Use as combinações como contexto: caracteres complexos fixam melhor em palavras reais."
     ],
     "combinations": [
       "谢谢 · xièxie · obrigado",
@@ -3050,7 +3432,10 @@
           "你 = você"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "走",
@@ -3061,13 +3446,13 @@
     "radical": "走",
     "strokes": 7,
     "level": "HSK 1",
-    "category": "Ações",
+    "category": "Ação",
     "note": "Verbo de movimento a pé/ir embora.",
-    "evolution": "走 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "走 carrega o sentido de 'andar; ir embora' e está categorizado em Ação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 走 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 走 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "走路 · zǒulù · andar",
@@ -3083,7 +3468,13 @@
           "走吧 = vamos"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "movimento"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "车",
@@ -3118,7 +3509,9 @@
           "快 = rápido"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_quality_score": 100
   },
   {
     "char": "都",
@@ -3133,9 +3526,9 @@
     "note": "Usado para generalizar o sujeito plural: todos/ambos.",
     "evolution": "都 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 都 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 都 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "我们都 · wǒmen dōu · todos nós",
@@ -3153,7 +3546,10 @@
           "中文 = chinês"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "里",
@@ -3164,13 +3560,13 @@
     "radical": "里",
     "strokes": 7,
     "level": "HSK 1",
-    "category": "Localização",
+    "category": "Descrição",
     "note": "Indica interior, usado em 这里, 那里, 哪里.",
-    "evolution": "里 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "里 carrega o sentido de 'dentro; interior' e está categorizado em Descrição. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 里 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 里 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "这里 · zhèlǐ · aqui",
@@ -3188,7 +3584,11 @@
           "家里 = em casa"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "钟",
@@ -3201,11 +3601,11 @@
     "level": "HSK 1",
     "category": "Tempo",
     "note": "Aparece em 分钟 e 钟表.",
-    "evolution": "钟 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "钟 carrega o sentido de 'relógio; hora em composição' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 钟 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 钟 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "分钟 · fēnzhōng · minuto",
@@ -3221,7 +3621,11 @@
           "很好 = muito bom"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "门",
@@ -3232,13 +3636,13 @@
     "radical": "门",
     "strokes": 3,
     "level": "HSK 1",
-    "category": "Casa e lugares",
+    "category": "Casa",
     "note": "Caractere simples para porta.",
-    "evolution": "门 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "门 carrega o sentido de 'porta' e está categorizado em Casa. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 门 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "门 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
     ],
     "combinations": [
       "开门 · kāimén · abrir porta",
@@ -3254,7 +3658,13 @@
           "开门 = abrir a porta"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "lugares"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "间",
@@ -3267,11 +3677,11 @@
     "level": "HSK 1",
     "category": "Tempo",
     "note": "Parte de 时间 e 房间.",
-    "evolution": "间 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "间 carrega o sentido de 'intervalo; espaço' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 间 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "Decomponha 间 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "时间 · shíjiān · tempo",
@@ -3287,7 +3697,11 @@
           "很重要 = muito importante"
         ]
       }
-    ]
+    ],
+    "tags": [],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   },
   {
     "char": "雨",
@@ -3298,13 +3712,13 @@
     "radical": "雨",
     "strokes": 8,
     "level": "HSK 1",
-    "category": "Natureza e clima",
+    "category": "Natureza",
     "note": "Chuva. Também aparece como radical em caracteres relacionados ao céu/clima.",
     "evolution": "雨 foi incluído como caractere de alta frequência no HSK 1, priorizando reconhecimento, uso prático e combinações úteis.",
     "steps": [
-      "Observe a estrutura geral de 雨 antes de escrever.",
-      "Escreva os componentes superiores antes dos inferiores, quando houver.",
-      "Finalize respeitando proporção, centralidade e equilíbrio visual."
+      "Decomponha 雨 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
     ],
     "combinations": [
       "下雨 · xià yǔ · chover",
@@ -3320,7 +3734,12 @@
           "下雨 = chover"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "clima"
+    ],
+    "_steps_generated": true,
+    "_quality_score": 85
   },
   {
     "char": "零",
@@ -3333,11 +3752,11 @@
     "level": "HSK 1",
     "category": "Números",
     "note": "Número zero. Usado em telefones, datas e números.",
-    "evolution": "零 é apresentado aqui como caractere de alta utilidade no HSK 1, com foco inicial em uso, som, reconhecimento visual e combinações.",
+    "evolution": "零 carrega o sentido de 'zero' e está categorizado em Números. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
     "steps": [
-      "Observe a proporção geral de 零 antes de escrever.",
-      "Escreva de cima para baixo e da esquerda para a direita quando houver componentes laterais.",
-      "Finalize mantendo equilíbrio entre os componentes e respeitando o espaço da grade."
+      "零 tem 13 traços — divida em blocos visuais (cima/baixo ou esquerda/direita).",
+      "Pratique cada bloco separadamente antes de uni-los.",
+      "Use as combinações como contexto: caracteres complexos fixam melhor em palavras reais."
     ],
     "combinations": [
       "零点 · líng diǎn · meia-noite",
@@ -3354,6 +3773,1850 @@
           "零 = zero"
         ]
       }
-    ]
+    ],
+    "tags": [
+      "dados"
+    ],
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "大",
+    "traditional": "大",
+    "pinyin": "dà",
+    "tone": 4,
+    "translation": "grande",
+    "radical": "大",
+    "strokes": 3,
+    "level": "HSK 1",
+    "category": "Descrição",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "大 carrega o sentido de 'grande' e está categorizado em Descrição. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "大 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "大学 · dà xué · universidade",
+      "大家 · dà jiā · todo mundo",
+      "大小 · dà xiǎo · tamanho"
+    ],
+    "examples": [
+      {
+        "zh": "我家有一只大狗。",
+        "py": "Wǒ jiā yǒu yī zhī dà gǒu.",
+        "pt": "Minha casa tem um cachorro grande.",
+        "breakdown": [
+          "我家 = minha casa",
+          "有 = ter",
+          "一只大狗 = um cachorro grande"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "小",
+    "traditional": "小",
+    "pinyin": "xiǎo",
+    "tone": 3,
+    "translation": "pequeno",
+    "radical": "小",
+    "strokes": 3,
+    "level": "HSK 1",
+    "category": "Descrição",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "小 carrega o sentido de 'pequeno' e está categorizado em Descrição. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "小 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "小心 · xiǎo xīn · cuidado",
+      "小孩 · xiǎo hái · criança",
+      "小时 · xiǎo shí · hora"
+    ],
+    "examples": [
+      {
+        "zh": "这个房间很小。",
+        "py": "Zhè ge fángjiān hěn xiǎo.",
+        "pt": "Este quarto é muito pequeno.",
+        "breakdown": [
+          "这个 = este",
+          "房间 = quarto",
+          "很小 = muito pequeno"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "多",
+    "traditional": "多",
+    "pinyin": "duō",
+    "tone": 1,
+    "translation": "muito",
+    "radical": "夕",
+    "strokes": 6,
+    "level": "HSK 1",
+    "category": "Descrição",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "多 carrega o sentido de 'muito' e está categorizado em Descrição. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 多 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "多少 · duō shǎo · quanto",
+      "很多 · hěn duō · muito(s)",
+      "多久 · duō jiǔ · quanto tempo"
+    ],
+    "examples": [
+      {
+        "zh": "他有很多朋友。",
+        "py": "Tā yǒu hěn duō péngyǒu.",
+        "pt": "Ele tem muitos amigos.",
+        "breakdown": [
+          "他 = ele",
+          "有 = ter",
+          "很多朋友 = muitos amigos"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "少",
+    "traditional": "少",
+    "pinyin": "shǎo",
+    "tone": 3,
+    "translation": "pouco",
+    "radical": "小",
+    "strokes": 4,
+    "level": "HSK 1",
+    "category": "Descrição",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "少 carrega o sentido de 'pouco' e está categorizado em Descrição. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "少 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "多少 · duō shǎo · quanto",
+      "少数 · shǎo shù · minoria",
+      "减少 · jiǎn shǎo · reduzir"
+    ],
+    "examples": [
+      {
+        "zh": "这里人很少。",
+        "py": "Zhèlǐ rén hěn shǎo.",
+        "pt": "Aqui há poucas pessoas.",
+        "breakdown": [
+          "这里 = aqui",
+          "人 = pessoas",
+          "很少 = poucos"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "高",
+    "traditional": "高",
+    "pinyin": "gāo",
+    "tone": 1,
+    "translation": "alto",
+    "radical": "高",
+    "strokes": 10,
+    "level": "HSK 1",
+    "category": "Descrição",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "高 carrega o sentido de 'alto' e está categorizado em Descrição. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 高 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "高兴 · gāo xìng · feliz",
+      "高中 · gāo zhōng · ensino médio",
+      "高山 · gāo shān · montanha alta"
+    ],
+    "examples": [
+      {
+        "zh": "他个子很高。",
+        "py": "Tā gèzi hěn gāo.",
+        "pt": "Ele é muito alto.",
+        "breakdown": [
+          "他 = ele",
+          "个子 = altura",
+          "很高 = muito alto"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "天",
+    "traditional": "天",
+    "pinyin": "tiān",
+    "tone": 1,
+    "translation": "dia / céu",
+    "radical": "大",
+    "strokes": 4,
+    "level": "HSK 1",
+    "category": "Tempo",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "天 carrega o sentido de 'dia / céu' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "天 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "今天 · jīn tiān · hoje",
+      "明天 · míng tiān · amanhã",
+      "天气 · tiān qì · clima"
+    ],
+    "examples": [
+      {
+        "zh": "今天天气很好。",
+        "py": "Jīntiān tiānqì hěn hǎo.",
+        "pt": "O clima está muito bom hoje.",
+        "breakdown": [
+          "今天 = hoje",
+          "天气 = clima",
+          "很好 = muito bom"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "日",
+    "traditional": "日",
+    "pinyin": "rì",
+    "tone": 4,
+    "translation": "dia / sol",
+    "radical": "日",
+    "strokes": 4,
+    "level": "HSK 1",
+    "category": "Tempo",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "日 carrega o sentido de 'dia / sol' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "日 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "生日 · shēng rì · aniversário",
+      "日本 · rì běn · Japão",
+      "今日 · jīn rì · hoje (formal)"
+    ],
+    "examples": [
+      {
+        "zh": "今天是我的生日。",
+        "py": "Jīntiān shì wǒ de shēngrì.",
+        "pt": "Hoje é meu aniversário.",
+        "breakdown": [
+          "今天 = hoje",
+          "是 = é",
+          "我的生日 = meu aniversário"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "月",
+    "traditional": "月",
+    "pinyin": "yuè",
+    "tone": 4,
+    "translation": "mês / lua",
+    "radical": "月",
+    "strokes": 4,
+    "level": "HSK 1",
+    "category": "Tempo",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "月 carrega o sentido de 'mês / lua' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "月 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "月亮 · yuè liàng · lua",
+      "一月 · yī yuè · janeiro",
+      "月份 · yuè fèn · mês (período)"
+    ],
+    "examples": [
+      {
+        "zh": "这个月我很忙。",
+        "py": "Zhège yuè wǒ hěn máng.",
+        "pt": "Este mês estou muito ocupado.",
+        "breakdown": [
+          "这个月 = este mês",
+          "我 = eu",
+          "很忙 = muito ocupado"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "年",
+    "traditional": "年",
+    "pinyin": "nián",
+    "tone": 2,
+    "translation": "ano",
+    "radical": "干",
+    "strokes": 6,
+    "level": "HSK 1",
+    "category": "Tempo",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "年 carrega o sentido de 'ano' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 年 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "今年 · jīn nián · este ano",
+      "去年 · qù nián · ano passado",
+      "新年 · xīn nián · ano novo"
+    ],
+    "examples": [
+      {
+        "zh": "我今年三十岁。",
+        "py": "Wǒ jīnnián sānshí suì.",
+        "pt": "Eu tenho trinta anos este ano.",
+        "breakdown": [
+          "我 = eu",
+          "今年 = este ano",
+          "三十岁 = trinta anos"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "他",
+    "traditional": "他",
+    "pinyin": "tā",
+    "tone": 1,
+    "translation": "ele",
+    "radical": "亻",
+    "strokes": 5,
+    "level": "HSK 1",
+    "category": "Pessoas",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "他 carrega o sentido de 'ele' e está categorizado em Pessoas. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "他 tem 5 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "他们 · tā men · eles",
+      "他的 · tā de · dele",
+      "其他 · qí tā · outros"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的朋友。",
+        "py": "Tā shì wǒ de péngyǒu.",
+        "pt": "Ele é meu amigo.",
+        "breakdown": [
+          "他 = ele",
+          "是 = é",
+          "我的朋友 = meu amigo"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "她",
+    "traditional": "她",
+    "pinyin": "tā",
+    "tone": 1,
+    "translation": "ela",
+    "radical": "女",
+    "strokes": 6,
+    "level": "HSK 1",
+    "category": "Pessoas",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "她 carrega o sentido de 'ela' e está categorizado em Pessoas. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 她 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "她们 · tā men · elas",
+      "她的 · tā de · dela"
+    ],
+    "examples": [
+      {
+        "zh": "她是老师。",
+        "py": "Tā shì lǎoshī.",
+        "pt": "Ela é professora.",
+        "breakdown": [
+          "她 = ela",
+          "是 = é",
+          "老师 = professora"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "们",
+    "traditional": "们",
+    "pinyin": "men",
+    "tone": 5,
+    "translation": "(plural de pronomes)",
+    "radical": "亻",
+    "strokes": 5,
+    "level": "HSK 1",
+    "category": "Gramática",
+    "tags": [
+      "pronome"
+    ],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "们 carrega o sentido de '(plural de pronomes)' e está categorizado em Gramática. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "们 tem 5 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "我们 · wǒ men · nós",
+      "你们 · nǐ men · vocês",
+      "他们 · tā men · eles"
+    ],
+    "examples": [
+      {
+        "zh": "我们一起去。",
+        "py": "Wǒmen yīqǐ qù.",
+        "pt": "Vamos juntos.",
+        "breakdown": [
+          "我们 = nós",
+          "一起 = juntos",
+          "去 = ir"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "在",
+    "traditional": "在",
+    "pinyin": "zài",
+    "tone": 4,
+    "translation": "estar em / em",
+    "radical": "土",
+    "strokes": 6,
+    "level": "HSK 1",
+    "category": "Gramática",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "在 carrega o sentido de 'estar em / em' e está categorizado em Gramática. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 在 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "现在 · xiàn zài · agora",
+      "在家 · zài jiā · em casa",
+      "正在 · zhèng zài · estar fazendo"
+    ],
+    "examples": [
+      {
+        "zh": "我在家。",
+        "py": "Wǒ zài jiā.",
+        "pt": "Estou em casa.",
+        "breakdown": [
+          "我 = eu",
+          "在 = estar em",
+          "家 = casa"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "有",
+    "traditional": "有",
+    "pinyin": "yǒu",
+    "tone": 3,
+    "translation": "ter / haver",
+    "radical": "月",
+    "strokes": 6,
+    "level": "HSK 1",
+    "category": "Ação",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "有 carrega o sentido de 'ter / haver' e está categorizado em Ação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 有 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "没有 · méi yǒu · não ter",
+      "有时 · yǒu shí · às vezes",
+      "所有 · suǒ yǒu · todos"
+    ],
+    "examples": [
+      {
+        "zh": "我有两个孩子。",
+        "py": "Wǒ yǒu liǎng ge háizi.",
+        "pt": "Eu tenho dois filhos.",
+        "breakdown": [
+          "我 = eu",
+          "有 = ter",
+          "两个孩子 = dois filhos"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "去",
+    "traditional": "去",
+    "pinyin": "qù",
+    "tone": 4,
+    "translation": "ir",
+    "radical": "厶",
+    "strokes": 5,
+    "level": "HSK 1",
+    "category": "Ação",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "去 carrega o sentido de 'ir' e está categorizado em Ação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "去 tem 5 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "去年 · qù nián · ano passado",
+      "回去 · huí qù · voltar",
+      "出去 · chū qù · sair"
+    ],
+    "examples": [
+      {
+        "zh": "我去学校。",
+        "py": "Wǒ qù xuéxiào.",
+        "pt": "Eu vou à escola.",
+        "breakdown": [
+          "我 = eu",
+          "去 = ir",
+          "学校 = escola"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "来",
+    "traditional": "来",
+    "pinyin": "lái",
+    "tone": 2,
+    "translation": "vir",
+    "radical": "木",
+    "strokes": 7,
+    "level": "HSK 1",
+    "category": "Ação",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "来 carrega o sentido de 'vir' e está categorizado em Ação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 来 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "回来 · huí lái · voltar",
+      "出来 · chū lái · sair",
+      "原来 · yuán lái · originalmente"
+    ],
+    "examples": [
+      {
+        "zh": "他明天来。",
+        "py": "Tā míngtiān lái.",
+        "pt": "Ele vem amanhã.",
+        "breakdown": [
+          "他 = ele",
+          "明天 = amanhã",
+          "来 = vir"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "看",
+    "traditional": "看",
+    "pinyin": "kàn",
+    "tone": 4,
+    "translation": "olhar / ler",
+    "radical": "目",
+    "strokes": 9,
+    "level": "HSK 1",
+    "category": "Ação",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "看 carrega o sentido de 'olhar / ler' e está categorizado em Ação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 看 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "看见 · kàn jiàn · ver",
+      "看书 · kàn shū · ler",
+      "好看 · hǎo kàn · bonito"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢看电影。",
+        "py": "Wǒ xǐhuān kàn diànyǐng.",
+        "pt": "Eu gosto de ver filmes.",
+        "breakdown": [
+          "我 = eu",
+          "喜欢 = gostar",
+          "看电影 = ver filme"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "听",
+    "traditional": "听",
+    "pinyin": "tīng",
+    "tone": 1,
+    "translation": "ouvir",
+    "radical": "口",
+    "strokes": 7,
+    "level": "HSK 1",
+    "category": "Ação",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "听 carrega o sentido de 'ouvir' e está categorizado em Ação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 听 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "听说 · tīng shuō · ouvir dizer",
+      "好听 · hǎo tīng · agradável aos ouvidos",
+      "听见 · tīng jiàn · escutar"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢听音乐。",
+        "py": "Wǒ xǐhuān tīng yīnyuè.",
+        "pt": "Eu gosto de ouvir música.",
+        "breakdown": [
+          "我 = eu",
+          "喜欢 = gostar",
+          "听音乐 = ouvir música"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "说",
+    "traditional": "说",
+    "pinyin": "shuō",
+    "tone": 1,
+    "translation": "falar / dizer",
+    "radical": "讠",
+    "strokes": 9,
+    "level": "HSK 1",
+    "category": "Comunicação",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "说 carrega o sentido de 'falar / dizer' e está categorizado em Comunicação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 说 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "说话 · shuō huà · falar",
+      "听说 · tīng shuō · ouvir dizer",
+      "说明 · shuō míng · explicar"
+    ],
+    "examples": [
+      {
+        "zh": "他说中文。",
+        "py": "Tā shuō zhōngwén.",
+        "pt": "Ele fala chinês.",
+        "breakdown": [
+          "他 = ele",
+          "说 = falar",
+          "中文 = chinês"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "想",
+    "traditional": "想",
+    "pinyin": "xiǎng",
+    "tone": 3,
+    "translation": "querer / pensar",
+    "radical": "心",
+    "strokes": 13,
+    "level": "HSK 1",
+    "category": "Ação",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "想 carrega o sentido de 'querer / pensar' e está categorizado em Ação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "想 tem 13 traços — divida em blocos visuais (cima/baixo ou esquerda/direita).",
+      "Pratique cada bloco separadamente antes de uni-los.",
+      "Use as combinações como contexto: caracteres complexos fixam melhor em palavras reais."
+    ],
+    "combinations": [
+      "想念 · xiǎng niàn · sentir saudade",
+      "思想 · sī xiǎng · pensamento",
+      "想法 · xiǎng fǎ · ideia"
+    ],
+    "examples": [
+      {
+        "zh": "我想喝水。",
+        "py": "Wǒ xiǎng hē shuǐ.",
+        "pt": "Eu quero beber água.",
+        "breakdown": [
+          "我 = eu",
+          "想 = querer",
+          "喝水 = beber água"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "要",
+    "traditional": "要",
+    "pinyin": "yào",
+    "tone": 4,
+    "translation": "querer / precisar",
+    "radical": "西",
+    "strokes": 9,
+    "level": "HSK 1",
+    "category": "Ação",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "要 carrega o sentido de 'querer / precisar' e está categorizado em Ação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 要 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "重要 · zhòng yào · importante",
+      "需要 · xū yào · precisar",
+      "只要 · zhǐ yào · desde que"
+    ],
+    "examples": [
+      {
+        "zh": "我要一杯茶。",
+        "py": "Wǒ yào yī bēi chá.",
+        "pt": "Eu quero uma xícara de chá.",
+        "breakdown": [
+          "我 = eu",
+          "要 = querer",
+          "一杯茶 = uma xícara de chá"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "喜",
+    "traditional": "喜",
+    "pinyin": "xǐ",
+    "tone": 3,
+    "translation": "gostar / alegria",
+    "radical": "口",
+    "strokes": 12,
+    "level": "HSK 1",
+    "category": "Emoções",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "喜 carrega o sentido de 'gostar / alegria' e está categorizado em Emoções. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "喜 tem 12 traços — divida em blocos visuais (cima/baixo ou esquerda/direita).",
+      "Pratique cada bloco separadamente antes de uni-los.",
+      "Use as combinações como contexto: caracteres complexos fixam melhor em palavras reais."
+    ],
+    "combinations": [
+      "喜欢 · xǐ huān · gostar de",
+      "欢喜 · huān xǐ · alegre",
+      "喜事 · xǐ shì · evento feliz"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢中国菜。",
+        "py": "Wǒ xǐhuān zhōngguó cài.",
+        "pt": "Eu gosto de comida chinesa.",
+        "breakdown": [
+          "我 = eu",
+          "喜欢 = gostar",
+          "中国菜 = comida chinesa"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "欢",
+    "traditional": "欢",
+    "pinyin": "huān",
+    "tone": 1,
+    "translation": "alegria / boas-vindas",
+    "radical": "欠",
+    "strokes": 6,
+    "level": "HSK 1",
+    "category": "Emoções",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "欢 carrega o sentido de 'alegria / boas-vindas' e está categorizado em Emoções. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 欢 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "喜欢 · xǐ huān · gostar de",
+      "欢迎 · huān yíng · bem-vindo",
+      "欢乐 · huān lè · alegre"
+    ],
+    "examples": [
+      {
+        "zh": "欢迎来中国！",
+        "py": "Huānyíng lái Zhōngguó!",
+        "pt": "Bem-vindo à China!",
+        "breakdown": [
+          "欢迎 = bem-vindo",
+          "来 = vir",
+          "中国 = China"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "朋",
+    "traditional": "朋",
+    "pinyin": "péng",
+    "tone": 2,
+    "translation": "amigo",
+    "radical": "月",
+    "strokes": 8,
+    "level": "HSK 1",
+    "category": "Pessoas",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "朋 carrega o sentido de 'amigo' e está categorizado em Pessoas. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 朋 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "朋友 · péng yǒu · amigo",
+      "好朋友 · hǎo péng yǒu · bom amigo",
+      "亲朋 · qīn péng · amigos íntimos"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的好朋友。",
+        "py": "Tā shì wǒ de hǎo péngyǒu.",
+        "pt": "Ele é meu bom amigo.",
+        "breakdown": [
+          "他 = ele",
+          "是 = é",
+          "我的好朋友 = meu bom amigo"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "友",
+    "traditional": "友",
+    "pinyin": "yǒu",
+    "tone": 3,
+    "translation": "amigo",
+    "radical": "又",
+    "strokes": 4,
+    "level": "HSK 1",
+    "category": "Pessoas",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "友 carrega o sentido de 'amigo' e está categorizado em Pessoas. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "友 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "朋友 · péng yǒu · amigo",
+      "友好 · yǒu hǎo · amigável",
+      "女朋友 · nǚ péng yǒu · namorada"
+    ],
+    "examples": [
+      {
+        "zh": "他对人很友好。",
+        "py": "Tā duì rén hěn yǒuhǎo.",
+        "pt": "Ele é amigável com as pessoas.",
+        "breakdown": [
+          "他 = ele",
+          "对人 = com pessoas",
+          "很友好 = muito amigável"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "名",
+    "traditional": "名",
+    "pinyin": "míng",
+    "tone": 2,
+    "translation": "nome",
+    "radical": "口",
+    "strokes": 6,
+    "level": "HSK 1",
+    "category": "Pessoas",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "名 carrega o sentido de 'nome' e está categorizado em Pessoas. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 名 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "名字 · míng zi · nome",
+      "有名 · yǒu míng · famoso",
+      "姓名 · xìng míng · nome completo"
+    ],
+    "examples": [
+      {
+        "zh": "你叫什么名字？",
+        "py": "Nǐ jiào shénme míngzi?",
+        "pt": "Qual é o seu nome?",
+        "breakdown": [
+          "你 = você",
+          "叫 = chamar-se",
+          "什么名字 = que nome"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "字",
+    "traditional": "字",
+    "pinyin": "zì",
+    "tone": 4,
+    "translation": "caractere / letra",
+    "radical": "子",
+    "strokes": 6,
+    "level": "HSK 1",
+    "category": "Estudo",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "字 carrega o sentido de 'caractere / letra' e está categorizado em Estudo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 字 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "汉字 · hàn zì · caractere chinês",
+      "名字 · míng zi · nome",
+      "字典 · zì diǎn · dicionário"
+    ],
+    "examples": [
+      {
+        "zh": "这个字怎么写？",
+        "py": "Zhège zì zěnme xiě?",
+        "pt": "Como se escreve este caractere?",
+        "breakdown": [
+          "这个字 = este caractere",
+          "怎么 = como",
+          "写 = escrever"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "汉",
+    "traditional": "汉",
+    "pinyin": "hàn",
+    "tone": 4,
+    "translation": "Han (etnia/idioma chinês)",
+    "radical": "氵",
+    "strokes": 5,
+    "level": "HSK 1",
+    "category": "Cultura",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "汉 carrega o sentido de 'Han (etnia/idioma chinês)' e está categorizado em Cultura. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "汉 tem 5 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "汉字 · hàn zì · caractere chinês",
+      "汉语 · hàn yǔ · língua chinesa",
+      "汉族 · hàn zú · etnia Han"
+    ],
+    "examples": [
+      {
+        "zh": "我学习汉语。",
+        "py": "Wǒ xuéxí hànyǔ.",
+        "pt": "Eu estudo chinês.",
+        "breakdown": [
+          "我 = eu",
+          "学习 = estudar",
+          "汉语 = chinês"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "语",
+    "traditional": "语",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "translation": "idioma / fala",
+    "radical": "讠",
+    "strokes": 9,
+    "level": "HSK 1",
+    "category": "Comunicação",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "语 carrega o sentido de 'idioma / fala' e está categorizado em Comunicação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 语 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "语言 · yǔ yán · linguagem",
+      "汉语 · hàn yǔ · chinês",
+      "外语 · wài yǔ · idioma estrangeiro"
+    ],
+    "examples": [
+      {
+        "zh": "她会三种语言。",
+        "py": "Tā huì sān zhǒng yǔyán.",
+        "pt": "Ela fala três idiomas.",
+        "breakdown": [
+          "她 = ela",
+          "会 = saber",
+          "三种语言 = três idiomas"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "校",
+    "traditional": "校",
+    "pinyin": "xiào",
+    "tone": 4,
+    "translation": "escola",
+    "radical": "木",
+    "strokes": 10,
+    "level": "HSK 1",
+    "category": "Estudo",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "校 carrega o sentido de 'escola' e está categorizado em Estudo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 校 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "学校 · xué xiào · escola",
+      "校长 · xiào zhǎng · diretor",
+      "校园 · xiào yuán · campus"
+    ],
+    "examples": [
+      {
+        "zh": "我们的学校很大。",
+        "py": "Wǒmen de xuéxiào hěn dà.",
+        "pt": "Nossa escola é muito grande.",
+        "breakdown": [
+          "我们的 = nosso",
+          "学校 = escola",
+          "很大 = muito grande"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "工",
+    "traditional": "工",
+    "pinyin": "gōng",
+    "tone": 1,
+    "translation": "trabalho",
+    "radical": "工",
+    "strokes": 3,
+    "level": "HSK 1",
+    "category": "Trabalho",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "工 carrega o sentido de 'trabalho' e está categorizado em Trabalho. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "工 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "工作 · gōng zuò · trabalho",
+      "工人 · gōng rén · trabalhador",
+      "工厂 · gōng chǎng · fábrica"
+    ],
+    "examples": [
+      {
+        "zh": "他在公司工作。",
+        "py": "Tā zài gōngsī gōngzuò.",
+        "pt": "Ele trabalha em uma empresa.",
+        "breakdown": [
+          "他 = ele",
+          "在公司 = em empresa",
+          "工作 = trabalhar"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "作",
+    "traditional": "作",
+    "pinyin": "zuò",
+    "tone": 4,
+    "translation": "fazer / obra",
+    "radical": "亻",
+    "strokes": 7,
+    "level": "HSK 1",
+    "category": "Ação",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "作 carrega o sentido de 'fazer / obra' e está categorizado em Ação. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 作 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "工作 · gōng zuò · trabalho",
+      "作业 · zuò yè · tarefa",
+      "作家 · zuò jiā · escritor"
+    ],
+    "examples": [
+      {
+        "zh": "我在做作业。",
+        "py": "Wǒ zài zuò zuòyè.",
+        "pt": "Estou fazendo a tarefa.",
+        "breakdown": [
+          "我 = eu",
+          "在做 = estar fazendo",
+          "作业 = tarefa"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "饭",
+    "traditional": "饭",
+    "pinyin": "fàn",
+    "tone": 4,
+    "translation": "comida / refeição",
+    "radical": "饣",
+    "strokes": 7,
+    "level": "HSK 1",
+    "category": "Comida",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "饭 carrega o sentido de 'comida / refeição' e está categorizado em Comida. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 饭 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "吃饭 · chī fàn · comer",
+      "米饭 · mǐ fàn · arroz",
+      "晚饭 · wǎn fàn · jantar"
+    ],
+    "examples": [
+      {
+        "zh": "我们一起吃饭吧。",
+        "py": "Wǒmen yīqǐ chīfàn ba.",
+        "pt": "Vamos comer juntos.",
+        "breakdown": [
+          "我们 = nós",
+          "一起 = juntos",
+          "吃饭 = comer"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "茶",
+    "traditional": "茶",
+    "pinyin": "chá",
+    "tone": 2,
+    "translation": "chá",
+    "radical": "艹",
+    "strokes": 9,
+    "level": "HSK 1",
+    "category": "Comida",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "茶 carrega o sentido de 'chá' e está categorizado em Comida. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 茶 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "喝茶 · hē chá · tomar chá",
+      "绿茶 · lǜ chá · chá verde",
+      "茶杯 · chá bēi · xícara de chá"
+    ],
+    "examples": [
+      {
+        "zh": "中国人喜欢喝茶。",
+        "py": "Zhōngguó rén xǐhuān hē chá.",
+        "pt": "Os chineses gostam de tomar chá.",
+        "breakdown": [
+          "中国人 = chineses",
+          "喜欢 = gostar",
+          "喝茶 = tomar chá"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "店",
+    "traditional": "店",
+    "pinyin": "diàn",
+    "tone": 4,
+    "translation": "loja",
+    "radical": "广",
+    "strokes": 8,
+    "level": "HSK 1",
+    "category": "Lugares",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "店 carrega o sentido de 'loja' e está categorizado em Lugares. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 店 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "商店 · shāng diàn · loja",
+      "饭店 · fàn diàn · restaurante",
+      "书店 · shū diàn · livraria"
+    ],
+    "examples": [
+      {
+        "zh": "这家店很便宜。",
+        "py": "Zhè jiā diàn hěn piányi.",
+        "pt": "Esta loja é muito barata.",
+        "breakdown": [
+          "这家店 = esta loja",
+          "很便宜 = muito barata"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "钱",
+    "traditional": "钱",
+    "pinyin": "qián",
+    "tone": 2,
+    "translation": "dinheiro",
+    "radical": "钅",
+    "strokes": 10,
+    "level": "HSK 1",
+    "category": "Compras",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "钱 carrega o sentido de 'dinheiro' e está categorizado em Compras. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 钱 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "多少钱 · duō shǎo qián · quanto custa",
+      "有钱 · yǒu qián · ter dinheiro",
+      "钱包 · qián bāo · carteira"
+    ],
+    "examples": [
+      {
+        "zh": "这个多少钱？",
+        "py": "Zhège duōshǎo qián?",
+        "pt": "Quanto custa isso?",
+        "breakdown": [
+          "这个 = isso",
+          "多少钱 = quanto custa"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "买",
+    "traditional": "买",
+    "pinyin": "mǎi",
+    "tone": 3,
+    "translation": "comprar",
+    "radical": "乙",
+    "strokes": 6,
+    "level": "HSK 1",
+    "category": "Compras",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "买 carrega o sentido de 'comprar' e está categorizado em Compras. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 买 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "买东西 · mǎi dōng xi · fazer compras",
+      "购买 · gòu mǎi · adquirir",
+      "买卖 · mǎi mài · negócio"
+    ],
+    "examples": [
+      {
+        "zh": "我想买一本书。",
+        "py": "Wǒ xiǎng mǎi yī běn shū.",
+        "pt": "Eu quero comprar um livro.",
+        "breakdown": [
+          "我 = eu",
+          "想买 = querer comprar",
+          "一本书 = um livro"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "个",
+    "traditional": "个",
+    "pinyin": "gè",
+    "tone": 4,
+    "translation": "(classificador genérico)",
+    "radical": "人",
+    "strokes": 3,
+    "level": "HSK 1",
+    "category": "Gramática",
+    "tags": [
+      "classificador"
+    ],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "个 carrega o sentido de '(classificador genérico)' e está categorizado em Gramática. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "个 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "一个 · yí ge · um",
+      "这个 · zhè ge · este",
+      "个人 · gè rén · pessoal"
+    ],
+    "examples": [
+      {
+        "zh": "我有三个朋友。",
+        "py": "Wǒ yǒu sān ge péngyǒu.",
+        "pt": "Eu tenho três amigos.",
+        "breakdown": [
+          "我 = eu",
+          "有 = ter",
+          "三个朋友 = três amigos"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "几",
+    "traditional": "几",
+    "pinyin": "jǐ",
+    "tone": 3,
+    "translation": "quantos",
+    "radical": "几",
+    "strokes": 2,
+    "level": "HSK 1",
+    "category": "Números",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "几 carrega o sentido de 'quantos' e está categorizado em Números. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "几 tem 2 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "几个 · jǐ ge · quantos",
+      "几点 · jǐ diǎn · que horas",
+      "好几 · hǎo jǐ · vários"
+    ],
+    "examples": [
+      {
+        "zh": "你有几本书？",
+        "py": "Nǐ yǒu jǐ běn shū?",
+        "pt": "Quantos livros você tem?",
+        "breakdown": [
+          "你 = você",
+          "有 = ter",
+          "几本书 = quantos livros"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "这",
+    "traditional": "这",
+    "pinyin": "zhè",
+    "tone": 4,
+    "translation": "este / isto",
+    "radical": "辶",
+    "strokes": 7,
+    "level": "HSK 1",
+    "category": "Gramática",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "这 carrega o sentido de 'este / isto' e está categorizado em Gramática. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 这 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "这个 · zhè ge · este",
+      "这里 · zhè lǐ · aqui",
+      "这样 · zhè yàng · assim"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的书。",
+        "py": "Zhè shì wǒ de shū.",
+        "pt": "Este é o meu livro.",
+        "breakdown": [
+          "这 = este",
+          "是 = é",
+          "我的书 = meu livro"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "那",
+    "traditional": "那",
+    "pinyin": "nà",
+    "tone": 4,
+    "translation": "aquele / então",
+    "radical": "阝",
+    "strokes": 6,
+    "level": "HSK 1",
+    "category": "Gramática",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "那 carrega o sentido de 'aquele / então' e está categorizado em Gramática. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 那 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "那个 · nà ge · aquele",
+      "那里 · nà lǐ · ali",
+      "那么 · nà me · tão"
+    ],
+    "examples": [
+      {
+        "zh": "那是什么？",
+        "py": "Nà shì shénme?",
+        "pt": "O que é aquilo?",
+        "breakdown": [
+          "那 = aquilo",
+          "是什么 = é o quê"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "哪",
+    "traditional": "哪",
+    "pinyin": "nǎ",
+    "tone": 3,
+    "translation": "qual / onde",
+    "radical": "口",
+    "strokes": 9,
+    "level": "HSK 1",
+    "category": "Gramática",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "哪 carrega o sentido de 'qual / onde' e está categorizado em Gramática. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 哪 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "哪里 · nǎ lǐ · onde",
+      "哪个 · nǎ ge · qual",
+      "哪儿 · nǎr · onde"
+    ],
+    "examples": [
+      {
+        "zh": "你住在哪里？",
+        "py": "Nǐ zhù zài nǎlǐ?",
+        "pt": "Onde você mora?",
+        "breakdown": [
+          "你 = você",
+          "住在 = morar em",
+          "哪里 = onde"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "谁",
+    "traditional": "谁",
+    "pinyin": "shéi",
+    "tone": 2,
+    "translation": "quem",
+    "radical": "讠",
+    "strokes": 10,
+    "level": "HSK 1",
+    "category": "Gramática",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "谁 carrega o sentido de 'quem' e está categorizado em Gramática. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 谁 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "是谁 · shì shéi · quem é",
+      "谁的 · shéi de · de quem"
+    ],
+    "examples": [
+      {
+        "zh": "他是谁？",
+        "py": "Tā shì shéi?",
+        "pt": "Quem é ele?",
+        "breakdown": [
+          "他 = ele",
+          "是谁 = é quem"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "昨",
+    "traditional": "昨",
+    "pinyin": "zuó",
+    "tone": 2,
+    "translation": "ontem",
+    "radical": "日",
+    "strokes": 9,
+    "level": "HSK 1",
+    "category": "Tempo",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "昨 carrega o sentido de 'ontem' e está categorizado em Tempo. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "Decomponha 昨 em radicais: identifique os componentes antes de escrever.",
+      "Escreva radical por radical, respeitando a ordem oficial dos traços.",
+      "Após dominar o caractere isolado, pratique-o nas combinações abaixo."
+    ],
+    "combinations": [
+      "昨天 · zuó tiān · ontem",
+      "昨晚 · zuó wǎn · ontem à noite",
+      "昨日 · zuó rì · ontem (formal)"
+    ],
+    "examples": [
+      {
+        "zh": "昨天我去了北京。",
+        "py": "Zuótiān wǒ qù le Běijīng.",
+        "pt": "Ontem fui a Pequim.",
+        "breakdown": [
+          "昨天 = ontem",
+          "我 = eu",
+          "去了北京 = fui a Pequim"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "什",
+    "traditional": "什",
+    "pinyin": "shén",
+    "tone": 2,
+    "translation": "(em 什么 = o quê)",
+    "radical": "亻",
+    "strokes": 4,
+    "level": "HSK 1",
+    "category": "Gramática",
+    "tags": [],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "什 carrega o sentido de '(em 什么 = o quê)' e está categorizado em Gramática. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "什 tem 4 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "什么 · shén me · o quê",
+      "什么时候 · shén me shí hou · quando"
+    ],
+    "examples": [
+      {
+        "zh": "你在做什么？",
+        "py": "Nǐ zài zuò shénme?",
+        "pt": "O que você está fazendo?",
+        "breakdown": [
+          "你 = você",
+          "在做 = estar fazendo",
+          "什么 = o quê"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
+  },
+  {
+    "char": "么",
+    "traditional": "么",
+    "pinyin": "me",
+    "tone": 5,
+    "translation": "(partícula em 什么/那么)",
+    "radical": "丿",
+    "strokes": 3,
+    "level": "HSK 1",
+    "category": "Gramática",
+    "tags": [
+      "particula"
+    ],
+    "note": "Caractere fundamental do HSK 1, alta frequência no mandarim cotidiano.",
+    "evolution": "么 carrega o sentido de '(partícula em 什么/那么)' e está categorizado em Gramática. Aprofunde a etimologia em ciclos futuros — por enquanto, foque no uso em frases reais.",
+    "steps": [
+      "么 tem 3 traços — use isso a favor: pratique até a memória muscular fixar.",
+      "Comece pelo traço de cima para baixo, esquerda para direita.",
+      "Escreva 5 vezes em ritmo, sem olhar a referência."
+    ],
+    "combinations": [
+      "什么 · shén me · o quê",
+      "怎么 · zěn me · como",
+      "那么 · nà me · tão"
+    ],
+    "examples": [
+      {
+        "zh": "怎么走？",
+        "py": "Zěnme zǒu?",
+        "pt": "Como ir?",
+        "breakdown": [
+          "怎么 = como",
+          "走 = ir/caminhar"
+        ]
+      }
+    ],
+    "_relocated_from_hsk9": true,
+    "_steps_generated": true,
+    "_evolution_generated": true,
+    "_quality_score": 75
   }
 ]
